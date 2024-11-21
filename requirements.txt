@@ -1,1 +1,3 @@
-st_aggrid
+streamlit
+streamlit-aggrid
+pandas
