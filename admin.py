@@ -10,7 +10,7 @@ from googleapiclient.http import MediaIoBaseDownload
 from google.oauth2.service_account import Credentials
 
 service_account_info = json.loads(st.secrets["SERVICE_ACCOUNT_JSON"])
-
+google_api_key = st.secrets["GOOGLE_APIKEY"]
 
 # Authenticate using the service account JSON
 SCOPES = ['https://www.googleapis.com/auth/drive']
@@ -32,7 +32,7 @@ def display_street_view(latitude, longitude,heading,pitch):
     loading="lazy"
     allowfullscreen
     referrerpolicy="no-referrer-when-downgrade"
-    src="https://www.google.com/maps/embed/v1/streetview?key=AIzaSyB6uhhLjFn99Tkg1jYlfkelUZvgx_ZilG0&location={latitude},{longitude}&heading={heading}&pitch={pitch}&fov=80">
+    src="https://www.google.com/maps/embed/v1/streetview?key={google_api_key}&location={latitude},{longitude}&heading={heading}&pitch={pitch}&fov=80">
     </iframe>
     """
     st.components.v1.html(iframe_html, height=600)
