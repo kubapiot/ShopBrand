@@ -56,7 +56,7 @@ def get_images(siteid):
     return image_urls
 
 # Display site grid with AgGrid
-st.subheader("All Sites")
+
 with col1:
     site_grid = df[['SiteID', 'hasShop', 'shopBrand', 'accuracy', 'Tokens']].reset_index(drop=True)
 
