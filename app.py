@@ -265,7 +265,7 @@ if __name__ == "__main__":
                             Is there a convenience store at the site? 
                             If yes - what is the likely brand of the store (this may be different to the brand of the petrol station itself).
                             Pay attention to dates shown on photos. Use the brand name from recent photos over older photos.
-                            Return JSON only with the following fields: hasShop (boolean), shopBrand (string), accuracy (int).
+                            Return JSON only with the following fields: hasShop (boolean), shopBrand (string), accuracy (int),usedPhotoFileName, usedPhotoDate (date), isStreetViewPhoto (boolean)
                          """
     try:
         #image_urls = get_site_image_urls(siteid, server_url, images_folder)
