@@ -23,6 +23,20 @@ FOLDER_ID = '1dWsz0Er13-odiXI4OQ6N_Exqg0UVxTS3'
 
 # Query to get files in the specific folder
 
+def display_street_view(latitude, longitude,heading,pitch):
+    iframe_html = f"""
+    <iframe
+    width="600"
+    height="450"
+    style="border:0"
+    loading="lazy"
+    allowfullscreen
+    referrerpolicy="no-referrer-when-downgrade"
+    src="https://www.google.com/maps/embed/v1/streetview?key=AIzaSyB6uhhLjFn99Tkg1jYlfkelUZvgx_ZilG0&location={latitude},{longitude}&heading={heading}&pitch={pitch}&fov=80">
+    </iframe>
+    """
+    st.components.v1.html(iframe_html, height=600)
+
 
 st.set_page_config(layout="wide")
 # Create a Streamlit app
@@ -33,6 +47,7 @@ col1, col2 = st.columns(2)
 
 # Load the CSV data
 df = pd.read_csv('chatgpt_output.csv')
+df_sites = pd.read_csv('streetview_uk_updated.csv')
 
 # Define function to get image URLs based on SiteID
 def get_images(siteid):
@@ -103,6 +118,13 @@ if len(selected_rows) > 0:
 
     # Search for and display images matching the SiteID
     with col2:
+        st.subheader("Street View")
+        latitude = df_sites.loc[df_sites['siteid'] == int(site_id)]['latitude'].iloc[0]
+        longitude = df_sites.loc[df_sites['siteid'] == int(site_id)]['longitude'].iloc[0]
+        heading = df_sites.loc[df_sites['siteid'] == int(site_id)]['heading'].iloc[0]
+        pitch = df_sites.loc[df_sites['siteid'] == int(site_id)]['pitch'].iloc[0]
+        display_street_view(latitude, longitude,heading,pitch)
+
         st.subheader(f"Images for SiteID: {site_id}")
         image_urls = get_images(site_id)
 
