@@ -10,7 +10,7 @@ from googleapiclient.http import MediaIoBaseDownload
 from google.oauth2.service_account import Credentials
 
 service_account_info = json.loads(st.secrets["SERVICE_ACCOUNT_JSON"])
-google_api_key = st.secrets["GOOGLE_APIKEY"]
+google_api_key = st.secrets["GOOGLE_KEY"]
 
 # Authenticate using the service account JSON
 SCOPES = ['https://www.googleapis.com/auth/drive']
