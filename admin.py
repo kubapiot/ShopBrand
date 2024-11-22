@@ -23,6 +23,19 @@ FOLDER_ID = '1dWsz0Er13-odiXI4OQ6N_Exqg0UVxTS3'
 
 # Query to get files in the specific folder
 
+def display_street_view(latitude, longitude,heading,pitch):
+    iframe_html = f"""
+    <iframe
+    width="600"
+    height="450"
+    style="border:0"
+    loading="lazy"
+    allowfullscreen
+    referrerpolicy="no-referrer-when-downgrade"
+    src="https://www.google.com/maps/embed/v1/streetview?key={google_api_key}&location={latitude},{longitude}&heading={heading}&pitch={pitch}&fov=80">
+    </iframe>
+    """
+    st.components.v1.html(iframe_html, height=600)
 
 st.set_page_config(layout="wide")
 # Create a Streamlit app
