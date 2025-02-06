@@ -1,4 +1,4 @@
-SiteID,hasShop,shopBrand,accuracy,Tokens
+SiteID,hasShop,shopBrand,accuracy,Tokens,usedPhotoDate,usedPhotoFileName
 44000001,TRUE,Licensed Grocers,85,8784
 44000002,TRUE,SPAR,90,3428
 44000003,TRUE,SPAR,95,23318
@@ -366,3 +366,2087 @@ SiteID,hasShop,shopBrand,accuracy,Tokens
 44000219,True,Shell Select,95,11183
 44000142,True,Shell,85,7867
 44000439,False,,70,3445
+44004027,True,Costa,85,12314,2022-11,image5.jpg
+44010414,True,Costco,90,9499,2024-01,Costco Fuel Station (Members Only)
+44010415,True,Costco,90,9506,2024-03-01,Costco_Petrol_Station_Member_1.jpg
+44010412,True,Costco Wholesale,95,9500,2024-10-01,photo_3.png
+44005887,True,Sainsbury's,95,7684,2024-11,Sainsbury's Petrol Station
+44007675,True,Tesco Extra,90,4050,2024-06-01,image3.jpg
+44008951,True,SPAR,95,3141,2023-07-01,image1.jpg
+44003559,True,Shell Select,90,12316,2024-08-01,04.jpg
+44010081,True,Centra,85,1607,2022-07-01,image1.jpg
+44004751,True,Forest Food & Drinks Cabin,90,5868,2021-09-01,photo1.jpg
+44009261,True,Shop Local,90,9500,2024-08-01,street_view_2024.jpg
+44009443,True,Londis,90,3142,2024-07-01,image1.jpg
+44002382,True,M&S Simply Food,85,9495,2023-09,bp
+44001183,True,Sainsbury's,95,7684,2023-04-01,image3.jpg
+44003039,True,Londis,90,12319,2024-11-01,photo-1.jpg
+44002724,True,Tesco,90,9496,2023-05-01,photo.png
+44001125,False,,80,3138,2019-06-01,photo1.jpg
+44005633,True,SPAR,90,3139,2024-10,photo2.jpg
+44005448,True,ASDA Express,85,5864,2024-08,bp5.jpg
+44006365,True,Greggs,95,9499,2023-09,Esso - Sep 2023
+44009182,True,United,95,4049,2023-08-01,photo-1.jpg
+44003582,True,SPAR,90,7561,2024-08-01,bp_august_2024.jpg
+44001760,True,Jamie Oliver deli by Shell,90,9500,2023-07-01,image2.jpg
+44006339,True,Londis,90,5866,2024-02-01,image2.jpg
+44003068,True,Spar,85,1607,2021-11-01,image1.jpg
+44007867,True,TESCO,90,7680,2020-09,2nd_image.png
+44008953,True,Vivo,90,4049,2023-12-01,image3.jpg
+44008725,True,Costa,85,1324,2024-08-01,image1.jpg
+44008454,True,Waitrose,90,9502,2023-06-01,photo-streetview-2023.jpg
+44000587,True,Hursts,85,6773,2019-03-01,third_image.jpeg
+44004836,True,Nisa Local,90,3142,2024-09-01,photo1.jpg
+44001024,True,ASDA Express,90,6774,2024-01-01,image2.jpg
+44009763,True,ASDA Express,90,9501,2024-07-01,photo - Jul 2024
+44009547,True,Pace,85,9499,2024-08-01,237 Whipperley Ring
+44009884,True,Murco,80,4049,2024-07-01,photo1.jpg
+44010082,True,Circle K,90,1607,2023-06-01,image1.jpg
+44003204,True,Tesco,85,3143,2021-08,Image capture: Aug 2021
+44009649,True,,80,3139,2023-10-01,photo-1.jpg
+44005559,True,Welcome Break,90,5865,2024-10-01,second_image.jpg
+44002745,True,SHOP’N DRIVE,90,6774,2024-03,bp_image4.jpg
+44006951,True,Shop,85,9936,2020-11-01,Screenshot 2
+44006781,True,SPAR,90,4049,2022-04-01,photo2.jpg
+44010159,True,SPAR,100,8745,2024-09,image1.jpg
+44005458,True,SPAR,90,5861,2024-03,bp
+44003076,True,Tesco,90,6367,2022-05-01,photo1.jpg
+44009621,True,Texaco,85,3146,2024-11,Texaco_Haslington_service_station_night.jpg
+44004580,True,park&shop,90,1330,2024-07-01,texaco-park-and-shop.jpg
+44009628,True,Londis,90,9504,2023-05-01,street_view_may_2023.jpg
+44006117,True,Londis,90,7682,2024-09-01,3rd image
+44001130,True,SPAR,95,9495,2021-06,photo5.jpg
+44010575,False,,85,1322,2024-03-01,image1.jpg
+44006302,False,,100,7677,2023-04-01,3.jpg
+44008592,True,Costcutter,90,1326,2024-08-01,image1.jpg
+44010561,False,,90,4955,2022-06-01,2022_photo.jpg
+44009395,True,Stoke Row Store,90,9497,2024-10,image3.jpg
+44005817,True,Spar,85,3141,2022-07-01,photo1.jpg
+44003179,True,Cafe,100,9496,2023-04-01,bp_5
+44010291,True,Sainsbury's,90,9501,2023-06-01,photo_2023.png
+44005973,True,Londis,90,1328,2024-06-01,streetview_1.jpg
+44001484,True,SPAR,90,6775,2023-07,Street View - 4th Image
+44009798,True,SPAR,90,5865,2022-04-01,photo1.jpg
+44005914,True,Tesco,90,6773,2023-04-01,image5.jpg
+44003145,True,Gulf,85,3145,2024-08-01,Image capture: Aug 2024
+44003402,True,Tesco,80,4049,2022-12-01,image1.jpg
+44003099,True,Jewells Cross,80,4048,2024-08,image3.jpg
+44002292,True,Shell Select,90,9497,2024-11-01,image1.jpg
+44004138,True,Londis,90,7556,2022-10,image5.jpg
+44002799,True,Morrisons,90,1326,2021-04-01,photo1.jpg
+44007802,True,Sainsbury's,90,4960,2022-09,Sainsbury's Petrol Station
+44009592,True,Londis,90,9504,2024-07,169_Footscray_Rd_London_England
+44006011,True,Tesco Extra,90,9498,2024-07-01,photo2.jpg
+44005044,True,Costa,90,3140,2021-08-01,photo1.jpg
+44001979,True,EUROSPAR,85,9499,2022-04-01,photo6.jpg
+44005234,True,SPAR,95,12321,2023-06-01,Image capture: Jun 2023
+44002582,True,Select,90,9499,2024-04-01,finn_donohoe.jpg
+44006807,True,ASDA,80,4957,2023-07-01,photo1.jpg
+44005830,True,Londis,90,8586,2023-09,bp
+44004011,True,Londis,90,1602,2023-05-01,esso_petrol_station.jpg
+44004132,True,M&S Simply Food,90,3990,2023-10,photo_street_view_2
+44005834,True,Tesco,90,9498,2023-09-01,Tesco Petrol Station
+44008927,True,Husqvarna,85,9497,2024-05,image7.jpg
+44005796,True,Penny on the Move,95,3144,2024-09-01,image2.jpg
+44002244,True,Londis,95,9499,2024-07-01,photo_2.jpg
+44007425,True,,80,4046,2024-07-01,IMG_3
+44009183,True,Costcutter,95,6774,2022-07-01,image2.jpg
+44010037,True,Tesco,90,12317,2024-11-01,photo2.jpg
+44001588,True,Spar,90,4960,2022-09,2022_SEP_TotalEnergies.jpg
+44004135,True,Morrisons,95,3993,2024-05-01,street_view_may_2024.jpg
+44005186,False,,90,5859,2024-06,Image1
+44007879,True,Tesco Extra,95,5866,2023-06-01,photo5.jpg
+44005587,True,WHSmith,80,1325,2023-05-01,image1.jpg
+44001258,True,SPAR,95,3139,2023-06,image1.jpg
+44008248,True,Checkout Express,85,6777,2024-01-01,photo-jan-2024.jpg
+44008932,False,,85,1322,2022-08-01,photo1.jpg
+44006495,True,Greggs,85,9496,2023-06,photo_4.jpg
+44004292,True,,80,7674,2024-03,3
+44007002,False,,0,6352,,
+44001331,True,SPAR,100,5177,2024-04-01,photo1.jpg
+44007246,True,Londis,90,9498,2024-08-01,photo2.jpg
+44001243,True,SPAR,90,4047,2020-03,image1.jpg
+44003295,True,Costa Express,85,7677,2024-07,Bythesea_Rd_Trowbridge.jpg
+44010812,False,,100,1322,2024-05-01,image1.jpg
+44002561,True,Londis,90,5872,2024-03-01,Weyhill_Service_Station_5.jpg
+44001630,True,SPAR,95,9496,2024-06-01,3.jpg
+44007223,True,Londis,90,3142,2023-10-01,image1.jpg
+44009450,False,,90,5861,2023-09-01,5.jpg
+44008576,True,Beer Cellar,80,9501,2022-10-01,5 B3181 Street View
+44006465,True,Tesco,90,5863,2021-12,first_photo.jpg
+44007783,True,Londis,95,9498,2024-06-01,third-image.jpg
+44009682,True,Asda,90,4965,2024-09-01,asda_fuel_station_sept_2024.jpg
+44001167,True,Little Waitrose,80,9496,2023-03-01,Shell
+44007963,True,SPAR,90,8592,2023-08-01,Photo - Aug 2023
+44000918,True,TESCO,95,9501,2023-07-01,photo-2023-07.jpg
+44005397,True,Harvest Energy,80,1325,2024-07-01,photo1.jpg
+44003952,False,,75,3983,2022-05-01,2.jpg
+44005704,True,Spar,90,5867,2023-04,1 B6020 -3.jpg
+44007906,True,Morrisons Select,90,1329,2021-04-01,esso_convenience.jpg
+44007816,True,Costa Express,85,5866,2021-02-01,photo-2.jpg
+44007100,True,Greggs,90,1325,2023-03-01,Image1.jpg
+44006981,True,Shop,80,12314,2022-04,streetview.jpg
+44001080,True,SPAR,95,6774,2024-07-01,SPAR Hull Road
+44000690,True,Londis,95,2232,2024-08-01,bp
+44007807,True,Spar,85,1325,2024-08-01,photo1.jpg
+44008787,False,,90,5858,2021-04-01,
+44008210,True,Co-op,90,1316,2023-06-01,image.jpg
+44001576,True,Costa,80,4048,2017-09-01,photo2.jpg
+44002750,True,ASDA Express,95,9496,2024-05,photo5.jpg
+44002288,True,Londis,90,8588,2024-03,image5.jpg
+44002933,True,Lea Gate,90,4050,2024-09-01,photo4.jpg
+44003804,True,Costa,80,9496,2023-06-01,image6.jpg
+44006502,True,Spar,85,1323,2024-06,photo1.jpg
+44007166,True,Londis,90,9496,2022-05-01,bp
+44007830,True,Londis,90,9498,2023-04-01,streetview.jpg
+44008134,True,Tesco Express,95,9496,2020-02,photo1.jpg
+44008071,True,The Co-operative Food,85,9509,2024-06-01,image-capture-jun-2024-google-street-view.jpg
+44008775,True,Select & Save,90,6779,2023-01-01,Screenshot 2023-01-01
+44007553,True,The Cheese Shop,95,8748,2023-04-01,first_image.jpg
+44002390,True,KeyStore Express,90,1326,2019-07-01,photo1.jpg
+44007938,True,Nisa Local,95,8589,2024-07-01,image5
+44007144,True,Londis,90,1324,2023-05,image1.jpg
+44001323,True,best-one,90,1607,2023-06-01,image1.jpg
+44007456,True,Morrisons,85,6368,2023-07-01,image3.jpg
+44007743,True,Sainsbury's,90,9506,2024-06-01,Sainsbury's_Petrol_Station.jpg
+44002427,True,Spar,90,9495,2024-05,image1.jpg
+44009604,True,Shell SELECT,95,9501,2023-09-01,Image capture: Sep 2023
+44008425,True,Spar,90,9495,2024-11-01,Shell
+44008461,True,SPAR,90,4957,2022-04-01,photo2.jpg
+44003984,True,deli by Shell,85,12322,2020-10,oct_2020_photo_2.jpg
+44010273,True,SPAR,90,3141,2022-04-01,photo3.jpg
+44004625,True,Shop,80,4047,2023-07,284 Heathwood Rd
+44005652,False,,80,1322,2023-09-01,photo1.jpg
+44005711,True,Tesco,95,4957,2023-04-01,image4.jpg
+44002606,False,,90,1322,2022-12-01,image1.jpg
+44006812,True,Greggs,90,1321,2023-06,unknown
+44002574,True,TESCO,90,4049,2023-09-01,image2.jpg
+44009701,True,ASDA,90,9504,2022-09-01,street_view_asda_sept_2022.jpg
+44007533,False,,0,12303,,
+44006613,True,DOWOZI,85,9499,2024-07-01,image2.jpg
+44009912,True,Sainsbury's,90,9501,2017-01,photo-jan-2017.jpg
+44006686,True,Costcutter,90,6775,2020-03-01,image_2.jpg
+44009012,True,Premier,80,9496,2021-07-01,photo_x.jpg
+44002761,True,Londis,90,1326,2024-10-01,photo1.jpg
+44001408,True,Tesco Express,97,5864,2024-06,photo2.jpg
+44005640,True,Londis,90,1326,2023-07-01,photo1.jpg
+44009910,True,Sainsbury's,90,5869,2024-01,Image capture: Jan 2024
+44003955,True,Spar,85,6367,2024-06-01,photo1.jpg
+44003879,True,M&S Simply Food,95,7689,2024-06-01,kirk_tree_jun_2024.jpg
+44009031,False,,80,4958,2024-08-01,Street View Image August 2024
+44007182,True,Sainsbury's,95,9499,2022-11-01,image1.jpg
+44002285,True,Londis,90,6774,2023-03-01,photo2.jpg
+44004538,True,Londis,95,8591,2024-05-01,3rd_image.jpg
+44007145,True,Nisa Local,100,8590,2023-05,Street View Image 1
+44002231,True,Shell SELECT,80,9497,2018-07-01,image5.jpg
+44006880,True,Londis,95,8590,2024-07-01,image1.jpg
+44001578,True,Tesco Express,95,5866,2024-05-01,photo1.jpg
+44010192,True,Asda,90,3986,2022-10-01,second photo
+44005996,True,TESCO,95,8593,2024-08-01,Street View from August 2024
+44003166,True,Costa,90,4048,2024-07-01,image1.jpg
+44010590,False,,90,3136,2022-04-01,1
+44002323,True,SELECT,90,9496,2023-08-01,image3.jpg
+44007103,True,Premier,85,8589,2010-07-01,photo_3.jpg
+44008259,True,Spar,85,5865,2023-04,esso_image_6.jpg
+44010215,True,ASDA,90,9496,2024-02,Asda Petrol Station
+44009881,True,Murco,90,1325,2023-09-01,photo1.jpg
+44010360,True,Starbucks,90,5863,2024-02,Image3.jpg
+44006323,True,Tesco Express,90,5868,2022-03-01,tesco_express.jpg
+44007897,True,ASDA Express,90,9499,2024-05-01,photo-6.jpg
+44009072,True,Houghtons Garden & Pet Supplies,80,5868,2022-09,photo1.jpg
+44002595,True,Shell Select,85,7679,2024-07,photo1.jpg
+44002762,True,Morrisons Daily,90,9497,2024-08,third_photo.jpg
+44002051,True,SPAR,95,9497,2021-07-01,photo4.jpg
+44004648,True,Night Pay,85,9495,2024-06,second_photo.jpeg
+44005978,True,Londis,90,9496,2024-07-01,bp
+44002992,True,Londis,90,5866,2020-11-01,photo3.jpg
+44003189,True,Morrisons,95,4958,2023-03,graham_uk_photo
+44010794,True,JC Tulloch,95,9496,2023-10,img4.jpg
+44009641,True,SPAR,95,1326,2024-07-01,streetview1.jpg
+44010906,True,EVF,90,9499,2019-06,Ellan Vannin Fuels Ltd
+44009710,True,Asda,95,7679,2022-09,photo3.jpg
+44002827,True,Tesco,95,9499,2023-04-01,photo4.jpg
+44005218,True,SPAR,85,3987,2023-08-01,photo2.jpg
+44003591,True,Shell Select,85,12321,2022-05-01,Shell_2022-05.jpg
+44009872,True,Express,90,7680,2024-03-01,5 High St
+44007447,True,Morrisons,90,9938,2024-10-01,photo5.png
+44009307,True,SHOP LOCAL,90,5866,2024-06-01,photo_1.jpg
+44001418,True,Londis,90,5865,2023-10-01,6.jpg
+44003283,True,Sainsbury's,90,9501,2022-02-01,photo_2022.jpg
+44008168,True,Ridings,80,9496,2023-11,photo-4.jpg
+44006932,True,Co-op,90,5183,2024-05,Street View - 21 Seedley Rd - Salford
+44001775,True,Spar,90,7682,2023-06-01,590 Retford Rd
+44010123,True,Morrisons,95,7558,2023-11-01,image5.jpg
+44003803,True,Morrisons,85,3142,2022-08-01,photo1.jpg
+44004974,True,SPAR,95,4958,2024-05-01,photo-2.jpg
+44011034,True,M&S Food,90,9496,2024-04-01,bp
+44000890,True,Londis,90,8588,2024-03,image1.jpg
+44008891,True,SPAR,90,4958,2021-01-01,photo-2.jpg
+44007161,True,UK Fuels,80,3143,2023-04-01,photo-2.jpg
+44001442,True,EUROSPAR,90,3143,2023-05-01,image1.jpg
+44000914,True,Londis,90,9499,2023-07-01,photo_6.jpg
+44005539,True,Wild Bean Cafe,90,9494,2022-06,bp
+44002676,True,Cotswold Service Station,80,4054,2022-10,Photo - Oct 2022
+44006901,True,Spar,80,5865,2024-01-01,photo3.jpg
+44001369,True,Londis,95,3992,2024-09-01,Esso_StreetView1.jpg
+44009878,True,Murco,85,4957,2024-08-01,image2.jpg
+44010806,True,Armadale Stores,85,1326,2021-12,street-view-photo.jpg
+44005100,True,Sainsbury's,90,5873,2024-06-01,Sainsbury's Petrol Station 1.jpg
+44003923,False,,70,1326,2023-04-01,street_view_apr2023.jpg
+44006985,True,SHOP'N DRIVE,90,12323,2023-06-01,bp_street_view_2023.png
+44010040,True,TESCO,80,5177,2023-04-01,Image 3
+44001950,True,Londis,90,9494,2024-08,bp
+44004763,True,ASDA,95,9497,2023-04-01,Street View Image
+44005250,True,Premier,85,8742,2023-09,bp
+44008523,True,Co-op,90,9502,2024-06-01,image5.jpg
+44002494,True,Londis,90,6774,2023-08-01,image5.jpg
+44004818,True,Hollinwood Service Station,80,9501,2023-12-01,image1.jpg
+44003346,True,Londis,95,3142,2024-07-01,image2.jpg
+44007701,True,Tesco Express,95,6776,2023-08-01,Tesco Express Petrol Station
+44007618,True,Spar,90,9498,2022-08-01,photo-6.jpg
+44001792,True,Asda,85,6771,2024-07,Image 1
+44001985,True,Mace,90,1325,2021-10-01,photo1.jpg
+44001856,True,SPAR,90,4949,2024-06-01,bp_four.jpg
+44005766,True,SPAR,90,1334,2022-06-01,58_Mansfield_Rd_Hasland_England.jpg
+44006154,True,LEON,80,8587,2024-11,photo1.jpg
+44001389,True,Tesco Express,100,4052,2023-10,Image capture: Oct 2023
+44006799,True,Spar,85,1324,2023-03-01,bp.jpg
+44010223,True,Truck Stop,90,9498,2023-06,AS 24_1.jpg
+44007931,True,Premier express,95,6772,2023-03,photo_3.jpg
+44009041,True,ESS,90,9494,2023-05-01,2
+44001702,True,Costa Express,90,9497,2021-07-01,photo2.jpg
+44001888,True,Londis,95,9496,2024-05,Screenshot 4
+44005780,False,,80,7686,2024-06,ASDA_Petrol_Station_Jun_2024.jpg
+44001471,True,Tesco,90,4961,2023-04-01,Texaco-April2023.jpg
+44004082,True,ASDA On the Move,90,7558,2023-03,photo5.jpg
+44004810,True,Londis,95,6770,2024-03,bp
+44001744,True,Londis,90,4056,2024-05-01,photo1.jpg
+44004993,True,Londis,95,9500,2022-03-01,bp-2022.png
+44009372,True,Spar,90,9496,2022-04-01,2.jpg
+44005346,True,Budgens,90,8749,2022-10-01,street_view_5.jpg
+44010758,False,,80,1322,2024-07-01,image1.jpg
+44009874,True,lifestyle express,95,4050,2023-09-01,image1.jpg
+44007006,True,Sainsbury's,95,6367,2024-04,photo2.jpg
+44002317,True,Budgens,90,9495,2021-09,third_image.jpeg
+44008256,True,ASDA Express,95,9495,2024-04,Texaco
+44010726,False,,90,3135,2019-08,mes Watt
+44004826,True,Shell,85,9500,2022-06-01,Street View - Jun 2022
+44004782,True,Morrisons Daily,90,1327,2024-06-01,photo1.jpg
+44003513,True,Co-op,90,6368,2023-08-01,photo-2.jpg
+44001838,True,Shop 'n Drive,90,6775,2023-03-01,image1.jpg
+44001158,True,ASDA Express,95,2234,2024-06-01,photo1.jpg
+44006255,True,The Co-operative,95,7688,2022-07-01,Central Co-op Food & Petrol - Nottingham.jpg
+44000931,True,Shell,95,5869,2023-08-01,photo_2023_street_view.jpg
+44008687,True,Vivo Essentials,95,1326,2022-09-01,attachment1.jpg
+44004833,True,Roman Camp Service Station,90,3142,2023-09,photo-1.jpg
+44003342,True,Londis,95,9499,2022-11,Street View Nov 2022
+44001283,True,ASDA,90,12317,2024-06-01,image3.jpg
+44007956,True,Morrisons Daily,90,9497,2022-03,photo2.jpg
+44003534,True,Londis,95,12316,2024-08,first_image.jpg
+44005622,True,Cranbrook Service Station,95,3144,2024-09-01,photo2.jpg
+44009083,False,,80,3146,2024-07-01,21_High_St_Jul_2024.jpg
+44008764,False,,80,7677,2023-06,7 B1394
+44008195,True,Sainsbury's,90,9499,2023-06-01,Image2.jpg
+44009837,True,SPAR,95,9497,2023-04-01,image8.jpg
+44009700,True,Asda,95,9498,2023-12-01,photo-3.jpg
+44003717,True,SPAR,80,3141,2018-09-01,Image1.jpg
+44005508,True,Londis,95,1324,2023-09,image1.jpg
+44006091,True,Tesco Express,95,4050,2023-05-01,image1.jpg
+44008985,True,Londis,90,9498,2023-11-01,image1.jpg
+44005511,True,Mace,90,7681,2023-03-01,Lynn Rd
+44007787,False,,85,4954,2021-10-01,photo1.jpg
+44007655,True,Sainsbury's,90,9500,2020-04-01,image2.jpg
+44002260,True,Greggs,95,9497,2022-09-01,image5.jpg
+44010029,True,TESCO,90,3991,2022-09-01,google_street_view_2.jpg
+44008770,True,Spar,85,1325,2023-06-01,image1.jpg
+44005663,True,VapeHive,75,9503,2019-03-01,texaco_vape_2019.jpg
+44006151,True,Costa,80,4957,2023-09-01,110 Newtown Rd
+44005348,True,Costa Express,85,1607,2023-04-01,photo1.jpg
+44009575,True,SHOP 'n DRIVE,90,7683,2024-04-01,image4.jpg
+44001832,True,Costa Express,90,4050,2024-09-01,image1.jpg
+44006130,True,Londis,90,9498,2023-05-01,photo3.jpg
+44002929,True,Londis,90,1324,2024-08,photo1.jpg
+44001785,True,Costcutter,90,9496,2024-03,Image 1
+44006729,True,Tesco,90,8599,2023-11-01,tesco-petrol-station-nov-2023.jpg
+44007925,True,Londis,85,5866,2023-06-01,image1.jpg
+44003912,True,Nisa Local,95,4958,2023-03-01,Image 4
+44002713,True,Tesco Extra,90,7682,2023-05-01,photo2.jpg
+44003871,True,Premier,85,1324,2024-07-01,image1.jpg
+44010955,True,ASDA Express,90,9496,2024-06-01,Shell
+44001387,False,,70,1320,2024-05,image1.jpg
+44001312,True,Sewell On The Go,90,3991,2019-09-01,second_photo.jpg
+44001652,True,Premier,85,4964,2023-03-01,Texaco_Service_Station_Mar_2023.jpg
+44005229,True,Subway,80,12327,2019-07-01,Bootle_England_Street_View_Jul_2019.jpg
+44000607,True,Costa Express,85,9506,2023-04-01,Image_Petrol_Station_Apr_2023.jpg
+44005631,True,T.A. Stanegate Country Stores,80,9503,2024-01-01,photo4.jpg
+44007803,True,Spar,90,9495,2024-02,image4.jpg
+44004314,True,M&S Food,90,6776,2023-10,photo-2023-10.jpg
+44005209,True,Synergy,80,12315,2024-08,last_image.jpg
+44003181,True,deli2go,95,9499,2023-05-01,image1.jpg
+44008630,False,,80,1320,2021-12,photo1.jpg
+44002926,True,Spar,85,3141,2021-09-01,image2.jpg
+44003312,True,Morrisons,90,1326,2015-10-01,image1.jpg
+44001624,True,Tesco Express,95,9499,2024-11-01,photo_1.jpg
+44007685,True,Londis,90,6777,2023-08,radcliffe-aug-2023.jpg
+44010880,True,Costcutter,95,6774,2023-05-01,image5.jpg
+44010196,True,ASDA,85,5177,2024-07-01,image1.jpg
+44002653,False,,80,5862,2023-06-01,image2.jpg
+44005091,True,Londis,90,1331,2022-05-01,street_view_may_2022.jpg
+44007408,True,SPAR,85,9498,2024-09-01,shell_5.jpg
+44010076,True,Nisa,90,1323,2023-03,image1.jpg
+44010847,True,Budgens,90,9502,2022-09-01,Ashley Lightfoot - Sep 2022
+44007411,True,Londis,95,8590,2023-09-01,photo3.jpg
+44005447,True,ASDA,95,9497,2024-01-01,photo7.jpg
+44007229,True,Nisa Local,90,5866,2024-04-01,57 Station Rd
+44003795,True,Londis,85,1326,2024-06-01,image1.jpg
+44010194,True,ASDA,95,12318,2022-05-01,photo_7.jpg
+44002325,True,Select,100,9500,2021-11-01,photo_nov_2021.jpg
+44009867,True,Morrisons,85,3142,2021-12-01,image1.jpg
+44004346,True,The Co-operative Food,90,9942,2023-03,StreetView_2023_03.jpg
+44004039,True,Tesco Express,90,5176,2020-08,image2.jpg
+44002627,True,Londis,95,3150,2024-09,1_A20_Maidstone_England_Google_Street_View
+44010201,True,ASDA,95,12321,2020-12-01,Asda Sheffield Manor Top Supermarket
+44010126,True,SPAR,90,12317,2024-11-01,image3.jpg
+44006904,True,Londis,90,6774,2024-03-01,image4.jpg
+44004559,True,TESCO,90,4049,2024-05-01,Bart Labno
+44010664,True,Nisa Local,90,1330,2021-11-01,pomeroy-streetview.jpg
+44000800,True,Morrisons,85,5865,2021-10,photo-4.jpg
+44010244,True,Costa Express,90,7680,2024-05,photo_2.jpg
+44006445,True,Starbucks,90,8589,2024-06-01,photo1.jpg
+44002170,True,Shell Select,90,9495,2024-02,screen8.jpg
+44003777,False,,50,3140,2021-09,"Street View - Maryport, England"
+44005135,True,Londis,90,9499,2024-09,2024_street_view.jpg
+44007127,True,Morrisons Daily,95,9499,2024-09-01,finalimage.jpeg
+44001919,True,Sainsbury's,85,9500,2024-01-01,photo-1.jpg
+44007639,False,,90,7678,2023-09-01,A388 England
+44008439,True,Local,80,1322,2023-03,image1.jpg
+44003690,True,Morrisons Daily,95,9500,2024-11-01,photo_3.jpg
+44002923,True,SPAR,95,4047,2024-06,photo1.jpg
+44009216,False,,90,3138,2024-05-01,image1.jpg
+44008896,True,,70,3139,2022-10-01,IMG_2.png
+44000957,True,Stiles,90,3141,2024-08-01,photo1.jpg
+44003604,True,Spar,80,9497,2020-09-01,photo1.jpg
+44002167,True,EG,90,6772,2021-06-01,image5.jpg
+44008483,True,Asda,90,5863,2024-09,photo5.jpg
+44006778,True,Sainsbury's,95,9502,2023-05-01,Sainsbury's Petrol Station
+44005019,True,Select,90,9502,2024-02-01,Shell - Ruby & Jayde 4ever
+44008474,True,Asda,90,9505,2022-05-01,asda_petro_station_bangor_5.jpg
+44001794,True,Co-op,90,9497,2018-08-01,photo1.jpg
+44001523,True,Applegreen,80,6774,2023-08-01,img2.jpg
+44010305,True,Londis,90,4958,2024-10,bp_photo_oct2024
+44002330,True,Little Steps,95,4957,2024-08-01,image1.jpg
+44005426,True,Londis,90,6368,2023-06-01,4th image
+44005438,True,Spar,90,7558,2023-09,OasisServicesLtd_a.jpg
+44003389,True,Costa Express,90,8589,2022-12-01,photo2.jpg
+44005553,True,SPAR,90,9499,2023-09,bp_photo_sep_2023.jpg
+44002321,True,SPAR,85,9494,2018-10,spar.jpg
+44010545,True,Biggerstaffs,80,1327,2021-05-01,image1.jpg
+44003500,True,Londis,95,9504,2020-11-01,Esso-AlexMarks-Nov2020.jpg
+44008850,True,Shop,90,4048,2022-08-01,photo2.jpg
+44004069,True,Londis,95,5176,2023-04,photo1.jpg
+44002352,True,SPAR,95,1325,2023-05-01,photo1.jpg
+44001900,True,Londis,95,3141,2024-06-01,Esso
+44006544,True,Londis,90,5866,2021-07-01,Attachment1.jpg
+44006650,True,SPAR,95,1325,2023-03-01,image1.jpg
+44006483,True,Londis,90,1326,2024-07-01,image1.jpg
+44003747,True,SELECT,90,12316,2023-10-01,image3.jpg
+44009185,True,SPAR,85,3145,2022-04,third_image.jpg
+44004110,True,Morrisons Daily,95,12319,2023-05-01,photo_8
+44008095,True,Sainsbury's,90,9502,2024-10-01,Sainsbury's Petrol Station
+44004248,True,The Co-operative Food,95,8748,2024-06,Image_1.jpg
+44005779,True,Shell Select,95,6775,2023-10-01,Street View & 360
+44002568,True,Sainsbury's,95,4051,2021-05-01,third-image.jpg
+44002385,True,Greggs,95,1325,2023-05-01,image1.jpg
+44001570,True,Russell's,95,8591,2019-04-01,IMG_1.jpg
+44002313,True,M&S Food,95,9494,2024-10,bp
+44009427,True,Thames,90,4051,2024-08,Mauchline Service Station Street View
+44006788,True,Londis,95,1326,2024-07-01,image1.jpg
+44009392,True,Gulf Shop,90,1324,2023-09-01,unknown
+44005075,True,M&S,90,9497,2023-06-01,Image6.jpeg
+44006552,True,nearby,90,4967,2024-05-01,Parkview Service Station - Andrew Glover - May 2024
+44008518,False,,80,9494,2023-03-01,image5.jpg
+44009805,True,SPAR,90,2233,2023-05-01,image1.jpg
+44006045,True,SPAR,90,7684,2022-11-01,Photo - Nov 2022
+44007424,True,SHOP N DRIVE,95,9502,2022-08-01,photo_2022_08.jpg
+44004883,True,Londis,90,9498,2021-08-01,image6.jpg
+44005074,True,Sainsbury's Local,95,9500,2024-02-01,image2.jpg
+44006349,True,Keystore,90,9494,2023-01,Image capture
+44005225,True,Sainsbury's,85,1607,2023-08-01,unknown
+44006075,True,St Davids Service Station,85,4960,2022-10-01,photo1.jpg
+44009765,True,Synergy,90,3144,2023-04,street_view_apr_2023.jpg
+44006999,True,Greggs,95,7547,2024-05,Image 5
+44006150,False,,70,3138,2022-09-01,image1.jpg
+44009829,True,EUROSPAR,90,1327,2016-05-01,photo1.jpg
+44007350,True,ASDA On the Move,90,9497,2023-04,4.jpg
+44004793,True,Welcome Break,90,6771,2023-09,image4.jpg
+44004330,True,Subway,90,5865,2024-11-01,photo1.jpg
+44008220,True,Londis,85,4048,2024-03,image3.jpg
+44005924,True,M&S Food,90,9499,2023-04-01,bp_5.jpg
+44010819,True,Waterloo Service Station,85,1325,2022-10-01,unknown
+44010166,True,Westridge,80,3988,2024-08-02,photo3.jpg
+44007819,True,Premier,90,5865,2023-06-01,IMAGE_1.JPG
+44006876,True,Shell Select,85,6780,2024-09-01,google_street_view_2024_09.jpg
+44005163,True,Asda,85,1327,2024-05-01,asda_petrol.jpg
+44001765,True,East of England Co-op,95,7684,2023-12-01,photo4.jpg
+44008012,True,TESCO,90,4958,2020-11-01,photo-2.jpg
+44002546,True,SPAR,90,8587,2023-08,image1.png
+44002090,True,SPAR,85,4049,2021-04-01,photo2.jpg
+44008898,True,SPAR,90,1329,2023-04-01,SPAR_Stranocum.jpg
+44010690,False,,80,1322,2021-12-01,photo1.jpg
+44002447,True,ASDA Express,90,5864,2024-03,image3.jpg
+44010023,True,Tesco Extra,90,12322,2022-04-01,Tesco Petrol Station 3
+44005799,True,Londis,85,7682,2024-05-01,photo5.jpg
+44008580,False,,90,1322,2024-06-01,photo1.jpg
+44008436,True,Stanleys,85,1326,2023-07,texaco_banbridge.jpg
+44007065,True,Londis,90,9496,2022-04,198 South St
+44000839,True,Londis,95,9498,2023-09-01,Image 5
+44005203,True,Premier Express,95,6775,2023-03,bp_2023_03.jpg
+44010656,True,McColl's,85,3141,2021-05,photo_2.jpg
+44004351,True,Budgens,90,9495,2023-11,photo_8
+44007707,True,Hello,90,9494,2022-06,photo2.jpg
+44007499,False,,80,5172,2024-02,photo3.jpg
+44002984,True,Welcome Break,90,9497,2020-07-01,image7.jpg
+44003721,True,,70,4952,2023-12,Image 2
+44004055,True,Londis,95,1608,2023-04-01,image1.jpg
+44002324,True,Snacks To Go,85,5865,2023-07,photo4.jpg
+44002675,True,Shell SELECT,90,9495,2022-07,photo5.jpg
+44005795,True,Londis,90,5866,2023-09-01,Image 5
+44010220,True,,90,5861,2024-08-01,Street View
+44009288,True,Murco,90,1323,2023-05,image1.jpg
+44005793,True,SPAR,90,3141,2023-04-01,image3.jpg
+44008722,False,,90,3136,2024-04,image1.jpg
+44002185,True,Budgens,85,5866,2021-04-01,photo_1.jpg
+44002318,True,SPAR,90,9497,2023-08-01,photo5.jpg
+44001474,True,Londis,95,9499,2023-07-01,photo-3.jpg
+44000995,True,Morrisons Daily,80,4049,2024-09,image1.jpg
+44009918,True,Sainsbury's,90,9499,2024-08-01,img4.jpg
+44002405,True,Caffi Cafe Shop,90,3144,2021-06-01,photo2.jpg
+44002876,True,Cracknell's of Thurston,90,1330,2023-07-01,photo1.jpg
+44003616,True,Wild Bean Café,85,9498,2020-02-01,image3.jpg
+44010102,True,GO,85,11128,2024-02-01,uploaded-image-6.jpg
+44004612,True,SPAR,95,4956,2022-08-01,3.jpg
+44000636,True,Londis,90,8592,2023-09,shell-sep-2023.jpg
+44009725,False,,70,5862,2023-04-01,photo1.jpg
+44008355,True,Costa Express,90,9495,2024-11,image3.jpg
+44006922,True,SPAR,95,4049,2023-04-01,image1.jpg
+44006533,True,Londis,95,1326,2023-08-01,photo1.jpg
+44007302,False,,0,1314,,NA
+44009147,True,SPAR,90,7678,2023-04,3.jpg
+44005120,True,Morrisons Daily,90,5871,2024-11,morrisons_petrol_station_1.jpg
+44006149,True,Border Garage,85,9500,2024-04-01,street_view_2024.jpg
+44002656,False,,85,4051,2023-09-01,street_view_sept_2023.jpg
+44002150,True,Centra,95,1331,2023-03,Maxol_Service_Station_Mar_2023.jpg
+44009225,True,,70,9492,2024-06,photo3.jpg
+44008142,False,,90,4955,2023-09,Photo - Sep 2023
+44001989,True,Londis,95,9498,2022-11-01,image4.jpg
+44004265,False,,70,3984,2021-09-01,photo3.jpg
+44005581,True,Moto,90,9492,2022-03,bp
+44010578,True,Lamerton Stores,85,1325,2024,Lamerton_Stores_Map.png
+44000742,True,Spar,85,5866,2024-11-01,Texaco Ashita
+44003806,True,Tesco Express,95,7681,2023-07-01,5.jpg
+44003144,True,Morrisons,85,9499,2024-09-01,image4.jpg
+44008960,False,,80,9504,2021-05-01,bailrigg_motors_may_2021.jpg
+44006971,True,Londis,90,5866,2023-05-01,photo2.jpg
+44005431,True,Morrisons,90,6368,2024-05-01,image2.jpg
+44009054,True,Shop,80,9498,2024-02,photo_2024_02.jpg
+44009888,True,SPAR,90,3142,2023-03-01,street_view1.jpg
+44001219,True,SPAR,90,9497,2021-06-01,image2.jpg
+44002200,True,Londis,85,9497,2024-06,photo-2.jpg
+44008937,True,Caseys,90,1325,2021-09-01,image1.jpg
+44001170,True,Londis,95,9501,2024-02,shell photo - Feb 2024.jpeg
+44001551,True,Shop'n Drive,95,7694,2024-07-01,streetview_esso_july2024.jpg
+44008873,True,Londis,90,1326,2024-10-01,image1.jpg
+44007158,True,SPAR,90,5866,2024-03,bp_google_street_view.jpg
+44002444,True,SPAR,85,6778,2023-05-01,street_view_may_2023.jpg
+44003874,False,,50,4045,2021-06-01,bp.jpg
+44010562,True,SPAR,90,1325,2023-06-01,image1.jpg
+44004037,True,SPAR,90,7557,2023-08-01,photo3.jpg
+44005858,False,,70,7681,2024-03,photo-2024-03.jpg
+44007813,True,Tesco Express,95,9498,2024-07-01,image1.jpg
+44005980,True,M&S Simply Food,90,7679,2022-09,bp
+44006734,True,ASDA,95,9497,2024-08-01,image5.jpg
+44006223,True,Costa,85,3140,2023-06-01,photo1.jpg
+44006492,False,,70,4044,2021-05,second_photo.jpg
+44005421,True,Morrisons Daily,95,11135,2023-06-01,streetview_esso_jun2023.jpg
+44004297,True,Londis,90,9498,2023-06,Shell - convenience store.jpg
+44001231,True,SPAR,95,4955,2023-03,308 A20
+44006048,True,Londis,90,6774,2024-07-01,5_new.png
+44006319,True,Londis,95,5863,2024-08,Texaco
+44007498,True,TESCO,90,7555,2024-08,first_image.jpg
+44001269,True,SPAR,85,9493,2023-06-01,street_view_photo_2023.jpg
+44006725,False,,75,3138,2021-05-01,first_image.jpg
+44009442,True,Keystore Express,90,9496,2022-07,photo1.jpg
+44010060,True,best-one,90,5175,2023-05,first_image.jpg
+44009994,True,Tesco,90,9495,2024-08,photo2.jpg
+44002307,True,JET essentials,85,8601,2022-09-01,JET_Petrol_Station_and_Convenience_Store_5.jpg
+44007933,True,Londis,90,9496,2024-08-01,bp
+44004012,True,Tesco Extra,90,5183,2023-09,"Street View - Cardiff, Wales - Google Maps.jpg"
+44003246,True,Park&shop,90,9498,2024-03-01,image4.jpg
+44008782,True,Today's,90,9494,2019-06,photo2.jpg
+44010397,True,Centra,90,4049,2023-06-01,image2.jpg
+44007989,True,Budgens,85,9497,2024-07-01,image6.jpg
+44010056,True,Farmshop,80,12318,2019-03-01,photo_2019
+44006806,False,,0,1322,2021-11-01,image1.jpg
+44011058,True,ASDA,95,7681,2023-03-01,image7.jpg
+44009930,False,,70,3128,2022-05,image1.jpg
+44007202,False,,80,5871,2023-06-01,StreetView_4StakefordLn_Jun2023.jpg
+44010558,True,Onroute,90,9497,2024-09-01,photo4.jpg
+44005405,True,best-one,90,9497,2024-07-01,third_image.jpg
+44010889,True,Weardale,90,8591,2023-08-01,image_6.jpg
+44010691,True,Bettyhill General Merchants,85,9511,2023-03-01,Bettyhill_General_Merchants_Mar_2023
+44009996,True,Tesco,90,5871,2024-07,tesco_petrol_street_view_2024.jpg
+44005787,True,Welcome,90,4049,2023-11-01,photo_002.jpg
+44004434,True,Londis,95,4050,2022-07-01,second_image.jpg
+44003677,True,Londis,90,9502,2022-07-01,last_photo_your_own_title
+44010595,True,R L Auto Services,85,3143,2024-04-01,photo1.jpg
+44005433,True,Asda On the Move,95,12320,2024-04-01,image3.jpg
+44007556,True,Sainsbury's,95,12325,2024-11-01,sainsbury_petrol_station_2.jpg
+44010034,True,Tesco,95,5177,2021-10-01,photo3.jpg
+44009306,True,Londis,95,9498,2023-09,photo_2023.jpg
+44008167,True,Select,90,9496,2023-09-01,photo3.jpg
+44007948,True,M&S Simply Food,90,7686,2024-08-01,Photo - Aug 2024
+44010903,True,,70,1322,2010-08-01,photo1.jpg
+44009221,True,Spar,90,3141,2024-09-01,image1.jpg
+44005324,True,Londis,90,6368,2024-09-01,image1.jpg
+44005697,True,Gulf,80,6773,2024-09-01,image3.jpg
+44004335,False,,50,3982,2022-11,image1.jpg
+44004267,True,GROCERIES,80,8749,2023-07-01,photo4.jpg
+44008237,True,Welcome,90,6778,2021-03-01,texaco_welcome_mar_2021.jpg
+44002159,True,Londis,90,3140,2024-07,photo1.jpg
+44005474,True,M&S Simply Food,90,6778,2024-08-01,bp_station_2024.jpg
+44006419,True,Londis,85,9499,2024-08-01,Image number 2
+44009460,True,SMITHS,90,5866,2023-10-01,photo1.jpg
+44001454,True,Costcutter,90,3139,2023-05,second_image
+44005618,True,Tesco Extra,100,8593,2023-07-01,tesco_petrol_station.jpg
+44004665,True,M&S Food,95,9498,2023-06-01,image3.jpg
+44005043,True,TESCO,85,4049,2024-06-01,second_photo.jpg
+44009556,True,Costa,80,7682,2023-09-01,bp_sep2023.jpg
+44006389,True,Tesco,95,4957,2022-04-01,image2.jpg
+44003715,True,Morrisons,95,7682,2021-07-01,image3.jpg
+44007780,True,Premier,90,4048,2022-12-01,image1.jpg
+44000534,True,Tesco,90,9497,2024-06-01,photo_12.jpg
+44002725,True,Sainsbury's,90,3143,2024-09-01,img1.jpg
+44009901,False,,80,9496,2020-11,Mr Tyre - Newcastle under Lyme
+44003234,True,The Co-operative Food,90,9499,2018-12-01,photo1.jpg
+44007416,True,Mace,90,8589,2023-04-01,image5.jpg
+44006869,True,Select,90,7682,2024-09-01,Street View & 360
+44009596,True,Sainsbury's,95,9499,2024-07-01,image2.jpg
+44008112,False,,85,4954,2024-08-01,image2.jpeg
+44005017,True,Tesco,85,5865,2022-10-01,photo2.jpg
+44005408,True,Londis,95,6774,2022-02-01,image3.jpg
+44005848,True,Jamie Oliver deli by Shell,90,5868,2023-08-01,photo2.jpg
+44009981,True,Tesco,90,4960,2024-05-01,google_maps_street_view.jpg
+44001333,True,Costa Express,80,3987,2024-07-01,photo1.jpg
+44001086,True,Shell Select,90,5865,2024-06-01,photo1.jpg
+44008217,True,M&S Simply Food,95,6776,2024-07-01,bp_3.jpg
+44010527,True,SPAR,90,6774,2024-03,JET - Mar2024.jpg
+44001050,True,Nisalocal,85,3142,2023-05-01,first_image.jpg
+44000551,True,Londis,85,4958,2021-08-01,photo2.jpg
+44009686,True,ASDA,90,5865,2023-12-01,image5.jpg
+44002865,True,Today's Express,90,5866,2022-09-01,photo-2.jpg
+44001876,True,Select,95,9496,2023-12-01,image1.jpg
+44003949,True,Subway,85,5179,2024-10-01,street_view_1.jpg
+44004586,True,JET essentials,95,9500,2023-08-01,JET_Aug2023.jpg
+44010301,True,SPAR,90,3141,2022-04-01,photo1.jpg
+44010162,True,SPAR,90,9934,2024-08,Street View
+44008043,True,Shell,90,7678,2024-07,photo3.jpg
+44009743,True,,85,5868,2023-11-01,bp_convenience_store_2023.jpg
+44006760,True,Londis,95,7688,2023-06,esso_202305.jpg
+44009661,True,Asda Express,85,9496,2024-11,image7.jpg
+44008913,True,Centra,95,6773,2023-04-01,image2.jpg
+44005542,False,,90,9493,2023-02-01,02.jpg
+44004409,True,Londis,85,9496,2022-07,Street View Image
+44010132,True,Londis,90,3988,2024-05-01,second_photo.jpg
+44002342,True,SPAR,95,9496,2023-10-01,img9
+44004340,True,Londis,95,12318,2024-06,bp_photo_01.jpg
+44004488,True,Asda Express,90,9502,2024-07-01,Street View - July 2024
+44001488,True,Steeple Stores,85,5867,2023-04-01,image5.jpg
+44007373,True,SPAR,95,9498,2024-06-01,files/image1.jpg
+44006187,True,Morrisons,95,9506,2024-07-01,Morrisons Petrol Station
+44002169,True,Mace,95,9495,2024-06,image1.jpg
+44001065,True,Tesco Express,90,4050,2022-09-01,image3.jpg
+44004246,True,ASDA On the Move,95,12323,2022-10,streetview_image_oct_2022.jpg
+44009103,True,SPAR,90,4047,2023-09,image1.jpg
+44004209,True,Nisa Local,100,5178,2024-03-01,photo1.jpg
+44002177,True,Tesco Express,90,4956,2022-03,photo1.jpg
+44003884,True,,80,5871,2019-04-01,TotalEnergies_Simon_Myers_Apr_2019
+44002413,True,RDM,95,4955,2023-09,Image5.jpg
+44002430,True,Londis,90,9498,2024-05-01,last_photo.jpg
+44005373,True,Murco,90,3987,2023-06-01,photo2.jpg
+44002189,True,Sainsbury's Local,90,9500,2024-11-01,photo7.jpg
+44005185,True,Morrisons,90,9497,2023-04-12,Street View
+44002455,True,Spar,85,9495,2024-08,photo2.jpg
+44002946,True,Asda,85,9494,2022-11,second_image
+44010905,True,Shop,85,3140,2010-04-01,image2.jpg
+44006744,True,Tesco,95,9500,2024-08,tesco_petrol_station_8.jpg
+44010522,True,Halfway Convenience Store,90,5867,2022-09-01,58 B122
+44004766,True,Costa,85,4956,2023-04-01,image1.jpg
+44010567,True,Beaford Garage,90,6776,2024-09-01,streetview1.jpg
+44000867,True,Shell Select,90,9495,2024-04,image7.jpg
+44006377,True,Londis,95,9505,2023-03-01,JET A318 Byfleet England Mar 2023
+44009210,True,Premier,85,8594,2022-10-01,Brooksend Service Station and... (last)
+44006275,True,,85,1324,2023-05-01,Springfield Garage.jpg
+44003097,True,Tesco,95,4049,2024-06-01,image1.jpg
+44008276,True,ASDA Express,90,3142,2024-08-01,photo1.jpg
+44006440,True,Shop N Drive,90,9502,2024-10,esso-convenience-store-2024.jpg
+44002216,False,,60,3143,2023-10-01,Texaco_2023_10.jpg
+44001579,True,Londis,95,9496,2024-09,image4.jpg
+44005949,True,M&S Food,90,9499,2023-09-01,bp-5.jpg
+44008708,True,Premier,95,7680,2023-07-01,photo5.jpg
+44009214,True,Londis,95,6775,2024-05-01,Street View Image Capture
+44004413,True,Costa Express,90,4957,2023-05-01,first_photo.jpg
+44009454,True,Pace,85,3145,2023-05-01,Image capture: May 2023
+44003662,True,M&S Simply Food,90,4051,2023-06-01,photo3.jpg
+44005161,True,Gulf,95,6773,2023-10-01,photo1.jpg
+44006247,True,Costa,85,9496,2023-10-01,photo7.jpg
+44010282,True,,90,9496,2022-12-01,Prysor Service Station
+44006093,True,ASDA Express,95,9496,2024-02,image5.jpg
+44004755,True,SHOP 'N DRIVE,85,4959,2023-08-01,image1.jpg
+44007288,True,Harvest Energy,90,8595,2024-06-01,photo3.jpg
+44009980,True,Tesco,90,9496,2024-02,photo-2.jpeg
+44002689,True,Londis,95,7678,2023-11,bp
+44008690,True,Centra,95,1325,2022-10-01,image1.jpg
+44008823,False,,0,1319,2011-08,1.jpg
+44004874,True,Asda,95,9497,2022-01,photo-2022.jpg
+44003395,True,Londis,90,8591,2022-10-01,photo-es3.jpg
+44005450,True,Costa Express,90,7683,2023-07-01,shell_photo_3.jpg
+44007342,True,MRH,85,4048,2023-06-01,1st
+44010143,True,SPAR,90,3992,2022-08,3_Gulf_Gilwern_Spar.jpg
+44010262,True,Burger King,90,3138,2023-03,2.jpg
+44005022,True,Bonds of Longridge,95,3144,2023-10-01,Texaco UK
+44003156,True,Spar,90,3141,2023-07-01,photo1.jpg
+44007821,True,TESCO,90,5865,2023-05-01,photo1.jpg
+44006026,True,Londis,90,9498,2024-01-01,Esso sign
+44006134,False,,80,4954,2023-05-01,second_photo.jpg
+44000501,True,Budgens,85,9498,2024-01-01,photo3.jpg
+44003562,True,SHOP'N DRIVE,90,11130,2023-07,Image capture: Jul 2023
+44009716,True,Asda,90,9497,2018-01-01,image1.jpg
+44005377,True,Shell,90,12317,2023-11-01,Shell_1.jpg
+44002619,True,M&S Food,95,8595,2024-02,bp (Photo - Feb 2024).png
+44009246,False,,75,4046,2023-05-01,photo1.jpg
+44001983,True,Premier,90,1326,2022-10-01,straw_service_station.jpg
+44004104,True,Aline Garage,90,7557,2023-05-01,Street View
+44007364,True,Londis,90,5864,2024-07,Image 6
+44009581,True,K&S,90,4957,2022-04-01,photo1.jpg
+44009355,True,R&M Eke,80,3143,2023-06-01,first_image.jpg
+44004769,True,Londis,95,9502,2023-10-01,street_view_oct_2023.jpeg
+44004463,True,M&S Simply Food,90,8589,2023-04,image1.jpg
+44005693,False,,90,9495,2022-10-01,Image8.jpg
+44007331,True,,85,6768,2021-10,image3.jpg
+44010755,True,Corry Fuel & Hardware,100,3144,2022-10-01,photo1.jpg
+44010321,False,,60,8587,2022-06-01,"Ferring, England"
+44004197,True,ASDA On the Move,95,12320,2023-07-01,image6.jpg
+44004354,True,Costa Express,90,9496,2024-11,photo-1.jpg
+44006124,False,,90,1320,2021-05,photo1.jpg
+44009076,False,,85,6771,2022-08-01,photo-aug-2022.png
+44009398,False,,90,3138,2023-04-01,image1.jpg
+44010781,False,,90,5868,2020-11-01,Marsworth Garage - 1st Image.jpg
+44001548,True,Londis,90,9498,2023-03-01,image7.jpg
+44002302,True,M&S Simply Food,90,4959,2024-09-01,Street View Image
+44006183,True,SPAR,90,9497,2023-03-01,image3.jpg
+44005160,True,M&S Simply Food,95,4957,2024-06-01,first
+44007839,False,,85,1322,2024-04-01,photo1.jpg
+44002300,False,,70,1320,2023-08,image1.jpg
+44005551,True,Welcome Break,90,4963,2023-10-01,Welcome_Break_Fuel_&_Forecourt
+44006577,True,Subway,95,6770,2024-08,Image capture
+44002410,True,Spar,80,5865,2023-09-01,image2.jpg
+44002740,True,Costco Wholesale,80,9499,2024-07-01,Costco Petrol Manchester
+44007856,True,Londis,95,9499,2024-04-01,photo_1.jpg
+44008947,True,Blackstock Local,90,1326,2024-07-01,image1.jpg
+44005413,True,Little Waitrose at Shell Select,90,8593,2023-04-01,image4.jpg
+44006874,True,East of England Co-op,90,3144,2023-06-01,second_image.jpg
+44006316,True,Sainsbury's,95,9499,2023-11-01,photo1.jpg
+44007214,True,M&S Simply Food,90,7682,2023-12-01,5.png
+44004299,True,Tesco,85,4046,2024-06,photo2
+44001383,True,best-one,95,7557,2024-05-01,photo1.jpg
+44001481,True,Shell Select,85,4958,2023-07-01,photo-2.jpg
+44004166,True,Sainsbury's,90,5179,2023-10,screenshot_3.jpg
+44010713,True,Premier,85,9496,2024-11-01,image6.jpg
+44010931,True,Spar,95,9495,2024-09,photo5.jpg
+44007882,True,SPAR,95,5862,2023-04,Street View
+44008839,True,one stop,85,3147,2020-06-01,Longfield Service Station Darlington Back Ln.png
+44000790,True,Sainsbury's,95,9500,2024-02-01,photo_4.jpg
+44004284,True,Costa,80,9492,2023-01,Shell
+44006000,True,Londis,85,9496,2024-09,photo3.jpg
+44010490,True,Budgens,85,9496,2021-09,photo-1.jpg
+44006382,True,Subway,90,8589,2024-05-01,image3.jpg
+44003995,True,SPAR,85,9937,2024-06-01,file6.jpg
+44000777,True,M&S Simply Food,85,6773,2024-09,image4.jpg
+44007740,True,Londis,90,1328,2021-08-01,esso_hornchurch.jpg
+44007406,True,Londis,85,9499,2023-10,bp_2023_oct.jpg
+44003260,True,Off-Licence,90,1332,2024-09-01,texaco_sept_2024.jpg
+44009832,True,SPAR,90,4051,2023-04,"Maxol Service Station, Graham's"
+44007233,True,Spar,85,1323,2023-04,image1.jpg
+44009050,True,SPAR,90,3141,2022-04-01,photo2.jpg
+44005850,True,Fresh Coffee 2GO,80,7684,2024-01-01,image3.jpg
+44010717,True,Kielder,85,3141,2023-07-01,image2.jpg
+44002479,True,Spar,90,8592,2023-09-01,photo-sep-2023
+44009919,True,Sainsbury's,95,4048,2021-09,Street View
+44007843,True,Starbucks,90,8586,2022-10,Image5
+44004921,True,ASDA Express,95,4964,2023-10,asda_express_petrol_oct_2023.jpg
+44002985,True,Budgens,85,9501,2023-02-01,shell_2023_02.jpg
+44007451,False,,80,5174,2024-09,street_view_sept_2024.jpg
+44009067,True,Londis,95,9499,2023-08-01,photo_2.jpg
+44005954,True,Greggs,85,6771,2024-02,photo3.jpg
+44000765,True,Londis,90,9501,2024-07-01,Texaco_StreetView.jpg
+44009326,False,,90,3138,2023-05-01,image1.jpg
+44009331,True,Londis,85,6774,2022-06-01,Google Street View
+44003371,True,Old Bridge Garage,90,9502,2024-11-01,photo_2024_11.jpg
+44003538,True,Tesco Extra,90,11138,2024-04-01,Tesco_Petrol_Station_Apr_2024.jpg
+44002716,True,Tesco Extra,90,9497,2024-05-01,photo5
+44000531,True,ASDA,90,9487,2022-05,image5.jpg
+44005239,True,Premier,90,9939,2024-04,Image capture: Apr 2024
+44002007,True,Select,90,9494,2023-11,image9.jpg
+44010033,True,Tesco,90,5175,2023-06,photo3.jpg
+44001271,True,Londis,90,4050,2022-11-01,photo1.jpg
+44005777,True,Budgens,85,6773,2023-06,30 Frilford Rd
+44000865,True,TESCO express,90,6774,2024-10-01,photo6.jpg
+44002439,True,Tesco Express,85,3142,2022-09-01,second_photo.jpg
+44006176,True,deli by Shell,90,8598,2024-09-01,Shell_Street_View_Sep_2024.jpg
+44008705,True,Wild Bean Cafe,85,4048,2024-05,image3.jpg
+44001791,True,Inver,90,9495,2023-01,photo3.jpg
+44004384,True,M&S Simply Food,95,7683,2023-05-01,image5.jpg
+44007421,True,TESCO,90,3139,2021-08,photo2.jpg
+44002950,True,Subway,90,9493,2024-04,JET
+44008949,True,Vivo Essentials,95,4050,2023-07-01,image1.jpg
+44005353,True,Tesco Express,90,9938,2024-08-01,photo2.jpg
+44010989,True,Budgens,90,9504,2024-07,bp-alex-collard-jul-2024.jpg
+44004967,True,park&shop,90,9498,2022-08-01,image3.jpg
+44010104,False,,85,1602,2022-09,photo1.jpg
+44006983,True,Morrisons,95,12320,2023-06-01,street_view_1.jpg
+44007894,True,Shop'n Drive,85,9495,2024-04,4.jpg
+44010631,False,,90,1322,2022-07-01,photo1.jpg
+44009061,True,Spar,90,3139,2022-04,photo1.jpg
+44009953,True,Spar,90,1323,2021-10,image1.jpg
+44006956,True,SPAR,85,6367,2022-04-01,photo1.jpg
+44004317,True,Peggy Whites,90,7682,2023-06-01,file7.jpg
+44004057,True,Tesco Express,90,6368,2022-06-01,image4.jpg
+44005261,True,Londis,90,7687,2022-10-01,streetview-oct-2022.jpeg
+44008788,False,,100,6763,2011-06,street_view_2011.png
+44006802,True,Morrisons,90,6776,2024-06-01,google-street-view.jpg
+44006336,True,Spar,90,9496,2023-03,photo_1.jpg
+44005736,True,SPAR,95,9493,2021-04,Shell
+44004120,True,Premier,90,6366,2023-07-01,photo3.jpg
+44005582,True,ASDA,90,9501,2023-08-01,esso_august_2023.jpg
+44006991,True,Costcutter,95,7556,2023-01,image4.jpg
+44007547,True,Londis,95,11128,2024-07-01,photo5.jpg
+44005528,True,SPAR,90,9495,2024-10-01,bp
+44008804,True,Welcome,85,3145,2024-09-01,street_view_sept_2024.jpg
+44006954,True,Tesco,90,3987,2021-08-01,Photo 2
+44001593,True,Spar,95,7679,2024-07-01,2
+44003812,True,DYFFRYN SERVICE STATION,95,9500,2024-04,photo5.png
+44001285,True,ASDA Express,95,11126,Oct 2024,Image5.jpg
+44004205,True,Budgens,90,1607,2023-03-01,photo1.jpg
+44007506,True,Pop-In,85,7562,2023-10,74_A521_Street_View_2023.jpg
+44002218,True,Asda Express,90,4956,2023-10,Google Street View
+44001335,True,Spar,90,3987,2022-08-01,second_image.jpg
+44001378,True,Londis,90,12318,2024-08-01,image7.jpg
+44003937,True,Subway,90,4959,2022-02-01,esso_image_1.jpg
+44006297,True,Tesco,85,9498,2024-08-01,photo_1.jpg
+44007251,False,,85,1324,2023-07,moredun_quality_fuels.jpg
+44008224,True,SPAR,95,4049,2024-04-01,2.jpg
+44009334,True,BISLA CONVENIENCE STORE,95,1331,2023-04-01,image1.jpg
+44006452,True,SPAR,95,6772,2022-04,Gulf3.jpg
+44003452,True,Costa Express,90,4957,2023-12-01,image2.jpg
+44004278,True,mfg,95,8746,2024-06,7th_image.jpg
+44004831,True,Londis,95,6774,2023-06-01,photo1.jpg
+44003768,True,Sainsbury's,95,12328,2023-10-01,sainsburys_petrol_station_oct_2023.jpg
+44006787,True,Penny,90,7679,2024-09-01,7
+44006986,True,The Good Food Shop,90,12320,2022-06-01,dartington1.jpg
+44003163,True,Shell Select,90,9499,2024-02,photo_feb_2024.jpg
+44007691,True,McDonald's,90,9495,2024-09,image2.jpg
+44009870,True,Morrisons Daily,95,7683,2024-11,Morrisons Petrol Station
+44001862,True,Spar,80,4955,2009-04,photo2.jpg
+44006103,True,Shell,85,6772,2024-06,Shell - Alexander Mahmoud
+44009804,True,SPAR,85,3142,2022-04-01,photo_2.jpg
+44000734,True,Select,90,9494,2024-08,image4.jpg
+44004639,True,ASDA Express,90,9498,2024-11-01,image1.jpg
+44005196,True,Tesco,90,6769,2023-09,2
+44004753,True,Spar,95,7681,2024-04-01,image7.jpg
+44003363,True,,80,1322,2023-05,attached_image_1.jpg
+44005598,True,Greggs,90,9495,2024-02-01,bp
+44007094,True,Sainsbury's,90,8591,2024-05,photo-May-2024
+44006763,True,Shell Select,90,9490,2017-08-01,image3.jpg
+44007159,True,SPAR,95,4053,2023-09-01,Photo - Sep 2023.jpg
+44009862,True,Morrisons,95,4048,2023-09,image2.jpg
+44008959,True,Welcome,90,9506,2024-06,GULF_petrol_station_Street_View_Jun_2024.jpg
+44009822,True,Londis,85,3142,2024-05-01,image1.jpg
+44003541,True,Tesco Express,95,1611,2018-05-01,tesco_petrol_station.jpg
+44006340,True,Londis,95,1326,2024-03-01,image1.jpg
+44005616,True,Maiden Newton Service Station,85,4960,2023-10-01,secondImage.jpg
+44005155,True,Asda,90,9497,2022-04-01,image1.jpg
+44006486,False,,70,1324,2023-04-01,street_view_1.jpg
+44006047,True,Morrisons Daily,80,7681,2024-07,image2.jpg
+44002297,True,Londis,90,7681,2024-05-01,4.jpg
+44008459,True,Tesco,90,1331,2021-08-01,tesco-petrol-station-image.jpg
+44008637,True,Premier,85,1328,2024-05-01,treynon_petrolstation.jpg
+44002356,True,Londis,85,3140,2024-10,photo1.jpg
+44005783,True,Greggs,90,9511,2024-07-01,Morrisons_Petrol_Station_ShaidLoonat_2024.jpg
+44005286,True,Sainsbury's,95,12319,2023-09-01,photo5.jpg
+44007737,False,,60,9495,2022-08,photo_Aug2022.jpg
+44008588,True,Gulf,90,9497,2024-08-01,image5.jpg
+44010863,True,Mace,85,1325,2023-06-01,photo1.jpg
+44004940,True,Premier,85,3140,2023-05-01,image3.jpg
+44008620,True,Costcutter,90,3142,2023-05-01,first_photo.jpg
+44008829,False,,90,9498,2024-09,image4.jpg
+44005838,True,Tesco Extra,90,9496,2024-01,photo1.jpg
+44010665,False,,80,5866,2021-06-01,5 Gortrush Industrial Estate.jpg
+44000649,True,Londis,90,4050,2024-06-01,first_image.jpg
+44004447,True,SELECT,85,5872,2016-09,mubark106080@gmail.com mubark106080___________
+44008214,True,Texaco,90,9499,2024-11,Image capture: Nov 2024
+44001673,True,Spar,90,9494,2024-09,Street View
+44003554,True,Tesco Extra,90,12318,2024-10-01,Image 4
+44003208,True,Premier,95,3140,2022-05-01,photo1.jpg
+44008233,True,,70,3138,2023-02-01,photo2.jpg
+44004206,True,Tesco Extra,95,5178,2023-03-01,photo2.jpg
+44006924,False,,90,9498,2023-02-01,Portsoy_autos_3.jpg
+44008038,True,Sainsbury's,90,9499,2024-02-01,second_photo.png
+44004474,True,deli2go,90,9499,2024-09-01,Image 7
+44007899,True,Budgens,90,9497,2023-05-01,image8.jpg
+44007973,True,Londis,95,3140,2021-03,image1.jpg
+44001033,True,SPAR,90,4049,2022-10-01,photo4.jpg
+44001441,True,Select,85,9497,2018-01-01,image-6.jpg
+44003660,True,Morrisons,85,6775,2024-07-01,photo_1.jpg
+44000633,True,SPAR,90,3139,2024-05,first_image.jpg
+44009767,True,Londis,90,6777,2024-08,4.jpg
+44003592,True,Morrisons,90,12318,2022-05-01,image3.jpg
+44002954,True,Premier,90,1324,2023-10-01,photo1.jpg
+44007397,True,Costa,85,5866,2020-04-01,jet_2020.jpg
+44007135,True,Costa,60,9492,2022-06,bp
+44010638,False,,90,4038,2024-10-01,first_image.jpg
+44004617,True,Morrisons,95,3142,2022-01-01,photo2.jpg
+44007681,True,bp shop,95,9500,2023-06-01,Photo - Jun 2023
+44002176,True,Londis,95,9498,2019-10-01,photo2.jpg
+44007086,True,McDonald's,80,9936,2024-05-01,3.jpg
+44009191,False,,70,3136,2024-08,photo1.jpg
+44003794,True,Tesco Extra,95,4057,2024-06-01,greenock-scotland-jun-2024.jpg
+44009814,True,Costa Express,85,9495,2023-04-01,bp
+44006345,True,ASDA,100,9506,2022-03-01,asda-lancaster-superstore-mar-2022.jpg
+44006935,True,Londis,85,12316,2024-11-01,Shell
+44010149,True,Go,85,12316,2024-06-01,file1.png
+44009576,True,Morrisons Daily,95,3143,2018-07-01,image1.jpg
+44003089,True,Londis,90,3989,2009-01-01,photo_1.jpg
+44001225,True,Shell,90,9496,2023-11-01,image1.jpg
+44006229,True,Shell,85,6771,2024-07-01,5.jpg
+44006143,True,Costa,80,4048,2024-04-01,image1.jpg
+44008940,True,EUROSPAR,90,9510,2020-11-01,EUROSPAR_Lisnaskea_Nov_2020.jpg
+44009260,True,Gulf,85,9499,2022-11,photo-2022-11.jpeg
+44008676,True,Centra,90,8587,2022-09,photo2.jpg
+44005380,True,Londis,90,12318,2024-11-01,image3.jpg
+44008939,True,SPAR,95,4955,2023-04,photo2.jpg
+44005182,True,Lifestyle Express,90,9507,2022-10-01,Buxton_England_Street_View_Oct_2022.jpg
+44004603,True,SPAR,95,9489,2024-11,Shell (4).jpg
+44002379,True,SPAR,90,9495,2022-09,photo1.jpg
+44001711,True,Londis,90,8590,2024-03-01,image5.jpg
+44006182,True,Asda,85,1329,2022-05-01,StreetView_May2022.png
+44001197,True,Londis,90,9504,2024-08-01,3_station_road_harrow_england.jpg
+44005050,True,Premier,90,3140,2022-12-01,image1.jpg
+44007305,True,Londis,95,9500,2024-08-01,photo_6.jpg
+44010256,True,Asda,85,4956,2021-09,photo-2.jpg
+44005336,True,M&S Simply Food,90,8753,2022-08,bp-connect-photo-aug-2022.jpg
+44002253,True,Costcutter,85,1326,2023-04-01,image1.jpg
+44002006,True,Londis,90,7685,2024-08-01,shell_aug_2024.jpg
+44004746,True,Londis,95,8595,2022-10-01,65 High St - Oct 2022
+44002906,True,Londis,95,7683,2024-07-01,3rd_image.jpg
+44010740,False,,85,4046,2023-04-01,second_image.jpg
+44003107,True,Jeff Brown - Meadgate,90,5868,2024-10-01,Image-2
+44006918,True,Asda Express,90,6774,2024-06-01,file6.jpg
+44001449,True,Morrisons Daily,90,9497,2022-09,image1.jpg
+44003836,True,Select,95,9496,2023-10-01,image3.jpg
+44007937,False,,85,7685,2023-04-01,9_A956_Aberdeen_Scotland.jpg
+44000783,True,Mace,85,1325,2023-05-01,image1.jpg
+44004627,True,Sainsbury's,95,9501,2024-08,photo-aug-2024.jpg
+44005011,True,Spar,90,5865,2022-09-01,image3.jpg
+44003154,True,ASDA Express,95,5866,2024-08-01,image1.jpg
+44005566,True,Costa,80,9500,2021-06-01,Photo_Jun_2021.jpg
+44004189,True,,70,12315,2024-05-01,bp_3.jpg
+44004868,True,Shell Select,90,9497,2024-09-01,image1.jpg
+44005992,True,Londis,100,9498,2022-06-01,photo4.jpg
+44009172,True,Nisa Local,90,1324,2018-09,image1.jpg
+44001752,True,Londis,85,9498,2024-11-01,Image 5
+44003459,True,ASDA,95,9504,2023-09-01,Asda Staines Chertsey Lane petrol F...
+44001504,True,Costa Express,85,6773,2024-06-01,image1.jpg
+44008007,True,Morrisons Daily,85,9497,2024-09,image6.jpg
+44005512,True,Premier,95,9496,2023-04-01,bp5.jpg
+44002544,True,Morrisons,95,9498,2022-05-01,image7.jpg
+44003599,True,bp,90,8744,2024-06,photo3.jpg
+44005088,True,SPAR,90,8589,2022-04-01,photo1.jpg
+44002114,True,Your Store,90,8594,2017-09-01,Emo Oil - Mountjoy Filling Station
+44005816,True,Morrisons Daily,95,7686,2023-08,Shell_Niwak_Rockstar.jpg
+44009909,True,Sainsbury's,85,1333,2024-06-20,sainsburys_petrol_station_map.jpg
+44002258,True,Shell Select,90,9493,2024-04,Shell
+44006374,True,Shop,80,4046,2024-08,image1.jpg
+44009002,True,Nisa Express,90,4050,2024-05-01,image3.jpg
+44001835,True,Londis,95,5867,2020-12-01,photo_2.jpg
+44007260,True,SPAR,95,3139,2024-06,image3.jpg
+44008349,True,ASDA Express,100,3143,2024-10,asda_street_view.jpg
+44002646,True,Pace,85,3147,2022-05-01,Pace_Street_View_2022.jpg
+44006320,True,M&S Simply Food,95,4959,2024-08-01,photo4.jpg
+44001209,True,TESCO,90,6772,2024-07,image-004.jpg
+44005081,True,Sainsbury's,95,9502,2024-05-01,Sainsbury's Petrol Station
+44010167,False,,80,3981,2023-06-01,image1.jpg
+44008921,False,,75,1321,2022-09-01,image1
+44008982,False,,85,1320,2024-03,image1.jpg
+44004824,True,Costa Express,85,3142,2022-03,street_view_image_1.jpg
+44003005,True,Spar,85,12324,2024-05-01,bp_totalenergies_may_2024.jpg
+44003555,True,Morrisons,95,12318,2023-12-01,image1.jpg
+44001308,True,Tesco Express,95,12316,2024-06,last_photo.jpg
+44009766,True,Nisa Local,90,9498,2024-06-01,image3.jpg
+44010887,True,Sainsbury's,95,3143,2024-05-01,photo1.jpg
+44006054,True,Costcutter,90,5866,2024-07-01,image1.jpg
+44009498,False,,80,4955,2023-08-01,photo_4.jpg
+44008138,True,Subway,90,5866,2024-05-01,bp_2.jpg
+44008517,False,,90,3147,2023-05-01,wimblington_road_may_2023.jpg
+44008919,True,Costcutter,90,1328,2023-06-01,scotch-street.jpg
+44001753,True,Londis,90,6774,2020-10-01,img2.jpg
+44005226,True,Morrisons Daily,90,12319,2024-10-01,Image1.jpg
+44006793,True,Clock Garage Shop,95,3143,2023-10,texaco_2023.png
+44008572,False,,80,1322,2024-08-01,image1.jpg
+44006402,True,,50,4046,2023-06-01,photo3.jpg
+44003373,False,,75,3143,2018-05-01,falkirk-317-b902.jpg
+44008743,True,Imperial,85,4955,2018-03,photo1.jpg
+44003645,True,Morrisons Daily,90,8595,2024-10,photo-oct-2024-1.jpg
+44007848,True,Costa Express,95,9495,2024-05,image1.jpg
+44006814,True,Tesco,90,5872,2024-07-01,tesco_petrol_july_2024.jpg
+44010517,True,Ashwell Garage,85,9497,2024-08-01,AshwellGarage_StreetView_2024.jpg
+44004915,False,,80,5870,2021-05-01,JET by saplingsessentialservices - May 2021
+44006313,True,Tesco,90,6772,2024-05,Tesco Petrol Station
+44000620,False,,75,9490,2024-05-01,photo_may_2024.jpg
+44002949,True,Tesco Extra,95,9498,2024-06-01,photo9.jpg
+44000695,True,Premier,90,2233,2023-07-01,photo_2.jpg
+44001146,True,Subway,90,9497,2024-01-01,photo1.jpg
+44007763,True,SPAR,95,4958,2022-11-01,photo_4.jpg
+44007401,True,Premier,95,1324,2023-04-01,photo1.jpg
+44003127,True,Simply Food,90,3141,2024-07-01,photo1.jpg
+44000740,True,Tesco Express,95,9502,2023-02-01,photo_feb_2023.png
+44004882,True,Nisa Local,90,1329,2022-09-01,nisa_local_texaco.png
+44007400,True,Morrisons Daily,95,7683,2024-10,Morrisons Petrol Station
+44005465,True,Shell,90,5860,2024-04,3
+44005055,True,ASDA Express,90,7683,2024-04-01,photo-1.jpg
+44007307,True,Tesco Extra,95,8590,2024-06-01,photo3.jpg
+44007056,True,Morrisons Daily,95,8592,2024-09-01,photo_002.jpg
+44003008,True,Costa,85,12317,2024-07-01,photo-9.jpg
+44007538,False,,85,1605,2023-09,Petrol & Diesel Ep.png
+44008963,False,,75,4046,2022-08-01,photo1.jpg
+44008893,True,Spar,95,1325,2021-07-01,image1.jpg
+44009745,True,Spar,95,9497,2024-05,Street View 2024
+44005743,False,,70,9502,2024-08-01,14-hodge-rd-worsley-england.jpg
+44008263,True,Londis,95,5865,2023-05-01,StreetView
+44009567,True,SPAR,90,9496,2023-05-01,bp-b
+44005153,True,SPAR,90,9495,2022-09,photo1.jpg
+44001247,True,Mace,90,9497,2022-06-01,image4.jpg
+44003222,True,Shop 'n Drive,90,8589,2022-09-01,bp
+44010307,True,Today's Extra,90,3141,2011-06-01,image1.jpg
+44002634,True,ASDA,90,4957,2023-06-01,image1.jpg
+44005555,True,SPAR,95,5865,2024-01-01,photo1.jpg
+44007366,True,Costa Express,90,4955,2023-09,photo4.jpg
+44010188,True,Asda,100,12315,2024-06,image2.jpg
+44001415,True,Premier,85,3140,2022-10-01,image1.jpg
+44002425,True,Shell SELECT,95,8585,2022-11,Shell
+44004188,True,Londis,100,6366,2024-03,third_image.jpg
+44005222,True,Londis,85,6368,2024-06-01,image1.jpg
+44003778,True,Morrisons Daily,95,9504,2022-10-01,morrisons_daily_oct2022.jpg
+44007185,True,Londis,85,9499,2023-09-01,55 St Mary's Rd
+44007237,True,Spar,95,3141,2023-07-01,image1.jpg
+44006127,True,Morrisons,90,4962,2022-08-01,MorrisonsPetrolStation.jpg
+44003827,True,Applegreen,90,6778,2023-04-01,Applegreen Nutbrook Service Station
+44009555,True,Youlgrave Garage Shop,90,4050,2024-09,image2.jpg
+44001860,True,Denton,80,5865,2023-06-01,image1.jpg
+44011000,True,Touts,85,4956,2024-06,photo-2024-06.jpg
+44005394,False,,70,3138,2021-12-01,photo2.jpg
+44003202,False,,90,5862,2018-09-01,photo3.jpg
+44007131,True,Morrisons Daily,95,9513,2023-10-01,Morrisons Petrol Station - The WrongFuelMan - Photo - Oct 2023
+44009057,True,Shell,90,3140,2023-05-01,photo1.jpg
+44011033,True,M&S Food,90,3142,2024-05-01,photo1.jpg
+44002287,False,,0,4036,,
+44006351,True,ASDA Express,95,4046,2024-03,2
+44004024,True,Tesco,85,11129,2021-10-01,street_view_1.jpg
+44007199,True,Tesco Extra,95,9499,2023-07-01,img_7.jpg
+44002492,True,Spar,75,5865,2024-04-01,third-image.jpg
+44006400,True,Londis,90,6776,2023-05-01,texaco_1.jpg
+44010996,True,Co-op,95,9497,2024-08-01,image8.jpg
+44008776,True,SPAR,90,1325,2010-09-01,photo1.jpg
+44010080,False,,90,3985,2023-05-01,photo-1.jpg
+44007164,True,Premier,90,9497,2021-04-01,photo-1.jpg
+44006671,True,Premier,95,9501,2024-08-01,bp-august-2024.jpg
+44005521,True,BP Shop,85,6773,2023-06-01,bp5.jpg
+44009544,False,,80,9494,2024-07-01,image3.jpg
+44003892,True,ASDA Express,90,9498,2024-07-01,image7.jpg
+44010120,False,,70,1604,2024-01-01,map_example.jpg
+44005794,True,Londis,95,6774,2024-07-01,image3.jpg
+44007983,True,Shell Select,90,9497,2024-08-01,image8.jpg
+44008135,True,SPAR,90,4049,2022-04-01,photo1.jpg
+44005104,True,Costa,80,1325,2023-03-01,Texaco1.jpg
+44008156,False,,70,1322,2024-07-01,image1.jpg
+44002419,True,best-one,85,4049,2017-12-01,image4.jpg
+44008916,True,SPAR,90,1323,2023-04,image1.jpg
+44004126,True,Tesco,90,7557,2022-08-01,image1.jpg
+44010648,True,Ferry Stores,90,9510,2024-06,The_Ferry_Stores_Kilchoan_Ltd_2024-06.jpg
+44011004,True,Morrisons Daily,90,9500,2024-02,MFG Morrison's Petrol Station
+44003251,True,Shell Select,90,9500,2022-12-01,photo_dec_2022.jpg
+44003716,True,Select,90,9494,2023-10,image3.jpg
+44001281,True,SPAR,90,8747,2023-04-01,first_photo.jpg
+44007612,True,Tesco,90,9494,2022-06,second.jpg
+44006797,True,Tesco Express,95,9496,2023-10,image5.jpg
+44005390,True,deli by Shell,95,12319,2024-01-01,image2.jpg
+44003192,True,Shop,85,9494,2024-07,photo5.jpg
+44006309,True,M&S Simply Food,85,4051,2016-09-01,image3.jpg
+44002312,True,M&S Simply Food,95,5867,2023-04-01,photo1.jpg
+44005338,True,ASDA,85,6367,2024-07-01,image1.jpg
+44004663,True,Tesco,85,4957,2023-06-01,photo1.jpg
+44002080,True,Tesco Express,90,4958,2023-09-01,image3.jpg
+44000827,True,Cook,80,9492,2023-05,bp
+44003360,True,M&S Food,95,1326,2023-05-01,photo1.jpg
+44010616,True,BFS,85,1336,2024-04,BFS_Hyde_Lane_Service_Station_Apr_2024.jpg
+44006755,True,Wild Bean Cafe,95,9499,2024-04-01,fourth_image.jpg
+44004623,True,Budgens,90,8593,2024-07-01,streetview_jul2024.jpg
+44009806,True,Co-op,85,7685,2024-06-01,photo_2024_06.jpg
+44000744,True,Londis,90,6774,2021-10-01,photo2.jpg
+44009134,False,,90,3136,2023-07,image1.jpg
+44007641,True,Spar,90,9497,2023-05-01,photo3.jpg
+44006644,True,SPAR,90,3142,2021-07-01,Image_1.jpg
+44008565,True,now,90,8588,2023-12-01,photo_1
+44007419,True,Nisa Local,90,8593,2021-01-01,Photo - Jan 2021
+44008450,True,Waitrose,90,9496,2024-09-01,Fourth Image
+44006827,True,Londis,100,8590,2024-08-01,image1.jpg
+44003980,True,Londis,85,7558,2024-08-01,image2.jpg
+44001163,True,Tesco,90,4049,2023-09-01,image4.jpg
+44003212,True,Tesco,85,4049,2022-11-01,image3.jpg
+44007160,True,Londis,90,5866,2024-08-01,image4.jpg
+44003766,True,SPAR,95,7557,2024-05-01,image1.jpg
+44010275,True,The Pop In,95,1324,2023-05,photo1.jpg
+44004549,True,Londis,85,5864,2024-05,image1.jpg
+44001374,True,Londis,100,5189,2024-06-01,"320 Long Rd - Canvey Island, England - Jun 2024"
+44005384,True,deli by Shell,85,12321,2024-10-01,streetview_09.jpg
+44004643,True,Co-op,95,3141,2023-06-01,photo1.jpg
+44003284,True,Londis,85,9498,2023-03-10,image5.jpg
+44003956,True,Penny,95,5175,2024-03,1 Durham Rd
+44007440,True,Nisa,90,1326,2021-11-01,street_view_image.jpg
+44003678,True,SPAR,85,9495,2022-06,photo8.jpg
+44005143,True,M&S,95,9497,2023-08-01,image4.jpg
+44010286,False,,85,3147,2023-05,Sainsbury's_petrol_station_May_2023.jpg
+44010255,False,,80,1322,2022-03-01,photo1.jpg
+44006879,True,Londis,85,7682,2023-01-01,image2.jpg
+44006240,True,Premier,95,5864,2024-09-01,image5.jpg
+44000516,True,Londis,85,6773,2023-05-01,Street View
+44005825,True,Londis,90,4958,2024-08-01,image1.jpg
+44006173,True,Marks & Spencer,85,4050,2022-03-01,image3.jpg
+44005490,True,Morrisons,85,5868,2023-05-01,photo_2023.jpg
+44001891,True,Nisa Local,90,4048,2024-05,image1.jpg
+44010371,True,ASDA,95,9497,2024-03-01,image9.jpg
+44001795,True,Londis,90,9498,2023-04-01,img06.jpg
+44006665,True,M&S,95,6776,2024-04-01,Street View & 360°
+44007541,True,M&S Food,90,3991,2023-04-01,bp_screenshot_1.jpg
+44004892,True,Tesco Express,95,4958,2024-07-01,image1.jpg
+44001757,True,Spar,85,7679,2024-07,image2.jpg
+44008020,True,WHSmith,95,9497,2024-09-01,photo1.jpg
+44008806,True,,70,9495,2023-08-01,photo5.jpg
+44006637,True,Premier,90,3140,2024-09-01,image1.jpg
+44003603,True,best-one,90,7678,2024-04,Street View
+44001645,True,Budgens,90,3139,2022-09-01,unknown
+44006184,True,Tesco Express,90,9496,2024-07-01,3
+44006203,True,Jet,85,4953,2023-04-01,street_view.png
+44003194,True,SPAR,95,6775,2022-10-01,bp_image_3.jpg
+44008190,True,SPAR,95,8587,2023-10,image4.jpg
+44010744,True,Penney's Convenience Store,95,3144,2023-06-01,image1.jpg
+44003659,True,ASDA,95,9501,2023-12-01,asda_colne_superstore.jpg
+44002836,True,ASDA Express,95,9496,2024-05-01,5
+44009794,True,Premier,90,1324,2024-06-01,photo1.jpg
+44005939,True,Tesco,95,1328,2022-05,Tesco_Petrol_Station.jpg
+44005782,True,Morrisons,95,9497,2023-05-01,image9
+44003473,True,Londis,95,1326,2024-08-01,photo1.jpg
+44006816,True,Premier,95,1322,2023-04,image1.jpg
+44005470,True,Spar,90,9502,2023-11-01,shell_station_nov_2023.jpg
+44006027,True,M&S Simply Food,95,4051,2022-10-01,Image2.jpg
+44006499,True,ASDA Express,90,3142,2024-07-01,photo1.jpg
+44001215,True,Select,90,5865,2024-10-01,shell4.jpg
+44008271,True,SPAR,95,1328,2022-08-01,esso_convenience_store.jpg
+44005524,True,Shell Select,85,9493,2023-09,Shell
+44002983,True,M&S,90,9496,2023-08-01,bp.jpg
+44005326,True,Budgens,90,12322,2021-08-01,2021-08-bp.jpg
+44001332,True,Spar,95,7681,2021-08-01,photo1.jpg
+44000960,True,SPAR,90,4957,2023-06-01,first_image.jpg
+44004830,True,ASDA,85,4957,2023-02-01,photo1.jpg
+44000569,True,M&S Food,95,4962,2023-11-01,photo-nov-2023.jpg
+44002505,True,Morrisons Daily,95,9499,2024-08-01,second_image.jpg
+44006877,True,Londis,95,9507,2024-08,pavalarasa-mathusan-photo-aug-2024.jpg
+44008498,True,Asda,85,7679,2023-10,image3.jpg
+44006937,True,M&S Food,85,12316,2023-05-01,bp
+44001314,False,,90,1604,2023-04-01,image1.jpg
+44007954,True,Sainsbury's,95,9502,2023-07-01,Sainsbury's Petrol Station
+44006775,False,,60,5861,2024-07-01,Street View
+44001562,True,Londis,95,7680,2024-06,image4.jpg
+44010206,False,,90,1322,2024-05-01,photo1.jpg
+44004600,True,Greggs,90,9498,2024-07-01,photo_7.jpg
+44007827,True,Londis,95,5870,2024-02-01,Esso MFG Wednesbury
+44004573,True,Londis,90,9500,2021-08-01,photo_2021.jpg
+44003583,True,Texaco,85,8753,2024-03-01,Clyro_Wales_Street_View.png
+44001956,True,SPAR,90,9495,2021-10,photo6.jpg
+44004433,True,AFTERS,95,9497,2023-10,shell_after2023.jpg
+44007224,True,Tesco Express,95,9492,2023-10-01,esso_oct2023.jpg
+44002848,True,Tesco,95,7687,2023-11,tesco_petrol_station_nov_2023.jpg
+44002011,True,Sainsbury's Local,95,5868,2017-08-01,image2.jpg
+44003249,True,M&S,95,9495,2022-11-01,bp
+44009773,True,SPAR,95,4957,2023-12-01,photo5.jpg
+44007163,True,Budgens,95,9507,2023-05-01,Street View - May 2023
+44006396,True,Snack & Shop,90,9499,2024-05,Photo - May 2024
+44006546,True,M&S,90,9497,2021-11-01,photo5.jpg
+44000758,True,MACE,85,3146,2021-10,Emo Mace Annaclone 02.jpg
+44008411,True,Co-op,80,4955,2023-03,image1.jpg
+44007944,True,Nisa Extra,85,8588,2022-12,photo1.jpg
+44005545,True,bp shop,85,9496,2024-02,photo_2.jpg
+44007376,True,Morrisons,90,5864,2022-09,image3.jpg
+44008777,True,EVF,80,9497,2024-02-01,image1.jpg
+44005874,True,Londis,90,6782,2022-06-01,Esso_Street_View_Jun_2022.jpg
+44010293,True,Sainsbury's,90,5870,2023-10,SainsburyStreetView2023.jpg
+44002970,True,Londis,90,4962,2024-10-01,imagecapture-oct2024.png
+44001028,True,On the Go,90,3142,2022-05-01,Image 3
+44010937,True,scrum on in,85,9498,2024-07,bp_7.jpg
+44003003,True,Londis,90,6368,2024-06-01,img1.jpg
+44010544,True,John O' Groats Post Office,90,9507,2022-04,JohnOGroatsPostOffice_2022.jpg
+44002626,True,Budgens,85,4047,2021-12,first_image.jpg
+44004211,True,Sainsbury's,95,3992,2019-08-01,Sainsbury's Petrol Station
+44004822,True,TESCO,90,7679,2024-09,image7.jpg
+44007624,True,SPAR,90,5861,2022-08,bp
+44002507,True,TESCO,95,9496,2023-10,Tesco Petrol Station
+44005602,True,Londis,90,9499,2022-11-01,bp_1.jpg
+44002279,True,M&S Simply Food,95,9504,2023-07-01,street_view_jul_2023.jpg
+44000962,True,Londis,90,2234,2024-07-01,photo1.jpg
+44010786,False,,70,5866,2021-11-01,photo-nov-2021.jpg
+44003413,True,Tesco,90,9501,2023-03-01,photo3-march2023.jpg
+44006057,True,Londis,90,9501,2024-06-01,texaco_photo_1.jpg
+44005604,True,SPAR,90,6773,2022-06-01,File 4
+44010891,True,,90,1327,2021-08-01,Silloth_Motor_Co.jpg
+44004761,True,Snacks & Drinks,85,4959,2024-06-01,photo1.jpg
+44001685,True,EUROSPAR,90,3143,2022-04-01,image1.jpg
+44004059,True,M&S Simply Food,85,8753,2023-08-01,photo-aug-2023.jpg
+44000559,True,ASDA Express,95,1326,2024-07-01,image2.jpg
+44009495,True,LK,90,7680,2023-04-01,Google Street View
+44009001,True,Spar,85,3145,2022-04,photo2.jpg
+44009599,True,Park & Shop,90,6781,2024-06-01,park_shop_texaco_sydenham_2.jpg
+44006666,True,Tesco,85,4957,2023-05-01,image2.jpg
+44001355,True,Texaco,95,9498,2023-03-01,photo_4.jpg
+44004866,True,Londis,85,9499,2024-06-01,photo-4.jpg
+44010279,True,MACE,95,1331,2023-06-01,circle_k_express_sion_mills.jpg
+44007473,True,Londis,90,6371,2022-11-01,A2990 Chestfield.png
+44005477,True,SPAR,90,6774,2019-02-01,photo2.jpg
+44002473,True,TESCO,100,8589,2023-10-01,image5.jpeg
+44001083,True,deli2go,80,7683,2022-11-01,Image3.jpg
+44008501,True,Asda,85,1325,2022-03-01,photo1.jpg
+44005583,True,bp store,85,4954,2023-09,M6
+44000934,True,Waitrose,95,9497,2023-06,Shell_shot4.jpg
+44007300,False,,0,1304,,
+44001363,True,Penny on the move,95,1610,2024-07-01,image1.jpg
+44001531,True,Londis,90,9494,Nov 2023,6
+44007238,False,,0,9476,,
+44004419,True,Spar,90,8587,2023-06,image7.jpeg
+44007346,True,Tesco,85,4049,2021-05-01,image1.jpg
+44009449,True,,70,5862,2023-02-01,image1.jpg
+44002236,True,Shell Select,85,9497,2023-06-01,image3.jpg
+44002699,True,,80,6770,2024-06-01,image1.jpg
+44002709,True,M&S Food,90,9498,2023-09-01,image3.jpg
+44011071,True,on the move,95,4959,2024-06-01,photo-1.jpg
+44003525,True,Premier,95,12314,2024-08,Image 2
+44009839,False,,80,7687,2023-04-01,Maxol Auto24 Belmont - Apr 2023 Street View
+44003069,True,SPAR,90,7557,2023-04-01,photo1.jpg
+44010151,True,Nisa Local,85,12330,2023-05-01,bp_lenton_blvd_street_view_may_2023.jpg
+44008226,True,Tesco Extra,90,9498,2024-11-01,Image4.jpg
+44006595,True,Tesco Express,95,9500,2022-05-01,photo_2022.jpg
+44002919,True,Tesco,90,8590,2024-04-01,photo-1.jpg
+44003133,True,Premier,90,4960,2024-07-01,prem_site_july2024.jpg
+44007578,True,Tesco,90,9495,2018-04,image4.png
+44003816,True,Premier,100,9496,2021-12-01,photo1.jpg
+44002752,True,Budgens,100,6775,2021-08,Shell_Aug_2021.jpg
+44002053,True,Costa,85,3138,2023-06,photo1.jpg
+44000762,True,Russell's Food & Drink,90,7682,2024-05,2024
+44008651,True,Centra,90,3142,2023-06-01,image1.jpg
+44006813,True,Morrisons Daily,95,9499,2024-01-01,first_image.jpg
+44007990,True,SPAR,90,5865,2022-09-01,third_image.jpg
+44009155,True,SPAR,95,6773,2022-04-01,last_image.jpg
+44004731,True,Greggs,85,9498,2024-02-01,Feb 2024
+44006394,True,Londis,90,7697,2024-08-01,139 Park Rd_Barnsley_England_Google Street View_Aug 2024.png
+44008537,False,,90,4048,2021-12-01,StreetView-Dec2021
+44005255,True,Costcutter,85,12316,2024-07,photo1.jpg
+44007826,True,Tesco Express,95,9499,2022-06-01,image-1.jpg
+44001772,True,Shell Select,90,9509,2023-08-01,Shell - George Tudorache (George) (Aug 2023).jpg
+44003942,True,Londis,90,12317,2023-05-01,4.png
+44006977,True,ASDA Express,90,12316,2024-05-01,9
+44001766,True,Costa Express,85,9510,2024-09,988645fc-2eca-481e-abcb-0344b84138bd
+44011049,True,Go,90,4953,2024-07,Street View
+44006231,True,Morrisons,95,4053,2024-06-01,street_view_2024.jpg
+44007801,True,Sainsbury's,90,9503,2024-06-01,Street View - Jun 2024
+44001217,True,Tesco,90,9502,2022-06,street_view_photo_jun_2022.jpg
+44010560,True,Teales,90,6762,2024-07,5.jpg
+44010935,True,Sainsbury's On the Go,90,9504,2022-09-01,photo_sep2022.jpg
+44002658,True,Spar,95,9498,2023-10-01,sixth_image.jpg
+44009670,True,Premier,85,5864,2022-04-01,photo1.jpg
+44011072,True,EG on the move,90,9498,2024-10,Platts Corner Services
+44009200,True,SPAR,90,3141,2022-04-01,image2.jpg
+44000958,True,Costa Express,90,9497,2019-03-01,photo1.jpg
+44001713,True,Tesco Express,95,9498,2023-04-01,image6.jpg
+44004074,True,M&S Simply Food,95,12321,2023-11-01,bp_photo_2.jpg
+44006998,True,Premier,100,12316,2021-03-01,file6.jpg
+44008115,True,SELECT,90,6772,2023-10-01,photo1.jpg
+44011024,False,,90,8579,2023-09-01,photo2.jpg
+44004910,True,Londis,95,4960,2024-10-01,texaco-image1.jpg
+44000785,True,Murco,85,4955,2024-08-01,5
+44004906,True,Tesco,90,9501,2023-04-01,photo_2023_04.jpg
+44007891,True,M&S Simply Food,90,4051,2022-03-01,photo1.jpg
+44004994,True,Costa Express,90,9500,2023-05-01,bp_shop_2023.jpg
+44001633,True,Gleaner,85,7687,2022-03-01,streetview_5_shore_st.jpg
+44005639,False,,70,4046,2023-05-01,photo1.jpg
+44003652,True,Costa Express,80,5865,2024-08-01,image2.jpg
+44001970,True,SPAR,95,6773,2022-03-01,photo2.jpg
+44002739,True,SPAR,85,9506,2023-09-01,7_A534_England_Street_View_2023.png
+44008504,False,,80,1322,2023-04-01,photo1.jpg
+44008296,True,The Co-operative Food,85,8593,2024-03-01,photo-2024.png
+44008085,True,Costa Express,80,3142,2023-06-01,image-1.jpg
+44004800,True,Asda,95,9497,2023-05-01,photo4.jpg
+44000736,True,SPAR,90,9497,2024-02-01,image 3
+44001304,True,Circle K,85,5175,2021-06,Image1.jpg
+44003663,True,Londis,90,7686,2023-06-01,Image_from_Jun_2023
+44003043,True,Gulf Store,90,11128,2023-06-01,photo-3
+44003205,True,Morrisons Daily,100,5868,2024-09,Morrisons 2242
+44009008,True,,70,9507,2024-08-01,Blair Atholl Garage - 24HR Road - Aug 2024.jpg
+44003841,True,Costa Express,85,4957,2019-10-01,image2.jpg
+44001082,True,Morrisons Daily,90,6775,2023-06-01,photo1.jpg
+44005635,True,SPAR,90,4049,2023-05-01,photo2.jpg
+44003350,True,SPAR,90,1323,2022-10-01,unknown
+44008028,False,,80,2231,2023-05-01,streetview1.jpg
+44010334,False,,50,9484,,
+44010619,True,MACE,85,1325,2021-07-01,file1.jpg
+44003987,True,M&S Simply Food,95,9940,2022-06-01,photo-5.jpg
+44005402,True,SPAR Express,90,6775,2023-01-01,BP by Samuel Knight
+44007449,True,Tesco,95,7561,2023-03-01,Tesco Petrol Station 1.jpg
+44001188,True,Maxol,85,3141,2022-07-01,image1.jpg
+44001582,True,Londis,95,9509,2023-06-01,Texaco_Bradford_on_Avon_Jun_2023.jpg
+44003235,True,Londis,90,8589,2024-02,BP Burnbank Road
+44004142,True,Budgens,95,12317,2024-11-01,photo5.jpg
+44001411,True,,85,9494,2023-07-01,image6.jpg
+44001910,True,Co-op,90,4957,2022-06-01,photo2.jpg
+44007620,True,Townhead,90,4047,2021-12,image1.jpg
+44008516,False,,0,9476,,
+44003011,True,Asda,85,12317,2023-02-01,photo4.jpg
+44003004,True,Fishergate Supershop,85,11145,2023-03-01,Fishergate_Filling_Station_Gulf_StreetView_Mar2023.jpg
+44003801,True,Mace,95,4057,2023-06-01,Dartford_Rd_Farningham_England.jpg
+44009070,False,,50,4957,2023-07-01,streetview_2023.jpg
+44002734,True,Nisa Local,90,3142,2023-05-01,Google Street View
+44008484,True,Costa,80,6772,2023-04-01,photo6.jpg
+44000846,True,Costa Express,90,8587,2023-09,second_image.jpg
+44007280,True,Co-op,90,9497,2024-05,photo_2024.jpg
+44006753,True,Budgens,95,9509,2024-06-01,6_Churscombe_Rd_Street_View_Jun_2024.png
+44002613,True,Londis,90,9497,2023-09-01,photo1
+44008675,False,,80,4952,2024-05,photo3.jpg
+44007733,True,Tesco Express,85,9498,2022-06-01,photo2.jpg
+44005543,True,Wild Bean Cafe,85,9504,2023-05-01,bp-convenience-store-street-view.jpg
+44009973,True,Tesco Extra,95,9498,2022-11-01,File 9
+44008970,True,WCF,85,3141,2023-08-01,second_image.jpg
+44010750,False,,70,4955,2023-04-01,3rd_image.jpg
+44004819,True,Morrisons,90,9498,2023-08-01,Image5.jpg
+44004593,True,,80,8587,2024-01,Ocean Haze Service Station
+44009651,True,Nisalocal,90,3142,2024-07-01,second_image.jpg
+44000653,True,M&S Food,90,5867,2023-06-01,image2.jpg
+44009474,False,,70,4954,2023-05-01,Image1.jpg
+44003997,True,ET James,90,12317,2022-03-01,photo3.jpg
+44003440,True,Londis,95,9496,2023-07,file7.jpg
+44009309,True,Londis,90,3142,2023-08-01,photo1.jpg
+44004046,True,M&S Simply Food,95,12317,2024-05,image6.jpg
+44005703,True,Gulf Store,90,3145,2023-04-01,first_photo.jpg
+44006198,True,Londis,90,3140,2023-09,photo1.jpg
+44005446,True,best-one,95,9500,2022-01-01,bp_longfleet_service_station.jpg
+44006114,True,Morrisons,95,4957,2018-10-01,second_image
+44003726,True,M&S,80,9485,2024-04,second
+44004522,True,Tesco,95,9490,2024-07-01,photo-2.jpg
+44000637,True,Costcutter,95,3140,2024-10,image1.jpg
+44006631,True,M&S,90,6773,2023-08-01,first_image.jpg
+44002284,True,SPAR,95,9497,2023-05-01,image3.jpg
+44002822,True,Roberts,90,4957,2020-08,Roberts - Bel Royal
+44003775,True,SPAR,90,7557,2023-12-01,third_photo.png
+44008678,True,Centra,95,6780,2023-03-01,emo_bells_killinchy_5.jpg
+44004464,True,M&S Simply Food,95,4053,2023-04-01,bp_streetview.jpg
+44002442,True,on the go,85,9494,2023-04,bp
+44008018,True,Premier,95,1324,2024-10-01,photo1.jpg
+44006790,True,Costcutter,90,3142,2023-07-01,photo1.jpg
+44010518,True,nearby,90,4957,2023-07-01,image1.jpg
+44008132,True,Budgens,90,4954,2023-02,3.jpg
+44010075,True,SPAR,95,5177,2024-07-01,photo1.jpg
+44003332,True,EV Power,85,5865,2024-07-01,photo1.jpg
+44004230,True,Morrisons Daily,95,12319,2024-09-01,image7.jpg
+44005993,True,Premier,85,4046,2021-11,photo1.jpg
+44006545,True,Tesco,90,4054,2023-06-01,street_view_june_2023.jpg
+44005735,True,Londis,95,9498,2024-08-01,Image4.jpg
+44003588,True,Spar,85,12317,2024-09-01,image1.jpg
+44005270,True,Morrisons Daily,95,7683,2024-08,Morrisons Petrol Station
+44003257,True,Go Local,95,9497,2023-07-01,photo2.jpg
+44003075,True,Bestcutter,85,9942,2023-06-01,JET_Gainsborough_2.jpg
+44003464,True,Londis,95,5866,2022-07-01,Shell4.jpg
+44006228,True,Spar,85,3148,2024-07-01,3_Northway_Jul_2024.jpg
+44006072,True,Tesco,85,4953,2024-04-01,
+44001805,True,Londis,95,3142,2024-04-01,image2.jpg
+44008564,True,SPAR,95,3142,2024-07-01,photo_2.jpg
+44000588,True,Costa Express,90,9496,2021-09,photo_2.jpg
+44005334,True,Londis,85,12315,2024-04-01,Esso_Fuel_Street_View.jpeg
+44001540,True,ASDA Express,95,7682,2024-10-01,photo1.jpg
+44006298,False,,80,3138,2022-06-01,image1.jpg
+44007296,False,,0,1304,,
+44003832,True,JWP,85,9505,2023-07-01,StreetView_5_Derby_Rd.jpg
+44009066,True,SPAR,85,4957,2022-06-01,photo2.jpg
+44007672,True,Spar,85,9496,2023-03,rendering1.jpg
+44003890,True,Nisa Local,90,9499,2020-09-01,image3.jpg
+44002308,True,Spar,95,9497,2022-12-04,photo-5
+44007241,True,Morrisons Daily,95,3143,2023-06-01,image2.jpg
+44003752,True,Greggs,85,12317,2024-05-01,last_image.jpg
+44001909,True,Nisa Extra,90,6777,2023-07,google-street-view-2023.jpg
+44001347,True,Nisa Local,85,6372,2023-03-01,street_view_mar_2023.jpg
+44010666,True,Vivo,90,4052,2022-05,Vivo- Loughran's Shop
+44003033,True,Morrisons,85,7558,2024-11-01,image4.jpg
+44001296,True,Londis,95,9937,2024-09-01,7.jpg
+44006517,True,Sainsbury's,95,9502,2024-03-01,Sainsbury's Petrol Station
+44004996,True,Centra,95,1325,2023-04-01,image1.jpg
+44007454,True,Costa Express,90,8745,2022-03,Image4.jpg
+44005683,True,,50,8590,2022-11-01,photo_nov_2022.jpg
+44008904,False,,80,4044,2020-11,Sands Garage
+44010012,True,Tesco,90,9500,2023-06-01,google_maps_street_view.jpg
+44004247,True,JET,85,12324,2023-09-01,Francis St Service Station - Sep 2023.jpg
+44002717,True,ASDA,90,3144,2024-02-01,Asda Petrol - Ben Sanders
+44001448,True,ASDA Express,95,7681,2024-05-01,3.jpg
+44007467,True,Nisa Express,90,1608,2024-05-01,image1.jpg
+44002617,True,Costa Express,90,1323,2023-07,image1.jpg
+44001210,True,Costcutter,90,9498,2022-08-01,image6.jpg
+44011060,True,Craig's Costcutter,95,9502,2023-08,photo-aug-2023.jpg
+44010700,True,SPAR,90,3139,2024-03,image1.jpg
+44006010,True,Costa,90,6770,2023-03,Image 3
+44001564,True,Spar,90,9502,2023-05-01,68 Portland Pl - Google Street View.jpg
+44004628,True,Shop 'n Drive,95,1327,2022-05-01,image1.jpg
+44010884,True,SPAR,90,9499,2024-06-01,photo_2024.jpg
+44002184,True,Londis,95,1326,2024-06-01,image1.jpg
+44004283,True,Morrisons,90,8594,2024-09,File-Name-Sept-2024.jpg
+44009959,True,Costcutter,90,9498,2022-11-01,image7.jpg
+44007572,True,Asda,90,9497,2023-10-01,last_photo.jpg
+44001977,True,Londis,90,9501,2023-09,konrad_sept_2023.jpg
+44003842,False,,80,3136,2023-08,image1.jpg
+44003319,True,Tesco,80,6776,2022-10-01,photo_oct_2022.jpg
+44003461,True,Londis,90,9499,2022-04-01,bp_2.jpg
+44005023,True,Morrisons,90,8590,2023-09-01,file7.jpg
+44011037,False,,70,3138,2021-03-01,first_image.jpg
+44005484,True,Morrison,85,7680,2024-05,Image 5
+44002517,True,Shop 'N Drive,90,9502,2023-04-01,photo by Darren Eggleston
+44007386,True,West One,90,4049,2024-07-01,photo2.jpg
+44004687,True,M&S Food,90,8588,2024-08-01,4
+44006537,True,Family Shopper,90,5865,2022-07-01,image1.jpg
+44007231,True,East of England Co-op,90,5869,2022-05-01,street_view_photo.jpg
+44006952,True,SPAR,90,6366,2024-01,Texaco2.jpg
+44002235,True,Costcutter,90,9501,2023-12-01,[Image 6](attachment link)
+44006844,True,ASDA Express,90,9496,2024-06,photo4.jpg
+44001839,True,Welcome,90,8586,2023-03,photo2.jpg
+44004469,True,Little Waitrose,95,9494,2023-02,Shell
+44010765,False,,90,1322,2021-07-01,image1.jpg
+44007220,True,Costcutter,85,6774,2024-08-01,photo2.jpg
+44004510,True,SPAR,95,6774,2023-06,Shell - Jun 2023
+44006217,True,Premier,85,1324,2023-06-01,photo1.jpg
+44006083,True,Asda,85,3142,2023-03-01,photo-2.png
+44010395,True,Vivo,90,1325,2024-09-01,image1.jpg
+44009569,True,Asda Express,90,3140,2024-03,photo2.jpg
+44006678,False,,90,9483,2022-06,6.jpg
+44002291,True,Nisa Local,90,9498,2024-05-01,image4.jpg
+44008601,True,Miles,85,1324,2023-07-01,photo1.jpg
+44007509,True,Nisa Local,95,12322,2022-03-01,Ascona Green Garage Service Street View
+44005292,True,TESCO,95,7555,2022-05,image2.jpg
+44004217,True,Sainsbury's,90,5177,2022-06,photo1.jpg
+44003584,True,Londis,90,12314,2024-03,5
+44006837,True,Select,95,9494,2021-11-01,Shell
+44002751,True,Londis,90,7681,2020-10-01,image4
+44007814,True,Costa Express,85,5863,2021-02,photo2.jpg
+44009630,True,SPAR,90,1325,2023-05-01,photo1.jpg
+44006584,True,Tesco Express,90,5868,2024-08-01,Street View 2024
+44008547,False,,80,4045,2024-09-01,street-view-1.jpg
+44004334,True,Central Garage General Store,90,7559,2023-10-01,photo3.jpg
+44007890,True,SPAR,95,9495,Oct 2024,Image 3
+44005308,True,Nisa Local,90,3986,2024-08-01,2
+44007920,True,Lifestyle Express,90,9496,2024-07,5th attached image
+44007313,True,M&S,85,1325,2021-07-01,photo1.jpg
+44005152,True,M&S Food,90,7683,2023-10-01,bp Alan Morty
+44003556,True,Londis,95,12318,2024-09-01,image6.jpg
+44010046,True,TESCO,90,3987,2024-07-01,Image 2
+44001575,True,Nisa Local,85,1330,2024-08-01,worcester_petrol_station.jpg
+44002665,True,little Waitrose,90,9499,2023-06-01,photo_5.jpg
+44006656,True,Morrisons,85,9500,2024-08-01,Morrisons Petrol Station
+44006372,True,Sainsbury's,90,1329,2022-11-01,street_view_1.jpg
+44005814,True,Londis,90,3142,2024-10-01,image2.jpg
+44007797,True,Morrisons Daily,95,5866,2024-07-01,003.jpg
+44008680,True,Centra,95,5865,2023-07-01,photo1.jpg
+44005977,True,Spar,90,9497,2022-01-01,photo7.jpg
+44009445,False,,80,4044,2023-06,photo1.jpg
+44003913,True,Sainsbury's,95,9500,2023-05-01,photo_6.jpg
+44010868,True,SPAR,90,3139,2021-07,photo2.jpg
+44003490,True,Londis,90,3142,2023-09-01,photo1.jpg
+44002564,True,Shell Shop,90,7679,2023-09,photo1.jpg
+44008589,False,,90,1322,2023-06-01,image1.jpg
+44005365,True,Londis,90,8748,2024-09-01,image1.jpg
+44004570,True,Morrisons Daily,85,3141,2024-05,first_image.jpg
+44009951,True,Costcutter,90,1334,2021-06,17_Main_St_Cloughmills_Northern_Ireland.jpg
+44008152,True,SPAR,95,4956,2023-08-01,3.jpg
+44010008,True,Tesco,95,9497,2021-10-01,image3.jpg
+44003810,True,SPAR,85,9501,2020-09-01,Shell_2020_Sep.png
+44000904,True,ASDA,95,6774,2022-10-01,Image-1.jpg
+44006427,True,Subway,90,9497,2021-03-01,image7.jpg
+44010061,True,Texaco,95,11128,2024-06-01,most_recent_photo.png
+44000502,True,Londis,90,9498,2024-10-01,image6.jpg
+44001940,True,ASDA Express,90,7682,2024-06-01,photo1.jpg
+44007084,True,M&S Food,95,5178,2023-10-01,image3.jpg
+44006480,True,Tesco,95,9497,2024-04-01,image3.jpg
+44001734,True,Costa,90,1324,2024-07-01,photo1.jpg
+44002477,True,TESCO,95,9499,2023-09,photo-sep-2023.jpg
+44006601,True,SPAR,95,9497,2023-08-01,image6.jpg
+44000996,True,Tesco,85,9498,2024-05-01,photo_1.jpg
+44003111,True,M&S Food,9,9498,2023-07-01,bp7.jpg
+44005395,True,Ultra,90,6772,2023-04-01,photo2.jpg
+44004673,True,Costa,80,4956,2022-10-01,third_image.jpg
+44009607,True,Londis,85,7681,2024-07-01,Street View
+44008562,True,Mace,85,5868,2024-07-01,Berkeley_Service_Station.jpg
+44005096,True,Spark,90,9496,2022-11-01,photo7.jpg
+44004508,True,Shop'N Drive,90,9502,2023-10-01,photo_10_2021.jpg
+44006030,True,Tesco,90,4956,2024-09,photo-1.jpg
+44010536,True,Skellister Stores,90,5868,2022-07-01,Skellister Stores
+44006257,True,ASDA,90,8589,2024-04-01,photo1.jpg
+44009340,False,,70,3145,2024-06-01,beeches_road_service_station_2024.jpg
+44006717,True,Little Waitrose & Partners,90,9503,2021-08-01,photo_2021_aug.png
+44006190,True,Shell,95,5862,2023-12,photo_4
+44002498,False,,90,9498,2023-06,photo1.jpg
+44001334,True,Tesco Express,90,12325,2022-05-01,tesco_express_may_2022.jpg
+44003805,True,Morrisons,90,7681,2023-12-01,3.jpg
+44002523,True,Costa,85,4048,2020-10-01,image3.jpg
+44010851,True,Sinclair General Stores,90,9498,2021-08,Sinclair General Stores
+44006004,True,Tout's,90,9497,2021-08-01,photo6.jpg
+44006710,True,Tesco Express,90,6775,2024-03-01,photo_1.jpg
+44001507,True,JET essentials,90,9497,2024-01-01,image1.jpg
+44002903,True,Londis,95,5865,2024-07-01,Street View
+44006856,True,deli2go,90,8586,2024-02,
+44003833,True,Morrisons,95,9498,2024-08,Morrisons Petrol Station
+44003307,True,Londis,90,6775,2022-02-01,photo_6.jpg
+44004658,True,24 Hours,90,6771,2023-04,image3.jpg
+44002256,True,Village Store & Off Licence,85,9498,2021-10,photo1.jpg
+44000739,False,,70,4945,,
+44002655,True,Morrisons,90,4958,2023-09-01,photo1.jpg
+44000966,True,Londis,90,1324,2022-11,image1.jpg
+44009658,True,ASDA Express,90,5866,2024-06-01,Image4.jpg
+44007088,True,GO WELL,90,9496,2024-07,photo_8.jpg
+44008148,True,M&S Simply Food,95,9499,2023-04-01,second_photo.jpg
+44002399,True,SIOP/SHOP,85,9501,2024-05-01,photo-3.jpg
+44004286,True,Morrisons,90,3142,2022-11-01,photo1.jpg
+44006397,True,Costcutter,90,9509,2024-10,Jet Petrol Station Felling Bypass Gateshead SGN - Dicky King.jpg
+44004660,True,SPAR,85,4957,2024-03-01,image2.jpg
+44005311,True,Londis,80,8748,2023-08,image_3.jpg
+44005614,True,EUROSPAR,90,1327,2021-06-01,image1.jpg
+44007910,True,Londis,95,1326,2024-08-01,photo1.jpg
+44009937,False,,80,1320,2023-05,photo1.jpg
+44000661,True,Londis,95,4050,2024-04-01,photo2.jpg
+44003609,True,SPAR,95,4047,2023-06-01,3
+44003291,True,Spar,90,4049,2024-09-01,image3.jpg
+44005179,True,Premier,85,9492,2024-08,bp
+44007667,True,Central Convenience Stores,90,4957,2024-07-01,Street View
+44000854,True,Costa Express,90,8588,2020-04,photo-2020
+44002004,True,Co-op,90,9503,2023-03-01,Texaco/Co-op/Highways.jpg
+44007517,True,TESCO,95,11126,2023-03,Tesco Petrol Station
+44007209,True,Londis,9,8593,2024-07-01,Esso convenience store photo.jpg
+44002960,True,SPAR,95,5865,2023-04-01,JET Street View
+44010058,True,Shell,80,7555,2024-05,photo_4.jpg
+44007014,True,Londis,95,12322,2020-10-01,street_view_oct_2020.png
+44008013,True,Morrisons,95,9509,2024-02-01,Morrisons_Petrol_Station_Feb_2024.png
+44001129,True,Dalgleish,85,4958,2023-02-01,photo4.jpg
+44003664,True,Tesco,95,9504,2022-11-01,tesco_petrol_station_nov2022.jpg
+44005385,True,Select,90,11131,2023-08-01,"97 London Rd - Bicester, England"
+44005998,True,M&S Food,95,4050,2023-03-01,image1.jpg
+44007782,True,Londis,95,8588,2023-03-01,bp
+44002825,True,Costcutter,85,1326,2009-09-01,photo1.jpg
+44005585,True,Waitrose,90,9498,2022-02-01,photo_3.jpg
+44010308,True,Shop,95,9500,2023-08-01,jet-photo-aug-2023
+44004480,True,The Co-operative Food,100,9498,2024-07-01,8.jpg
+44010004,False,,85,9496,2024-10,october_2024_photo.jpg
+44006619,True,,85,3142,2023-03-01,streetview_mar_2023.jpg
+44005921,True,Tesco,90,7679,2022-10,third_image.jpg
+44003289,True,SPAR,90,9501,2024-06-01,Esso - Photo by Rob Hall
+44007363,True,Little Waitrose,85,9498,2024-04-01,photo2.jpg
+44008581,True,,90,7678,2024-07-01,image2.jpg
+44005716,True,SPAR,95,3141,2023-08-01,photo1.jpg
+44004637,True,Morrisons Daily,90,9499,2024-06-01,image8.jpg
+44008604,True,Centra,90,1325,2022-04-01,image1.jpg
+44010041,True,Tesco,90,7560,2023-03,"Camelon, Scotland - Google Street View"
+44001949,True,Londis,85,4048,2023-08,image2.jpg
+44010646,True,Premier,90,3143,2023-06-01,premier-store-1.jpg
+44010615,True,Central,90,1329,2024-08-01,Central-Convenience-Chulmleigh.jpg
+44004539,True,SPAR,80,3139,2020-10,image3.jpg
+44004765,True,Tesco,90,9497,2023-09-01,image2.jpg
+44008159,True,Co-op,90,4049,2023-07-01,image2.jpg
+44009062,True,Morris,85,5865,2024-04-01,image1.jpg
+44007482,True,Nisalocal,90,6370,2024-10,A663_Royton_England
+44007299,True,bp,85,1322,unknown,Street View & 360°
+44009733,True,Asda,90,9499,2021-01,StreetView_Jan2021.jpg
+44003353,True,Tesco Extra,90,5864,2021-12-01,Image
+44007976,True,Lincolnshire Co-op,85,3141,2018-06,Image2.jpg
+44003273,True,Budgens,75,8589,2023-10-01,photo1.jpg
+44009995,True,Tesco,90,8589,2021-08-01,photo1.jpg
+44003141,True,ASDA,90,4957,2023-05-01,photo1.jpg
+44006705,True,Whynot Service Station,85,4960,2024-11-01,photo1.jpg
+44001451,True,Londis,90,5866,2021-09-01,photo3.jpg
+44001147,True,Tesco,90,9497,2022-09-01,image9.jpg
+44006794,True,Jet,85,6770,2024-07,photo1.jpg
+44002156,True,ASDA Express,95,5866,2024-05-01,image1.jpg
+44009293,True,SPAR,95,4055,2024-05-01,streetview_image_may_2024.png
+44009590,True,Shop,80,5863,2022-08-01,5.jpg
+44005401,True,Londis,90,6774,2023-10-01,Image2.jpg
+44001580,True,Costa,80,3140,2024-07-01,image2.jpg
+44005487,True,Sainsbury's,90,9499,2023-04-01,photo1.jpg
+44010185,True,SuperValu,90,3988,2023-04-01,second_photo.jpg
+44006759,True,Londis,90,7682,2024-06-01,image3.jpg
+44004578,True,Morrisons Daily,85,4051,2018-09-01,image1.jpg
+44002400,True,ASDA Express,90,9498,2024-08-01,photo1.jpg
+44007730,True,Londis,85,9496,2022-06,photo1.jpg
+44000802,True,SPAR,95,7680,2024-04-01,Esso
+44007880,True,Londis,90,8590,2023-11-01,photo5.jpg
+44010893,True,Premier,90,4046,2023-04,image1.jpg
+44010091,False,,75,12316,2024-05,streetview-image-2024.jpg
+44009706,True,Asda,90,9497,2022-08-01,image4.jpg
+44008241,True,Londis,90,9498,2024-09-01,photo9.jpg
+44004294,True,Costcutter,85,1326,2022-04-01,image1.jpg
+44003847,True,Tesco,90,3141,2021-09-01,photo1.jpg
+44010235,False,,70,4046,2023-09-01,img2.jpg
+44003323,True,SPAR,90,9495,2024-01,bp7.jpg
+44003084,True,Costa Express,90,5187,2024-07-01,Applegreen_Wednesbury_Street_View_2024.jpg
+44006476,True,Londis,90,9497,2022-05,StreetViewPhoto.jpg
+44005544,True,Wild Bean Cafe,80,9498,2024-10-01,Image 2
+44003852,True,Starbucks,85,9495,2020-12,image2.jpg
+44009845,True,Morrisons,90,9511,2022-12-01,Morrisons Petrol Station - Blaydon Butcher - Dec 2022
+44005888,True,ASDA,95,9497,2024-09-01,image3.jpg
+44003454,True,Nisa Local,85,4957,2023-04-01,bp.jpg
+44000906,True,Londis,95,9499,2023-11-01,image7.jpg
+44010706,False,,0,9484,,
+44002139,True,Sainsbury's,100,9499,2024-07-01,latest_photo.jpg
+44004229,True,,75,6367,2023-05,64 Fosse Way May 2023
+44007188,True,,80,1324,2024-06-01,fordhouses_service_station.jpg
+44004167,False,,70,3983,2023-03,StreetView1.jpg
+44008181,True,Nisa Local,95,9498,2022-10-01,image7.jpg
+44005786,True,Spar,85,9497,2022-01-01,image20.jpg
+44005248,True,TESCO,90,6369,2022-10-01,street-view-1.jpg
+44006711,True,SPAR,80,4956,2024-08,StreetViewPhoto.jpg
+44003974,True,Costa Express,85,5177,2022-03-01,photo1.jpg
+44007577,True,M&S,95,3141,2022-11-01,image1.jpeg
+44009887,True,Go Local,90,4049,2024-09-01,image2.jpg
+44009717,True,Asda,90,9506,2023-03,Asda Petrol - Mar 2023
+44003117,True,Waitrose,90,9500,2024-11-01,photo-2024-11
+44002270,True,SPAR,90,9500,2024-05,SPAR_Petrol_Station.jpg
+44010883,True,Scotmid Coop,90,1327,2024-09-10,photo1.jpg
+44005190,True,SPAR,90,9497,2023-06-01,photo2.jpg
+44006245,True,Roys of Wroxham,90,3145,2024-08-01,image1.jpg
+44004437,True,Tesco,90,9497,2024-03-01,image3.jpg
+44009993,True,Tesco,95,4049,2022-07-01,image1.jpg
+44000632,True,Subway,90,9495,2024-06,image1.jpg
+44006867,True,Applegreen,85,4048,2024-10,photo1.jpg
+44004494,True,Londis,95,9508,2023-01-01,Esso_Torben_MAYBREY_Photo-Jan2023
+44005364,False,,0,12311,2024-10-01,A5183 England - PC Dodgehound
+44004336,True,Tesco,85,3987,2021-08-01,image1.jpg
+44006789,True,Spar,85,4049,2023-04-01,photo1.jpg
+44005275,True,SPAR,90,1613,2024-04-01,convenience_store_apr2024.jpg
+44009750,True,Budgens,90,9502,2022-09-01,shell_station_september_2022.jpg
+44004813,True,ASDA,90,9503,2024-09,asda_petrol_station_2024_09.jpg
+44002475,True,Tesco,95,9503,2023-12-01,tesco_petrol_station_dec2023.jpg
+44003782,True,Hello,90,9496,2023-10-01,photo6.jpg
+44002803,True,Costa,90,6770,2021-08-01,4
+44004122,True,Select,85,9934,2024-11,photo6.jpg
+44010398,True,Family Shopper,90,9496,2020-09-01,5.jpg
+44009382,True,Dragon,90,9496,2022-08-01,image9.jpg
+44007546,True,M&S,85,7557,2023-07-01,photo1.jpg
+44006549,True,Budgens,95,3139,2023-06,image1.jpg
+44002904,True,TESCO,90,4956,2023-08-01,photo5
+44000619,True,Tesco Express,90,7689,2024-04-01,Esso_TescoExpress_Apr2024.jpg
+44007815,True,Spar,95,7681,2024-09-01,image2.jpg
+44009947,True,Causeway Food Store,85,1327,2023-06-01,photo1.jpg
+44007508,True,CK foodstores,90,9938,2022-03-01,image3.jpg
+44004903,True,The Co-operative,90,9498,2024-07-01,photo1.jpg
+44008242,True,Costa,85,4048,2024-08-01,image2.jpg
+44002037,True,Tesco Extra,90,9499,2021-04,photo-2021-04
+44002511,True,SPAR,90,4049,2024-07-01,3rd Image
+44004045,False,,90,5176,2022-11,fielders_way_street_view.png
+44000512,True,Costa Express,85,4049,2023-08-01,first_image.jpg
+44007545,True,Sainsbury's,95,12320,2024-01-01,photo-1.jpg
+44005383,True,Londis,95,12319,2023-08-01,image-2.jpg
+44008909,True,Cuxton Auto Services,85,6775,2023-09-01,photo1.jpg
+44009764,True,,70,7679,2024-10-01,StreetView_1
+44001155,False,,80,1322,2022-10-01,image1.jpg
+44009119,False,,0,5852,,
+44004187,True,Morrisons,90,5178,2022-08-01,photo1.jpg
+44010331,False,,90,3130,2022-11-01,photo2.jpg
+44002496,True,Tesco Express,95,9498,2023-08-01,last_photo.jpg
+44008917,True,Star,80,4955,2021-11,photo1.jpg
+44010184,True,OK,85,1606,2022-11-01,example-photo.jpg
+44010535,False,,90,9500,2022-07-01,114 B9074 Scotland Google Street View.jpg
+44005556,True,,50,9492,2017-08-01,bp
+44002618,True,24 Hours,85,7681,2022-04-01,photo3.jpg
+44002687,True,ASDA Express,90,8594,2024-11-01,Image_capture_Nov_2024
+44003147,True,Costa,85,8586,2022-09-01,bp
+44008845,True,Park & Shop,90,9501,2023-09-01,shell_photo_2023.jpg
+44006331,True,EG Group,90,9500,2023-04-01,last_exterior_shop_image.jpg
+44001837,False,,90,9494,2023-06-01,image1.jpg
+44001790,True,ASDA Express,95,9501,2024-02-01,Esso-Feb2024.jpg
+44009598,True,SPAR,90,9495,2024-08,image7.jpg
+44006950,True,Tesco,95,11127,2022-10-01,Image4.jpg
+44010687,False,,80,4954,2024-09-01,photo1.jpg
+44011054,True,Londis,95,9492,2024-02,The Kay Group Sandyford (BP)
+44010624,True,Sargeant's,95,4051,2023-11-01,image2.jpg
+44002263,True,deli by Shell,95,8595,2023-08-01,photo-aug-2023.jpg
+44002437,True,Shell,85,9496,2023-04-01,second-image.jpg
+44008569,True,Spar,80,3140,2022-04,photo-3.jpg
+44009647,True,Wild Bean Cafe,85,4048,2022-04,photo1.jpg
+44005678,True,Londis,95,3142,2023-06-01,second_image.jpg
+44006087,True,park & shop,100,9500,2024-08,Shell_Herod_Ncube.png
+44000577,True,SPAR,95,4047,2024-03,image2.jpg
+44004136,True,Shell Select,95,7555,2024-11,photo2.jpg
+44010069,True,Costcutter,90,8746,2024-07,photo1.jpg
+44003244,True,Asda,95,3141,2024-05-01,photo1.jpg
+44007677,True,Co-op,85,9494,2022-06,Image capture
+44001724,True,Select,90,9496,2022-12-01,photo2.jpg
+44007263,True,Morrisons Daily,90,6782,2024-07-01,Morrisons Petrol Station - Jul 2024
+44009512,True,Costa,75,7672,2023-03-01,image1.jpg
+44002217,True,TESCO express,95,8592,2023-05-01,97 Macclesfield Rd
+44008127,True,Morrisons Daily,90,4049,2022-03,photo2.jpg
+44009509,False,,0,9476,,
+44002900,True,Co-op,95,9499,2023-09,photo_Sep_2023.jpg
+44005299,True,Sainsbury's,85,7559,2024-07-01,photo2.jpg
+44007071,False,,80,8590,2024-06-01,photo_jun_2024.jpg
+44001990,True,Costa Coffee,90,1329,2022-09-01,Burn_Road_Service_Station.jpg
+44003326,True,SPAR,85,9497,2021-09-01,image1.jpg
+44006425,True,ASDA Express,95,4052,2024-04-01,street_view_3.png
+44002206,True,Tesco,100,8589,2024-02-01,Screenshot 3
+44003479,True,Costa Express,90,9499,2024-07-01,photo_2024.jpeg
+44004670,True,Costa Express,90,5866,2022-03-01,fourth_image.jpg
+44003691,True,Morrisons Daily,95,9501,2023-08,Esso_Aug2023.jpg
+44007766,False,,70,3141,2023-06-01,Venables Rd Northwich England
+44004449,True,ASDA Express,90,4050,2024-11-01,photo3.jpg
+44002495,True,Tesco,90,7680,2024-09-01,5.jpg
+44004968,True,Sainsbury's,85,1327,2024-05-01,photo1.jpg
+44005425,True,Little Waitrose,95,12321,2024-09,shell-photo-sep-2024.jpg
+44005963,True,Morrisons Daily,95,6777,2024-06,Image capture: Jun 2024
+44009960,True,Today's Extra,90,1325,2022-10-01,photo1.jpg
+44000623,True,Morrisons,95,4958,2022-12-01,image2.jpg
+44008803,True,Caffia,95,7685,2023-04-01,Jim's Garage Ford and Mazda
+44007148,True,SPAR,95,9495,2021-09,photo2.jpg
+44002220,True,ASDA on the Move,90,9492,2023-02-01,image8.png
+44007959,True,SPAR,95,3141,2023-05-01,photo2.jpg
+44001211,True,Tesco Express,90,9502,2024-05-01,Image capture: May 2024
+44001659,True,Tesco Express,90,4964,2023-08-01,image4.jpg
+44005617,True,Spar,85,4049,2019-01-01,photo1.jpg
+44005464,True,Londis,95,6772,2023-10,photo2.jpg
+44005778,True,Tesco,85,6771,2024-08,photo4.jpg
+44009850,True,Morrisons,95,6774,2024-10-01,photo1.jpg
+44005070,True,Londis,90,3146,2024-04-01,streetview-apr2024.jpg
+44002296,True,Select,90,9496,2023-10-01,Image 7
+44010044,False,,100,9926,2023-12-01,photo4.jpg
+44007651,True,SPAR,100,9495,2023-03,image3.jpg
+44010608,True,Naughton Motors,80,1327,2024-06-01,streetview.jpg
+44008681,True,Clarkes,85,1325,2023-06-01,photo1.jpg
+44009821,True,express,85,8591,2023-12-01,express_dec_2023.jpg
+44003428,True,Little Waitrose & Partners,95,7686,2023-12-29,Shell_2023.jpg
+44001923,True,Texaco,85,3139,2024-09,photo2.jpg
+44002975,True,Costcutter,95,3142,2022-08-01,image1.jpg
+44002089,True,Select,85,9499,2020-09,photo_2020_09_select.jpg
+44006033,True,SPAR,90,9497,2022-10-01,image3.jpg
+44009895,True,Sainsbury's,100,4960,2024-06-01,image1.jpg
+44010764,True,Mace,95,4955,2023-11,photo2.jpg
+44006244,True,Mace,90,6771,2023-08,photo1.jpg
+44001054,True,Shop'n Drive,90,9498,2023-07-01,image8.jpg
+44010011,True,Tesco Extra,90,9499,2024-07-01,photo-4.jpg
+44008615,True,Costcutter,95,4052,2022-07-01,Costcutter12.jpg
+44002846,True,SPAR,95,9499,2017-07-01,street_view_3.jpg
+44008097,True,Premier Express,90,9497,2023-06-01,photo4.webp
+44010342,True,Costa,90,9501,2024-07-01,Street View - Applegreen Hall Green
+44002573,True,Londis,90,4050,2024-01-01,photo1.jpg
+44008843,True,Spar,95,9497,2024-09-01,image6.jpg
+44003698,True,Londis,90,4048,2024-05,bp_4
+44007859,True,Londis,95,7682,2024-07-01,Image 6
+44003100,True,best-one,90,3143,2023-06-01,StreetViewTexaco.jpg
+44003344,True,Hello.,90,4956,2022-05-01,photo1.jpg
+44000851,True,SPAR,90,6771,2024-07,second_photo.jpg
+44006714,True,Sainsbury's,90,6773,2022-10,image1.jpg
+44004492,True,Londis,85,6779,2023-05-01,google_street_view_2023.jpg
+44006920,True,Highland Fuels,90,9499,2024-05,Scourie Filling Station
+44007236,True,M&S Simply Food,90,4951,2024-06-01,photo2.jpg
+44008437,True,Londis,85,1325,2022-05-01,1.jpg
+44009508,False,,90,1305,2023-08-01,photo1.jpg
+44002747,True,,70,4952,2024-07,photo1.jpg
+44000862,True,SPAR,100,9497,2020-07-01,image7.jpg
+44008497,True,ASDA,90,4050,2022-03-01,Image_1.jpg
+44009645,True,Costa Express,80,9508,2024-06-01,Applegreen Small Heath - M U - Jun 2024.jpg
+44010526,False,,85,5862,2024-03-01,image1.jpg
+44002688,True,Londis,85,7681,2022-06-01,2.jpg
+44003578,True,Spar,95,7557,2023-08-01,image2.jpg
+44004806,True,Premier,90,1333,2023-03,Texaco_England_246_A675_Mar_2023.jpg
+44008081,True,Asda,95,9497,2023-11-01,photo8.jpg
+44000641,True,ASDA On the Move,90,6776,2023-10-01,photo2.jpg
+44011013,True,Morrisons Daily,90,4963,2024-06-01,street-view-2024.jpg
+44005343,True,ASDA On the Move,90,12320,2023-07-01,photo3.jpg
+44007528,True,SPAR,95,12321,2024-03-01,Shell_Hastings_2.jpg
+44009424,False,,50,3138,2024-05-01,photo2.jpg
+44004535,True,SPAR,90,9499,2024-01-01,Image-007b.jpg
+44003486,True,The Co-operative Food,95,9500,2023-04-01,"A632, England"
+44005945,True,Select,85,6780,2024-08,menai_bridge_wales_street_view_aug_2024.jpg
+44010267,True,Spar,90,6778,2023-07-01,Street View - Jul 2023.jpg
+44007090,True,Express,90,3140,2024-04-01,photo1.jpg
+44000575,True,SPAR,90,4958,2024-07-01,photo_1.jpg
+44011070,True,Premier,95,9496,2024-06-01,second_image.jpg
+44010538,True,Day Today,85,5870,2018-05-01,JI_Herculson_2018.jpg
+44008506,True,Asda,95,4957,2024-11-01,photo2.jpg
+44001149,True,Nisa Local,100,4957,2024-10,JET-2.jpg
+44010502,False,,85,1315,,photo1.jpg
+44001963,True,Costa Express,90,5865,2023-03-01,photo5.jpg
+44003071,True,SUBWAY,90,5177,2024-07-01,image1.jpg
+44005167,False,,75,9492,2023-02,photo2.jpg
+44010257,True,ASDA,90,9506,2023-06-01,Saddam Hussain - Photo - Jun 2023
+44008903,True,Family Choice,85,4957,2017-06-01,first_image.jpg
+44011052,False,,85,5866,2024-02,Go-24-Express-2024.jpg
+44006777,True,Asda,85,4957,2022-10-01,photo1.jpg
+44000959,True,Applegreen,75,9500,2021-03-01,photo_2021.jpg
+44008121,True,Morrisons Daily,90,9498,2024-10-01,1.jpg
+44004302,False,,70,4952,2023-07,image3.jpg
+44002431,True,Londis,100,9498,2022-09-01,photo5.jpg
+44004444,True,Spar,95,4953,2022-08,bp
+44001400,True,Londis,95,12310,2024-08-01,photo1.jpg
+44007957,True,Morrison,95,6774,2023-08-01,image3.jpg
+44008019,False,,70,4046,2023-05-01,third_photo.jpg
+44003488,True,Londis,98,6774,2023-04-01,photo1.jpg
+44010513,True,BSB Motors,90,1326,2023-04-01,image1.jpg
+44004647,True,Shell Select,90,9501,2023-05-01,photo-may-2023.png
+44004798,True,SHOP'N DRIVE,95,7688,2024-07-01,photo-2024-google-street-view.png
+44005014,True,Premier,95,8594,2024-09-01,texaco_2024_streetview.jpg
+44003881,True,Costa Express,85,9498,2023-06-01,photo-2.jpg
+44005041,True,Sainsbury's,90,5867,2022-10-01,photo3.jpg
+44007315,True,Londis,90,9504,2023-09-01,photo5.jpg
+44005667,False,,80,4052,2023-07-01,image4.jpg
+44006273,True,Premier,80,9498,2023-07,photo-2023-07.jpg
+44006881,True,Sainsbury's,80,9497,2022-06,image6.jpg
+44010451,False,,90,1322,2023-07,morgan_fuels.jpg
+44007914,True,Tesco Extra,85,9514,2024-06-01,8c6543633dff2fa5eb26fde9f7353651.jpg
+44004171,True,M&S Simply Food,85,12315,2023-08,bp
+44008322,True,Asda,95,4047,2023-12,photo2.jpg
+44008258,True,Loco,90,5865,2023-12-01,photo1.jpg
+44007985,True,best-one,85,5869,2022-06-01,east_lane_service_station_4.jpg
+44004095,True,ASDA Express,95,12316,2024-10,image7.jpg
+44003792,True,Morrisons,90,4050,2022-04-01,image2.jpg
+44003451,True,Budgens,90,3141,2024-09-01,image1.jpg
+44010625,False,,80,1327,2024-03-01,upton_noble_garage.jpg
+44004342,True,Lavazza,80,5175,2023-07,photo2.jpg
+44005772,True,Spar,85,9497,2023-05-02,photo2.jpg
+44002790,True,Morrisons,90,3142,2023-04-01,image2.jpg
+44007314,True,Londis,90,4050,2024-08-01,image1.jpg
+44007294,True,Morrisons,90,4969,2023-04-01,morrisons-petrol-station-apr-2023.jpg
+44010686,False,,90,1322,2024-08-01,image1.jpg
+44004804,True,ASDA Express,90,4958,2023-12-01,Image4.png
+44001328,True,Triangle Service Station,90,12316,2024-05,seventh.jpg
+44009688,True,ASDA,95,3141,2024-01-01,photo2.jpg
+44005672,True,SHOP'N DRIVE,95,4050,2022-11-01,image2.jpg
+44001096,True,Budgens,90,9500,2023-08,15.08.2023 Fuel prices
+44007377,True,Select,90,8591,2021-09-01,Shell_Select_2021.jpg
+44006795,True,Shop'n Drive,90,4057,2023-10-01,street-view-esso-oct-2023.jpg
+44005279,True,Bradleys,90,12327,2024-05-01,Texaco 1 Pavilion Ct Newtown Wales Google Street View.jpg
+44002979,True,SPAR,90,3141,2022-04-01,photo1.jpg
+44004579,True,Shell Shop,85,4957,2023-10-01,shell3.jpg
+44009489,False,,80,9494,2024-09-01,photo1.jpg
+44004397,True,Londis,85,1326,2023-06-01,image1.jpg
+44006225,True,Central,90,8580,2023-10-01,image2.jpg
+44009241,True,Londis,95,4050,2023-04-01,photo1.jpg
+44004587,True,Londis,90,4050,2023-07-01,image1.jpg
+44003203,True,SIBU,80,9506,2023-12-01,Shell_TarasGorevoy_Dec2023.jpg
+44007697,True,Costa,80,6768,2021-04,Shell
+44006174,True,Asda,95,9500,2023-10-01,Asda Abbey Park PFS
+44007354,True,M&S SIMPLY FOOD,95,9505,2023-04-01,bp_2023_street_view.jpg
+44007046,True,little Waitrose,90,9498,2023-11-01,image7.jpg
+44000626,True,Sainsbury's Local,95,2236,2021-03-01,image2.jpg
+44005372,True,Walls,85,12314,2024-06,photo3.jpg
+44011022,True,Circle K,90,9500,2023-08-01,Photo - Aug 2023
+44009826,True,Londis,90,4053,2023-11-01,Photo - Nov 2023
+44008771,False,,70,4952,2024-09,photo3.jpg
+44003119,True,Costcutter,95,9498,2019-05-01,photo3.jpg
+44009740,True,M&S,90,1325,2018-08-01,photo1.jpg
+44002569,True,Tesco,95,9502,2023-04-01,photo-2023-streetview.jpg
+44008101,True,Costa,85,1330,2024-09-01,ashwal_garage_street_view.jpg
+44005570,True,Select,90,9497,2022-11-01,photo_2.jpg
+44003648,True,Park & Shop,95,7680,2024-09,image3.jpg
+44011014,True,SPAR,95,9498,2022-10-01,image_seven.jpg
+44001018,True,Costa Express,80,7679,2024-01,photo2.jpg
+44003237,True,deli2go,90,4056,2016-12-01,photo.png
+44006885,False,,90,9494,2024-07-01,image1.jpg
+44004244,True,Shell Select,90,12319,2023-06,Shell photo - Jun 2023
+44009174,True,Spar,80,9497,2021-06-01,image3.jpg
+44002991,True,Nisa express,95,4960,2024-03,Image capture: Mar 2024
+44004196,True,Morrisons,85,7556,2024-09,image5.jpg
+44005643,True,SPAR,90,4957,2024-03-01,photo1.jpg
+44001501,True,SPAR,95,1323,2022-09,image1.jpg
+44009793,False,,80,6770,2022-08-01,photo1.jpg
+44009302,True,Samkin,80,3141,2022-06-01,image1.jpg
+44010352,True,Morrisons Daily,90,9510,2024-09-01,morrisons-petrol-station-sep-2024.jpg
+44008139,True,M&S Simply Food,90,7683,2023-04-01,photo5.png
+44003247,True,Applegreen,85,4956,2024-10,first_image.jpg
+44007965,True,Pantry,85,3142,2021-05,West Hoathly Garage Ltd
+44007932,True,Premier,90,9498,2024-10-01,photo_2024.png
+44009694,True,Asda,95,9495,2024-10,image2.jpg
+44000810,True,Londis,95,7685,2024-08,google-street-view-2024.jpg
+44003341,False,,70,4956,2023-04,streetview-april2023.png
+44001092,False,,90,8593,2022-11-01,old_cross_mot_nov_2022.jpg
+44001820,True,Tesco Express,90,9498,2024-09-01,photo1.jpg
+44003681,True,Costa,85,1327,2023-09-01,hinckley_service_station.jpg
+44004881,True,Tesco,95,4052,2023-05-01,streetview_2023.jpg
+44010991,True,Londis,90,4959,2023-02,Photo - Feb 2023
+44002000,True,Budgens,95,9498,2023-11-01,shell_2.jpg
+44005957,True,Londis,85,4957,2024-05,Image_3.jpg
+44004457,True,Sainsbury's,95,9499,2022-09-01,third_image.jpg
+44001027,True,TESCO,95,9498,2022-06-01,IMG_5.jpg
+44002555,True,SHOP 'N DRIVE,85,6775,2022-06-01,Image1.jpg
+44009034,True,Subway,85,5865,2021-05-01,image3.jpg
+44010260,True,M&S,85,6773,2021-03-01,photo3.jpg
+44004119,True,Nisa Local,90,7558,2022-10-01,3 A376
+44007597,True,Londis,90,9499,2023-08-01,photo_1.jpg
+44003864,True,Poundland,80,6773,2018-06-01,photo.jpg
+44009906,True,Sainsbury's,90,4959,2022-03-01,second_image.jpg
+44007558,True,Morrisons Daily,95,6369,2023-05-01,image1.jpg
+44004009,True,Select,95,12316,2024-11-01,photo1.jpg
+44003055,True,Tesco,90,7555,2024-07,image1.jpg
+44009207,True,SPAR,95,3141,2022-04-01,photo2.jpg
+44000700,True,Londis,90,8591,2024-08-01,photo-8.jpg
+44005381,True,Little Waitrose,90,6367,2023-06,streetview1.jpg
+44008466,False,,70,7685,2022-04-01,Street_View_Sc_2022_Apr.jpg
+44006290,True,Londis,90,9502,2023-10-01,photo-2023-10.jpg
+44006142,True,M&S,90,7685,2024-10-01,bp_2024_10.jpeg
+44000639,True,Shell,90,7676,2024-09,Shell
+44002149,True,Londis,90,3144,2020-10-01,bp_2020.jpg
+44001517,True,Vampire Vape,85,9499,2023-09-01,first_image.jpg
+44004266,True,TESCO express,95,11125,2024-02,4.jpg
+44009823,True,Premier,90,6772,2022-05-01,photo1.jpg
+44001252,True,Costa,80,4048,2024-06-01,photo1.jpg
+44007960,True,TESCO,90,4050,2024-06-01,photo_2.jpg
+44004581,True,M&S Simply Food,90,9497,2022-08,image4.jpg
+44000665,True,KeyStore,85,4049,2022-07-01,Image 4
+44003718,True,Sainsbury's,90,9507,2018-01-01,Sainsbury_Petrol_Station_3.jpg
+44008463,False,,70,9502,2024-05,photo_by_Tom_Bell_2024_image_8.jpg
+44001200,True,SPAR,90,9495,2024-05,Google Street View
+44009869,True,Morrisons,95,4050,2023-05-01,image1.jpg
+44002780,True,Morrisons Daily,95,9499,2024-06-01,photo2.jpg
+44008508,True,Asda,90,3142,2024-06-01,photo_1.jpg
+44005251,True,Londis,90,3988,2023-05-01,photo2.jpg
+44010258,True,Spar,95,9500,2018-12-01,spar_dec_2018.jpg
+44008658,True,Londis,95,9508,2022-02-01,photo-feb-2022.png
+44007409,True,Morrisons Daily,90,5869,2023-01-01,Morrisons Petrol Station
+44009406,True,Premier,90,5862,2024-07,photo1.jpg
+44004699,True,Tesco Express,90,5866,2024-08-01,file1.jpg
+44006518,True,Shop 'n' Drive,85,4052,2024-09-01,photo1.jpg
+44009511,False,,50,3136,2023-03,photo2.jpg
+44004380,True,Sainsbury's,95,3143,2024-03-01,Image3.jpg
+44002386,False,,85,1314,2011-10-01,photo1.jpg
+44003162,True,Londis,95,8586,2023-06,bp
+44010474,True,Greggs,90,3138,2024-07,first_photo
+44007836,True,M&S Food,95,1326,2024-09-01,image1.jpg
+44007793,True,Shell Select,85,9497,2024-11-01,last_image.jpg
+44000572,True,SuperValu,85,3142,2023-07-01,photo1.jpg
+44004509,True,Costcutter,95,4956,2023-06,Screenshot 2
+44002276,True,Costa Express,85,9493,2024-01,last
+44004870,True,Shop 'n Drive,85,6782,2024-09-01,Esso_Shop_September_2024.jpg
+44010834,True,EUROSPAR,90,4048,2022-10,third image
+44001581,True,Londis,90,7682,2023-08,45 A1075.jpg
+44003391,True,Costa Express,90,9508,2024-08-01,Applegreen_Luton_Service_Station_Aug_2024.jpg
+44003692,True,ASDA,90,3150,2023-07-01,Asda_Petrol_Station_Jul2023.jpg
+44009289,False,,90,4045,2024-08-01,Street View
+44006067,True,Londis,95,9499,2024-08-01,photo_8.jpg
+44005230,True,DB Corner Shop,95,5178,2024-04-01,photo2.jpg
+44007941,True,Shop,80,3140,2022-08-01,photo2.jpg
+44004029,True,Costa Express,90,7559,2024-09-01,Street View 2024
+44007486,True,Londis,95,8745,2023-04,Texaco
+44010980,True,EUROSPAR,90,1327,2023-04-01,photo1.jpg
+44007033,True,Morrisons,85,6366,2024-06,image2.jpg
+44000749,True,SHOP'N DRIVE,95,8588,2023-11,img4.jpg
+44003019,True,SPAR,90,6365,2024-06-01,bp
+44010204,True,Asda,90,1610,2023-08-01,street_view_image_1.jpg
+44001934,True,Londis,95,5868,2023-08-01,42 Uppingham Rd
+44002862,True,Costcutter,85,4048,2024-07,photo3.jpg
+44005807,True,Co-op Food,90,4050,2024-05-01,photo1.jpg
+44008110,True,The Co-operative Food,90,1327,2021-01-01,image1.jpg
+44005967,True,Shop 'N Drive,95,1327,2023-05-01,photo1.jpg
+44000911,True,Costcutter,85,4050,2020-11-01,image3.jpg
+44000910,True,Tesco Express,95,9500,2021-12-01,IMG_1635.jpg
+44009935,True,Morrisons,85,1326,2021-10-01,photo1.jpg
+44003570,True,TESCO,85,5175,2023-08,image1.jpg
+44010923,True,Sainsbury's,95,5878,2021-10-01T00:00:00Z,4dHblg.JPG
+44007751,True,M&S Simply Food,90,4055,2023-08-01,BP_August2023.jpg
+44004381,True,Tesco Express,100,9498,2021-12-01,photo1.jpg
+44010833,False,,70,9493,2024-06,photo-9.jpg
+44010070,True,,80,9934,2024-08-01,image6.png
+44007230,True,Spar,85,4050,2023-07-01,IMG_003.jpg
+44010368,True,Sainsbury's,90,4056,2022-11,sainsburys_petrol_station_1.jpg
+44000813,True,SPAR,95,9498,2023-10-01,photo-1.jpg
+44009098,True,McCreadie,90,4053,2024-03-01,mar-2024.jpg
+44005016,True,Sainsbury's,95,5868,2022-09,Sainsbury's Petrol Station
+44004318,True,Bargain Booze,90,9500,2024-07-01,image2.jpg
+44009425,True,Thames,80,9500,2023-04,google-street-view-2023.jpg
+44003388,True,Tesco,85,4049,2021-10-01,photo2.jpg
+44010068,True,Nisa Local,85,6772,2024-07,photo1.jpg
+44010372,True,M&S Simply Food,95,8599,2023-07,bp-m-s-simply-food-apr-2020.jpg
+44004692,True,Londis,95,4050,2024-05-01,photo3.jpg
+44007585,True,Tesco Extra,90,9498,2023-11,The WrongFuelMan.jpg
+44007696,True,Shell,80,4048,2022-03-01,photo2.jpg
+44001075,True,Costcutter,95,9506,2023-11,Texaco - Kamran Khan - Photo - Nov 2023
+44009883,True,Londis,90,9505,2024-03-01,photo-7.jpg
+44001297,True,shop,95,12315,2023-11,photo_2.jpg
+44009828,True,EUROSPAR,90,9499,2023-10-01,last_photo.jpg
+44007183,True,Shell Select,90,9500,2024-08-01,"A4320 Bristol, England"
+44004472,True,Tesco,90,6770,2023-02,Fourth Image
+44003920,True,Shell Select,90,9498,2022-10-01,photo_5.jpg
+44007760,True,Londis,95,4958,2023-07-01,Image2.jpg
+44003926,True,Shell Select,80,9498,2024-09-01,shell_img1.jpg
+44009744,True,SPAR,90,9493,2021-09,bp
+44007519,True,Mount Service Station,90,3988,2024-04-01,photo1.jpg
+44004289,True,Londis,85,3139,2022-09,2.jpg
+44000898,True,Nisa Local,85,4049,2023-05-01,2.jpg
+44002922,True,M&S Simply Food,85,8592,2022-10-01,Street view BP.jpg
+44010637,False,,90,4958,2023-04-01,"96 Liverpool Rd, Rufford England"
+44009925,True,SPAR,90,9497,2024-01-01,image1.jpg
+44000885,True,Londis,95,9498,2024-11-01,image3.jpg
+44002579,False,,50,3138,2024-11-01,shell3.jpg
+44001406,True,Sainsbury's,80,9500,2021-01-01,2nd_image.jpg
+44005442,True,ASDA Express,90,7685,2024-08-01,google_street_view_image.jpg
+44002148,True,Londis,95,1324,2024-03,image1.jpg
+44005995,True,Morrisons,90,3142,2021-04-01,photo2.jpg
+44001491,True,Simply Local,90,9496,2024-08,IMG_5.jpg
+44002187,True,Costa,85,1322,2024-05,photo1.jpg
+44010054,True,The Co-operative Food,90,3987,2023-07-01,2
+44010727,False,,0,1314,2009-06-01,image1.jpg
+44005721,True,Spar,90,1325,2024-09-01,street_view_image
+44001897,True,Tesco Express,90,6776,2024-05-01,Esso-4.jpg
+44005246,True,TESCO,90,3983,2022-08,2
+44009351,True,Rambo's Off Licence,95,4958,2024-07,3rd image
+44005959,False,,70,1322,2021-11-01,image1.jpg
+44004350,True,Londis,90,7558,2024-10-01,photo2.jpg
+44003292,True,Londis,95,8594,2024-07-01,"Street View, 11 A737"
+44008107,True,The Co-operative,90,3141,2023-06,streetview-image.jpg
+44006707,True,Nisa Local,95,5864,2023-09,image1.jpg
+44007189,True,Lifestyle Express,90,6771,2024-07,Image3.jpg
+44000976,True,SHOP'N DRIVE,85,7682,2024-09-01,photo4.jpg
+44001007,True,The Co-operative Food,90,9504,2024-07-01,photo-jul-2024-image.jpg
+44009637,True,Family Shopper,95,3144,2024-05-01,Street View May 2024
+44003863,True,Sainsbury's,90,3142,2022-10-01,first_image
+44006540,True,Morrisons Daily,90,9499,2024-07,Morrisons Petrol Station
+44008480,True,Asda,85,6773,2024-05-01,image2.jpg
+44007479,True,Park & Shop,90,12318,2024-03-01,image3.jpg
+44002948,False,,80,9494,2024-05-01,photo3.jpg
+44010605,False,,85,1322,2022-10-01,image1.jpg
+44002720,True,Sewell on the go,85,1329,2021-06-01,photo1.jpg
+44010530,True,Sainsbury's,95,9499,2023-05-01,image8.jpg
+44002936,True,Morrisons Daily,85,7683,2024-05-01,photo2.jpg
+44002685,True,Londis,85,9496,2024-04,image4.jpg
+44001913,True,Londis,90,7683,2023-10-01,photo_2.jpg
+44008244,True,Budgens,80,9498,2024-07-01,photo_1.jpg
+44009674,False,,70,1321,2022-09,ASDA Petrol Station
+44004598,True,Shell Select,85,5868,2024-09-01,Photo - Sep 2024
+44000515,True,TESCO,90,2231,2023-03,photo1.jpg
+44009226,True,Pace Shop,85,3140,2024-08,photo1.jpg
+44003650,True,UK,90,4957,2023-05-01,photo_1.jpg
+44006463,True,Tesco,95,4053,2012-08-01,street_view_aug_2012.jpg
+44006163,True,Londis,95,9498,2024-04-01,image1.jpg
+44007179,True,Sainsbury's,90,9509,2023-03,Sainsbury's_Petrol_Station_Mar_2023.jpg
+44000579,True,Mace,90,9497,2023-07-01,photo1.jpg
+44007794,True,Shell Select,95,8589,2023-07-01,image1.jpg
+44000627,True,Londis,95,9494,2024-07,Shell
+44007439,True,Tesco,90,4049,2023-05-01,image2.jpg
+44010224,False,,0,9476,,
+44005314,True,M&S Simply Food,95,12317,2024-07-01,unknown
+44005227,True,Budgens,95,9952,2023-04,A20_Dover_England_Apr2023_StreetView.jpg
+44003477,True,SPAR,90,7679,2024-10,last_photo.jpg
+44000650,True,Londis,90,2234,2023-03-01,photo2.jpg
+44008264,True,Morrisons,85,7680,2022-10,photo2.jpg
+44004484,True,Shop Express,85,5865,2024-10-01,photo1.jpg
+44005406,True,Starbucks,85,9504,2024-01-01,Shell_Beltas_Photo-Jan_2024.png
+44003164,False,,80,4049,2024-05,"B4632 Winchcombe, England"
+44006786,True,SPAR,90,9501,2024-10-01,Image capture: Oct 2024
+44010697,True,Rockhead Garage & Stores,85,1328,2023-10-01,attachment1.jpg
+44004152,True,Sainsbury's,100,12325,2023-08-01,google_street_view_aug_2023.jpg
+44001073,True,UK Style,90,9503,2020-10-01,AYNGARAN_SERVICE_STATION2.jpg
+44004521,True,SPAR,90,3139,2022-04,second_photo.jpg
+44000978,True,Co-op,95,8593,2024-09-01,shell_coop_sep2024.jpg
+44008912,True,Spar,100,1325,2011-07-01,photo1.jpg
+44001126,True,Mace,95,3142,2022-09-01,photo_1.jpg
+44001544,True,Londis,85,9498,2024-03-01,Image 2
+44010520,False,,100,9484,,
+44003378,True,Shell SELECT,90,9493,2024-06,Shell
+44000565,True,Shop N Drive,90,9500,2022-01-01,screen-shot-3.jpg
+44007495,True,Sainsbury's,90,12326,2024-03-01,Sainsbury's Petrol Station by Alan Townson
+44008849,True,park&shop,95,5879,2024-07-01,Texaco_Petrol_Station_StreetView_Jul_2024.jpg
+44010708,True,Car Spares Distribution Ltd,90,9500,2022-07-01,photo4.jpg
+44007198,True,Marks & Spencer,85,9500,2022-09,photo-sep-2022.jpg
+44004062,True,M&S Food,95,8748,2022-10-01,image1.jpg
+44010699,True,Regent,80,4957,2023-08-01,image2.jpg
+44002549,True,Asda,90,4050,2024-05-01,photo_4.jpg
+44003236,True,Tesco Express,100,7688,2023-10-01,image4.jpg
+44010939,True,Select,85,4957,2024-11,Photo - Nov 2024
+44006479,True,Murco,85,5869,2021-09-01,Image capture: Sep 2021
+44009033,True,Londis,85,4050,2024-04-01,image1.jpg
+44000988,True,deli2go,80,9497,2023-11,image1.jpg
+44010712,True,Binbrook Motors,80,3150,2022-05-01,Binbrook_Motors_May_2022.jpg
+44007515,True,Costcutter,95,9938,2024-06-01,second_image.jpg
+44004452,True,ASDA,90,1325,2023-08-01,photo1.jpg
+44008663,False,,0,1322,2023-10-01,image1.jpg
+44004997,True,Londis,90,1324,2016-06,image1.jpg
+44007138,True,ASDA,100,4968,2024-07-01,Asda_Petrol_Street_View_July_2024.jpg
+44000564,True,SHOP 'N DRIVE,95,9499,2023-11-01,photo2.jpg
+44003132,True,Londis,90,9503,2022-08-01,texaco_photo_aug_2022.jpg
+44007961,True,SPAR,85,5865,2016-09-01,image2.jpg
+44004285,False,,90,1322,2022-11-01,image1.jpg
+44006638,True,Sainsbury's,90,9499,2022-08-01,photo8.jpg
+44010793,True,Sanday Community Shop CIC,90,3144,2024-08-01,photo2.jpg
+44007292,False,,0,1322,2023-10-05,photo2.jpg
+44003967,True,Morrisons Daily,95,8755,2023-06-01,Morrisons_Daily_Wigston.jpg
+44006204,True,Sainsbury's,95,9502,2023-10-01,Sainsbury's Petrol Station
+44002914,True,Asda Express,90,9501,2024-05,Esso_photo_May2024.png
+44004103,True,Tesco Extra,95,8748,2019-01-01,image4.jpg
+44006200,False,,80,4054,2021-06-01,Hilltop Garage - Google Street View - Dakata Vasilev - Jun 2021.JPG
+44005285,True,SPAR,85,3988,2022-04-01,photo-2.jpg
+44008710,True,Neasden Service Station,85,8590,2023-10-01,bp
+44005105,False,,85,4046,2023-08-01,image1.jpg
+44009195,True,Morrisons Daily,90,1327,2024-06-01,file1.jpg
+44009328,True,Premier,90,6772,2023-06-01,image5.jpg
+44003834,False,,90,4954,2023-05-01,photo3.jpg
+44000709,True,M&S,90,3141,2022-10-01,image1.jpg
+44001997,True,Shell Select,90,9497,2024-06,shell_photo_2.jpg
+44008093,True,Morrisons,90,6774,2024-06-01,photo2.jpg
+44005875,True,Murco,85,1327,2024-06-01,street_view_01.jpg
+44007939,True,Applegreen,80,9502,2023-04-01,Applegreen by Luke Moseley
+44005803,True,Costa,90,4048,2024-05-01,image1.jpg
+44000597,True,Shell Select,85,9498,2022-04-01,image3.jpg
+44009087,True,Nisa Local,95,9506,2024-05-01,leasks_filling_station_may_2024.jpg
+44002911,True,Murco,85,8590,2023-09-01,photo_5.jpg
+44001560,True,Costcutter,90,9498,2024-07-01,image2.jpg
+44004436,True,Tesco,90,6773,2024-06-01,image1.jpg
+44007596,True,Sainsbury's,80,6774,2024-06-01,image1
+44007825,True,Costa Express,90,5865,2023-02-01,image5.jpg
+44000780,True,Londis,90,5864,2024-09,photo1.jpg
+44006913,True,SPAR,95,3141,2022-07-01,image1.jpg
+44008781,True,SPAR,85,3141,2017-06-01,photo1.jpg
+44002891,True,Costa,80,1325,2024-03-01,StreetViewJet.png
+44002885,True,SPAR,95,4050,2023-10-01,photo_2.jpg
+44003593,False,,85,9936,2024-07,StreetView_Jul2024.jpeg
+44008053,True,Londis,95,8589,2024-04-01,7.jpg
+44010856,True,SPAR,90,3141,2024-05-01,photo1.jpg
+44005382,True,Shell Select,90,12321,2024-04-01,Image capture: Apr 2024
+44003406,True,Premier,90,1324,2024-06-01,photo1.jpg
+44008001,True,Londis,90,4050,2024-09-01,photo3.jpg
+44004802,True,Sainsbury's,90,1327,2016-07-01,image1.jpg
+44002939,False,,85,3138,2021-11-01,image1.jpg
+44002826,True,VivoXtra,85,3143,2023-07-01,image1.jpg
+44005623,True,Select,90,6774,2024-11,photo-2024-11
+44006748,True,Costa Express,85,4049,2024-08-01,first_image.jpg
+44010087,True,ee-why service station,90,7686,2023-08,Image capture: Aug 2023
+44009092,True,Premier,90,3140,2023-05-01,photo1.jpg
+44005605,True,M&S Food,90,9496,2023-10,bp3.jpg
+44002623,True,Morrisons Daily,85,8591,2022-11-01,image2.jpg
+44002329,True,Shell Select,90,9497,2024-11-01,image3.jpg
+44006948,True,Tesco Express,90,7560,2021-08-20,2021-11.jpg
+44003197,True,Budgens Daily,90,8587,2021-09,003.jpg
+44006280,True,SPAR,100,5870,2023-10-01,Texaco Elite Garages Odiham
+44010243,True,Nisa Local,85,3140,2024-06,photo1.jpg
+44010894,True,SPAR,95,4957,2021-07-01,image1.jpg
+44006589,True,ASDA On the Move,90,9500,2023-12-01,photo5.jpg

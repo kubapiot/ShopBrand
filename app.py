@@ -202,8 +202,10 @@ def call_chatgpt_with_images(images, prompt_text,siteid, output_csv):
             'hasShop':chatgpt_response.hasShop,
             'shopBrand':chatgpt_response.shopBrand,
             'accuracy':chatgpt_response.accuracy,
-            'Tokens':response.usage.total_tokens
-
+            'Tokens':response.usage.total_tokens,
+            'usedPhotoDate':chatgpt_response.usedPhotoDate,
+            'usedPhotoFileName':chatgpt_response.usedPhotoFileName,
+            
         }
 
         # Save to CSV 

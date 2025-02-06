@@ -8,6 +8,7 @@ from st_aggrid import AgGrid, GridOptionsBuilder, DataReturnMode
 from googleapiclient.discovery import build
 from googleapiclient.http import MediaIoBaseDownload
 from google.oauth2.service_account import Credentials
+from streamlit_gsheets import GSheetsConnection
 
 service_account_info = json.loads(st.secrets["SERVICE_ACCOUNT_JSON"])
 google_api_key = st.secrets["GOOGLE_KEY"]
@@ -19,7 +20,8 @@ service = build('drive', 'v3', credentials=credentials)
 
 
 # Specify the folder ID
-FOLDER_ID = '1dWsz0Er13-odiXI4OQ6N_Exqg0UVxTS3'
+#FOLDER_ID = '1dWsz0Er13-odiXI4OQ6N_Exqg0UVxTS3'
+FOLDER_ID = '19ZZ65cWpn6mfrFTNRROjseuuxK-nnYUm'
 
 # Query to get files in the specific folder
 
@@ -45,8 +47,10 @@ st.title('ChatGPT Output Data')
 col1, col2 = st.columns(2)
 
 # Load the CSV data
-df = pd.read_csv('chatgpt_output.csv')
-df_sites = pd.read_csv('streetview_uk_updated.csv')
+df = pd.read_csv('gemini_output.csv')
+#df_sites = pd.read_csv('streetview_uk_updated.csv')
+conn = st.connection("gsheets", type=GSheetsConnection)
+df_sites = conn.read()
 
 # Define function to get image URLs based on SiteID
 def get_images(siteid):
@@ -74,6 +78,10 @@ def get_images(siteid):
 with col1:
     site_grid = df[['SiteID', 'hasShop', 'shopBrand', 'accuracy', 'Tokens']].reset_index(drop=True)
 
+    # Define dropdown options for `shopBrand`
+    brand_options = sorted(df['shopBrand'].dropna().unique().tolist())
+    
+
     # Configure AgGrid options
     gb = GridOptionsBuilder.from_dataframe(site_grid)
     gb.configure_selection(
@@ -85,6 +93,20 @@ with col1:
         rowSelection='single',  # Enable single-row selection
         suppressMovableColumns=True  # Keep columns fixed
     )
+
+    # Configure editable column with autocomplete
+    gb.configure_column(
+        "new_brand",
+        editable=True,
+        cellEditor="agRichSelectCellEditor",  # Use AgGrid's rich select editor
+        cellEditorParams={
+            "values": brand_options,  # Provide autocomplete options
+            "filter": True,  # Enable filtering for dropdown
+            "debounceMs": 200,  # Optional: debounce for filtering
+        },
+    )
+
+
     # Add JS code to handle row selection when navigating with the arrow keys
     custom_js = """
     function onRowSelected(event) {
@@ -99,7 +121,7 @@ with col1:
     gb.configure_grid_options(onRowSelected=custom_js)
     grid_options = gb.build()
 
-    # Render the grid
+     # Render the grid
     grid_response = AgGrid(
         site_grid,
         gridOptions=grid_options,
@@ -108,9 +130,40 @@ with col1:
         theme='streamlit',
         enable_enterprise_modules=True  # Enable advanced features like keyboard navigation
     )
+    
+    # Save changes to Google Sheets
+    if st.button("Save Changes"):
+        sheet_name = "Sheet1"
+        # Access updated DataFrame after user interaction
+        updated_df = pd.DataFrame(grid_response['data'])
+        # Reset index to align DataFrames
+        updated_df = updated_df.reset_index(drop=True)
+        df = df.reset_index(drop=True)
+
+        # Compare columns to find changes
+        changes = updated_df[updated_df['new_brand'] != df['shopBrand']]
+
+        if not changes.empty:
+            for _, row in changes.iterrows():
+                site_id = row['SiteID']
+                new_brand = row['new_brand']
+                # Get the index of the row you want to update
+                row_index = df_sites[df_sites['siteid'] == int(site_id)].index[0]
+
+                # Update the specific cell
+                df_sites.at[row_index, 'shopBrand'] = new_brand
+            # Overwrite the Google Sheet with the updated DataFrame
+            conn.update(data=df_sites.to_dict(orient='records'))
+        else:
+            st.info("No changes detected.")
+
+
+
+
+   
 # Check if a row is selected
 selected_rows = grid_response.get('selected_rows', [])
-if len(selected_rows) > 0:
+if not selected_rows is None and len(selected_rows) > 0:
     selected_row = selected_rows
     site_id = str(selected_rows['SiteID'].values[0])  # Assumes 'SiteID' is a column in your CSV
     image_folder = 'static/images'
@@ -133,5 +186,7 @@ if len(selected_rows) > 0:
                 st.image(response.content)
         else:
             st.warning(f"No images found for SiteID: {site_id}")
+
+
 
 

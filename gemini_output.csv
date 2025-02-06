@@ -1,0 +1,1583 @@
+SiteID,hasShop,shopBrand,accuracy,Tokens,usedPhotoDate,usedPhotoFileName,isStreetViewPhoto
+44009982,True,Tesco,100,2727,2021-08-01,Tesco Petrol Station,False
+44007085,True,Spar,85,1695,2023-10-01,Screenshot 2024-01-06 at 21.35.22.png,False
+44002695,False,N/A,10,405,2023-06-01,image.png,True
+44001266,True,Londis,100,2727,2022-05-01,image.png,True
+44000971,True,Tipton,95,2727,2017-08-01,image.png,False
+44009196,True,Londis,100,921,2023-04-01,4 A260,True
+44007750,True,Shop,95,1695,2023-04-01,7,False
+44004869,True,Tesco,100,1437,2023-05-01,4,True
+44004061,True,ASDA,90,2727,2024-02-01,Screenshot_20240317_135817_Google.jpg,False
+44007469,True,M&S Simply Food,95,1695,2023-06-01,Screenshot 2024-02-19 at 16.08.58.png,True
+44002226,True,SPAR,95,2211,2023-05-01,Esso,True
+44008978,False,Unknown,1,921,2024-03-01,JET,False
+44002895,True,SPAR,95,2727,2022-04-01,image.png,False
+44003980,True,Londis,100,1695,2023-10-01,13-Texaco.jpg,False
+44007610,True,Tesco Extra,100,2469,2022-07-01,image.png,True
+44004477,True,Morrisons Daily,95,1437,2023-06-01,Screenshot 2024-02-29 at 11.35.14.png,True
+44002489,True,Tesco,95,1179,2022-03-01,1B4548.png,True
+44007818,True,Londis,95,921,2023-05-01,Screenshot 2024-05-12 at 12.32.28.png,True
+44000520,True,Londis,90,1437,2022-07-01,screenshot_20240503_113857.png,True
+44002811,True,Londis,90,2469,2024-07-01,Esso,False
+44005949,True,M&S Food,95,2727,2023-09-01,204389548-2251412021864071-5744886945899297107-n.png,False
+44001486,True,M&S SIMPLY FOOD,95,2727,2024-09-01,Photo - Sep 2024,True
+44008970,True,Unknown,50,921,2023-08-01,Screenshot 2024-02-29 at 14.12.57.png,False
+44006813,True,Morrisons Daily,95,2727,2024-01-01,640_0.jpg,True
+44001963,True,deli2go,95,1695,2023-03-01,Screenshot 2024-05-02 at 21.21.19.png,True
+44005540,True,Premier Stores,90,1953,2019-11-01,bp,False
+44002465,True,Shell,95,2727,2016-12-01,Screenshot 2024-01-03 at 22.08.13.png,False
+44005365,True,Londis,100,1953,2024-09-01,613 A20,True
+44009382,True,Great Value,75,2727,2021-07-01,Pen-y-Bont Filling Station (Garej Ni).png,False
+44009652,True,Unknown,75,405,2024-07-01,052.jpg,True
+44010252,True,Asda,100,2727,2021-05-01,Asda Selsey Supermarket,True
+44000367,True,Londis,95,1437,2024-07-01,19 A2214,True
+44009865,True,Morrisons,95,1437,2024-01-01,Screenshot 2024-01-27 at 18.41.32.png,False
+44005946,True,SPAR,95,1695,2022-04-01,photo,False
+44004106,True,SPAR,95,1437,2024-02-01,Screenshot_20240502_210945_Chrome.jpg,False
+44007838,True,SPAR,95,1695,2022-04-01,2,False
+44004059,True,M&S Simply Food,100,1953,2018-12-01,bp,True
+44005662,True,SPAR,95,1179,2018-07-01,image.png,True
+44006849,True,Shell Select,95,2469,2021-09-01,Screenshot 2024-02-21 at 11.45.23.png,False
+44000392,True,Londis,95,1695,2023-03-01,Esso,False
+44002407,True,Londis,100,921,2023-04-01,Screenshot 2024-05-06 at 11.21.28.png,True
+44007618,True,SPAR,95,2727,2022-08-01,5-Texaco UK.jpg,False
+44006108,True,bp connect,95,2727,2023-06-01,Screenshot 2024-02-29 at 12.42.13.png,False
+44004076,False,null,75,1437,2023-04-01,Screenshot 2024-05-05 at 19.48.03.png,True
+44007635,True,Londis,95,1179,2022-12-01,google_maps.png,True
+44008323,True,Co-op,100,405,2023-06-01,72f9e916-e9a1-43c0-aa2a-cf2682891c4b.jpg,True
+44002741,True,M&S,95,2727,2021-09-01,bp,False
+44009780,True,Premier,95,1179,2023-05-01,Screenshot 2024-05-15 at 15.47.26.png,True
+44006524,True,M&S Food,95,2211,2024-08-01,bp,False
+44005007,True,Spar,90,1695,2018-06-01,03 Shell.png,True
+44001952,True,Tesco Express,100,2727,2023-08,1697805129782.jpg,False
+44002109,True,Londis,70,2727,2020-08-01,495a3a5e-172e-44f2-bbd3-ed1323835099.png,False
+44008109,True,park&shop,95,2727,2024-05-01,7,False
+44007701,True,Tesco Express,100,1953,2024-10-01,Screenshot 2024-05-02 at 14.55.13.png,False
+44007314,True,Nisa,95,1179,2024-08-01,94 A560.png,True
+44008079,True,Esso,95,405,2024-06-01,0194.png,True
+44004637,True,Morrisons Daily,95,2727,2024-06-01,screenshot_20240618_101255_chrome.jpg,True
+44003566,True,Tesco Extra,95,1437,2023-07-01,"Portsmouth, England",True
+44005031,True,Fig & Flavour,80,2469,2023-11-01,Shell,False
+44005837,True,best-one,85,2727,2020-02-01,Texaco Petrol Station,False
+44002796,True,Shell,90,921,2024-11-01,4.png,False
+44008250,True,SPAR,95,2727,2023-04-01,screenshot_2.png,False
+44004917,True,Morrisons,95,2469,2024-10-01,23889827496_28867d7e09_o.jpg,False
+44004487,True,Londis,100,405,2024-06-01,image.png,True
+44002312,True,M&S SIMPLY FOOD,95,1695,2023-04-01,bp,True
+44006210,True,Londis,85,1695,2023-04-01,8.png,True
+44007839,True,Asda,90,405,2024-04-01,Asda Petrol.png,True
+44004804,True,ASDA Express,95,1437,2023-12-01,22-11-2023-19-19-59-480.jpg,False
+44007216,True,Morrisons,100,2727,2024-02-01,18548f06-5c24-4760-bd09-e1c10a934109.png,False
+44009088,True,Premier Express,95,1179,2019-05-01,photo from May 2019,False
+44003646,True,ASDA Express,95,2727,2024-04-01,screenshot_2024-05-03_102325.png,False
+44006588,True,SPAR,95,2211,2023-03-01,screenshot_20240314_201902.png,True
+44006100,True,Budgens,95,2727,2024-09-01,google_street_view_sep_2024.png,True
+44009292,True,Esso,70,405,2021-08-01,image.png,True
+44002557,True,Tesco Express,100,2727,2024-01-01,22.png,False
+44004501,True,Londis,95,921,2024-08-01,Screenshot 2024-01-12 at 14.05.52.png,True
+44004394,True,Spar,95,1695,2024-03-01,Screenshot 2024-04-24 at 16.45.38.png,True
+44001506,True,Essentials,95,2727,2021-09-01,64d886b0-c8a3-466f-a2d6-1747c7a5d95b.jpeg,False
+44005370,True,Londis,95,1179,2024-07-01,Screenshot 2024-02-16 at 19.12.09.png,True
+44004575,True,Clubcard Shop,80,2727,2018-10-01,0011.png,False
+44005191,True,BEST4VAPES,95,405,2023-07-01,image.png,True
+44000972,False,N/A,100,2727,2024-09-01,3a998474-6f8c-499b-8d1e-745fd42b422a.png,False
+44003273,True,Shell,95,2469,2023-10-01,Shell,True
+44007466,True,Applegreen,95,2727,2024-09-01,58290e28-795e-45d9-8015-15c9418fd142.jpg,True
+44007652,True,Gannel Service Station,90,1695,2023-06-01,Screenshot 2024-04-27 at 10.15.05.png,True
+44010705,True,Fillongley Garage,90,2727,2024-11-01,Screenshot 2024-05-02 at 21.53.00.png,False
+44007325,True,Spar,95,2727,2022-06-01,Esso,False
+44009937,True,Post Office,70,405,2023-05-01,image.png,True
+44008620,True,SPAR,95,921,2022-04-01,2.png,False
+44004787,True,Premier,95,1695,2024-03-01,Photo - Mar 2024,False
+44006505,True,Tesco,95,2469,2023-08-01,Tesco Petrol Station,False
+44001992,True,Go,90,1437,2024-02-22,image.png,False
+44007384,True,Newsap & Magaz,85,2211,2017-10-01,Screenshot 2024-02-27 at 15.00.23.png,False
+44000753,True,Shell,75,921,2024-11-01,Shell,False
+44005003,True,Tesco Express,100,2469,2017-03-01,20170301_093113.jpg,False
+44008491,True,Asda,100,2727,2024-07-01,1.png,False
+44003066,True,Londis,100,921,2024-06-01,Screenshot 2024-06-02 at 12.50.00.png,True
+44010759,True,Unbranded,70,405,2021-09-01,crop.jpg,True
+44004533,True,Esso,80,1179,2024-07-01,4,False
+44008436,True,Gullon,70,405,2023-07-01,1159115b-2024-04-24-12-41-38.jpg,True
+44007909,True,ASDA Express,95,2727,2024-05-01,Esso.png,False
+44006889,True,Nisa Local,95,2211,2023-12-01,bp,False
+44003573,True,Tesco Express,95,2727,2023-02-01,Screenshot 2024-02-15 at 14.14.28.png,False
+44002509,True,Great Wall,95,2211,2024-07-01,Esso.png,False
+44000414,True,Londis,95,2727,2021-06-01,screenshot_3.png,False
+44006968,True,Londis,95,2211,2023-06-01,100 A617B,True
+44006915,True,Truckhaven,95,2469,2024-05-01,Esso,False
+44007477,True,Londis,95,2727,2024-01-01,Texaco Towey Service Station,False
+44008265,True,UK Fuels,95,1695,2021-05-01,Umar Max,False
+44005995,True,Morrisons,100,921,2021-04-01,2.png,True
+44005941,True,Shell Select,95,1953,2023-11-01,Screenshot 2024-05-08 at 16.08.51.png,False
+44001032,True,Londis,95,2727,2024-08-01,2331f34a-5d93-4014-8228-1a9250c6426d.png,False
+44004715,True,Morrisons,95,1695,2022-03-01,image.png,False
+44007038,True,Asda,90,2469,2022-11-01,Screenshot 2024-01-04 at 12.00.21.png,True
+44009450,True,AS,95,1695,2023-09-01,image.png,True
+44002438,True,Nisa,90,1437,2023-07-01,Texaco,False
+44004769,True,Londis,100,2727,2024-10-01,shell-8.png,True
+44000469,True,ASDA,95,405,2024-07-01,image.png,True
+44002747,True,Nisa,80,1437,2024-07-01,Screenshot 2024-01-04 at 11.40.21.png,True
+44001584,True,Tesco Express,100,2727,2023-08-01,Screenshot 2024-02-29 at 15.47.04.png,False
+44003097,True,Tesco,100,1179,2024-06-01,photo_1.png,True
+44003016,True,Spar,70,1179,2024-07-01,image capture.AJ 2024,True
+44000744,True,Londis,95,1953,2021-10-01,Shell,False
+44005874,True,Londis,95,1953,2024-08-01,Screenshot 2024-05-02 at 20.42.47.png,False
+44006979,True,Central,95,1953,2023-09-01,Screenshot 2024-01-22 at 15.57.30.png,True
+44006621,True,Morrisons,100,2469,2024-03-01,78a75700-478a-478a-b2b2-a17480c1db1d.png,False
+44009044,True,Costcutter,95,1437,2024-07-01,Screenshot 2024-01-04 at 17.55.33.png,True
+44004807,True,ASDA On the Move,95,2727,2022-10-01,Matt Law,False
+44004809,True,BP,60,405,2018-09-01,image.png,True
+44003643,True,Tesco Extra,100,2727,2019-01-01,image.png,False
+44005667,True,Synergy,90,1179,2022-10-01,Matthew Wallett,False
+44004411,True,M&S,75,2727,2024-07-01,bp.png,False
+44003394,True,Spar,90,2727,2023-02,40.png,False
+44010066,True,Co-op,100,405,2023-09-01,image.png,True
+44006067,True,Londis,95,2727,2024-08-02,897c7c4f-d95b-45de-97c3-0d0e884a7d47.png,True
+44010032,True,Tesco,100,2211,2023-11-01,image.png,False
+44006421,True,Shell,90,1437,2023-04-01,Screenshot 2024-01-07 at 21.12.02.png,True
+44008501,True,Asda,90,405,2022-03-01,2079052849-1.jpg,True
+44007842,True,SPAR,95,2727,2023-07-01,JET,False
+44007780,True,Premier,95,1179,2024-03-01,JET,False
+44003512,True,Tesco,100,2727,2024-08-01,Annotation 2024-08-15 152803.png,False
+44004831,True,Londis,95,1953,2022-04-01,bp,False
+44006890,True,SPAR,100,1953,2024-07-01,Screenshot 2024-05-01 at 12.58.56.png,True
+44006470,True,lifestyle express,95,1179,2021-07-01,4.png,False
+44009647,True,Wild Bean Cafe,95,1179,2022-04-01,bp,True
+44001274,True,Shell,75,1437,2023-04-01,5-shell.png,True
+44007252,False,null,90,405,2024-09-01,192373282-e64c11757744.jpg,True
+44004008,True,Tesco Express,100,1437,2024-07-01,Screenshot 2024-02-15 at 22.05.46.png,False
+44004256,True,Costcutter,95,2211,2023-12-01,Texaco,False
+44009700,True,Asda,100,2727,2023-12-01,3284b784-a160-4619-b888-edef34644c0b.png,False
+44009948,True,Costcutter,100,405,2023-06-01,original.png,True
+44003738,False,N/A,80,405,2023-09-01,23410007-f784-4865-8795-51a7845e860b.jpg,True
+44004160,True,Tesco,100,2211,2023-05-01,5 Ferrymuir,True
+44000433,True,Londis,95,2727,2023-04-01,Screenshot 2024-03-22 at 11.56.41.png,True
+44003926,True,Shell Select,90,2727,2020-06-01,image.png,False
+44006049,False,N/A,80,405,2023-03-01,image.png,True
+44002756,True,Nisa,90,1953,2021-08-01,image.png,False
+44008445,True,Centra,100,405,2022-11-01,original.png,True
+44010255,True,ASDA,100,405,2022-03-01,crop.png,True
+44004364,True,Londis,95,1179,2022-07-01,Screenshot 2024-05-09 at 20.37.21.png,True
+44006351,True,ASDA Express,95,1179,2024-03-01,Richard Greetham,False
+44008052,True,Tesco,100,1179,2023-02-01,2023-02.png,True
+44006544,True,Londis,95,1695,2021-07-01,713-6.png,False
+44006461,True,Greggs,90,2727,2021-07-01,997b6f72-1c16-458e-9b75-2382186895b9.png,True
+44005738,True,Tesco,100,1437,2023-08-01,Screenshot 2024-05-09 at 16.20.39.png,True
+44007144,True,Londis,100,405,2023-05-01,084657e8-a0b3-418c-a3b8-e225410480d4.jpg,True
+44000440,True,Londis,95,2469,2023-03-01,2023-03-26-10-56-52.jpg,False
+44009762,True,Londis,90,1953,2023-08-01,Screenshot 2024-10-26 at 21.29.45.png,False
+44004454,True,SPAR,95,1953,2024-07,Screenshot 2024-01-26 at 21.15.18.png,False
+44007737,True,Spar,100,2727,2022-08,bp,False
+44002043,True,LOCO,95,1437,2023-03-01,bp.png,True
+44002597,True,Greggs,80,2727,2023-09-01,9.png,False
+44003202,False,,90,1695,2018-02-01,Screenshot 2024-01-01 at 19.15.23.png,True
+44002965,True,Tesco Express,100,2727,2024-09-01,15.png,False
+44001939,True,Morrisons Daily,95,1953,2024-10-01,Morrisons Petrol Station,False
+44005045,True,SPAR,95,1695,2024-06-01,Screenshot 2024-06-15 at 20.50.37.png,True
+44010894,True,SPAR,95,1437,2021-07-01,Spar Ballinamallard,True
+44005901,True,P Lumley & Son,90,1953,2021-09-01,7.png,False
+44000560,True,SPAR,95,2727,2018-09-01,3.png,False
+44002983,True,M&S,95,2727,2018-11-01,2018.png,True
+44010169,True,Spar,95,1437,2022-03-01,Screenshot 2024-05-21 at 16.34.02.png,True
+44007600,True,SELECT,95,2727,2024-11-19,Screenshot 2024-11-19 at 12.08.34.png,False
+44004992,True,Londis,95,2727,2023-04-01,Shell,False
+44003240,True,Gulf,95,1179,2023-08-01,Screenshot 2024-02-09 at 18.25.22.png,True
+44006799,True,bp,90,405,2023-03-01,image.png,True
+44004510,True,SPAR,95,1953,2024-02-01,Shell,False
+44010937,True,scrum on in moto,95,2727,2021-08-01,6710348478989377221,False
+44007064,True,Shop,95,1695,2024-07-01,618688207f852f24a5858e94f6d13236.jpg,True
+44003627,True,Londis,95,1695,2023-09-01,Texaco,False
+44005118,True,SPAR,95,2727,2024-09-01,8792122091575901916.png,True
+44009070,True,Spar,95,1437,2022-04-01,photo.png,False
+44005338,True,SPAR,95,1437,2022-11-01,alex marks,False
+44010595,True,RL Auto Services,80,921,2024-04-01,Screenshot 2024-05-09 at 11.19.20.png,True
+44000493,True,Little Waitrose & Partners,95,2727,2024-07-01,146 B186,True
+44001801,True,M&S Simply Food,95,405,2020-11-01,7248_00001.jpg,True
+44004646,True,Londis,95,1437,2024-05-01,5.png,True
+44010785,True,Bampton Valley Stores,100,2727,2024-09-01,Screenshot 2024-10-27 at 14.39.23.png,True
+44009739,True,Simply Food,95,921,2023-03-01,Screenshot 2024-04-27 at 17.19.55.png,True
+44010242,True,Morrisons,95,1179,2024-07-01,3 Belle Vue Way,True
+44009406,True,Nisa,85,1695,2024-07-01,Woodrow Garage,False
+44005090,True,Unknown,50,1695,2024-10-01,Screenshot 2024-05-02 at 17.43.20.png,True
+44009765,True,Londis,95,921,2023-04-01,Screenshot 2024-05-07 at 16.25.28.png,True
+44002439,True,Esso,90,921,2021-10-01,image capture Oct 2021,True
+44004005,True,M&S Simply Food,95,2727,2022-10-01,709 A12,True
+44006200,False,N/A,90,1179,2021-06-01,photo4.png,False
+44003660,True,Morrisons,95,1953,2024-07-01,7291-404816333-image.png,False
+44009836,True,Spar,95,2727,2020-01-01,09.png,False
+44004840,True,SELECT,95,2727,2024-11-01,Shell,False
+44010951,True,Budgens,95,2727,2024-10,Screenshot 2024-02-17 at 15.05.59.png,False
+44008251,True,Central,95,1179,2024-01-01,"Texaco fuel with Spar groceries, Pos...",False
+44000248,True,Londis,80,2727,2021-04-01,Screenshot 2024-02-22 at 15.25.45.png,False
+44002774,True,Tesco Express,95,2727,2017-04-01,Esso,False
+44004060,True,M&S Food,95,2469,2024-08-01,bp,False
+44007112,True,Costa Express,80,1179,2024-02-01,screenshot_1.png,False
+44001917,True,Select,95,1695,2024-01-01,Shell,False
+44008932,False,Unknown,1,405,2022-08-01,image.png,True
+44004685,True,Wash N Drive,90,1695,2024-06-01,6472719b-6216-45c6-b46c-78e163ef87b4.png,True
+44002129,True,Park&Shop,95,663,2024-07-01,image0.png,True
+44004205,True,Budgens,95,405,2023-03-01,image.png,True
+44007577,True,M&S,95,921,2022-11-01,image,True
+44006764,True,Tesco Express,80,2211,2024-10,Screenshot 2024-05-02 at 10.40.11.png,False
+44008229,True,Tesco,100,1437,2024-10-01,Screenshot 2024-05-02 at 17.03.10.png,False
+44006367,True,Spar,95,1953,2023-09-01,Esso,False
+44000441,True,Nisa Local,100,1695,2023-04-01,Screenshot 2024-04-18 at 15.17.45.png,True
+44001726,True,Budgens,90,2211,2024-09-01,Bourne Bridge Service Station,True
+44000276,True,Londis,95,1695,2024-06-01,2024-06,False
+44005413,True,Waitrose at SELECT,95,2469,2020-12-01,shell-1.png,False
+44002500,True,Londis,95,2727,2023-12-01,10.png,False
+44008631,True,Siop Y Ddraig Goch,95,2727,2023-04-01,23-page-001.jpg,False
+44002790,True,Morrisons,100,921,2023-04-01,Screenshot 2024-05-02 at 18.57.27.png,True
+44005799,True,Shell,95,2211,2024-05-01,Shell,True
+44004263,True,Spar,90,2469,2024-07-01,image.png,True
+44010599,True,Satellite Service Station,70,405,2023-07-01,91833945-5C03-459A-BE94-1955C1B4D483.jpeg,True
+44007203,True,Asda Express,95,1953,2024-03-01,Screenshot 2024-05-01 at 16.26.13.png,False
+44003047,True,Spar,90,1437,2022-06-01,Screenshot 2024-05-02 at 12.54.31.png,True
+44007798,True,Central,100,1695,2024-08-01,Screenshot 2024-08-15 at 19.57.43.png,True
+44004111,True,Local and Independent,95,1437,2022-11-01,Local and Independent,False
+44003569,True,Central,95,1437,2024-05,Screenshot 2024-05-15 at 19.04.38.png,False
+44006106,True,Morrisons,95,921,2024-05-01,413965417-065486589f36.jpg,True
+44007850,True,Nisa,80,1437,2024-06-01,Screenshot 2024-06-07 at 13.01.59.png,True
+44003130,True,M&S Simply Food,95,2727,2021-09-01,99884444-426d-4269-bebc-e64962d0a3c5.png,False
+44001359,True,Welcome,95,1953,2024-05-01,Screenshot 2024-05-18 at 21-48-33.png,False
+44000605,True,On Licence,90,2727,2023-09-01,2023-09-24_160620.jpg,True
+44000514,True,Londis,95,2727,2024-07-01,3742f860-5282-4150-95e7-6fd35511708b.png,False
+44003395,True,Londis,95,2469,2022-10-01,Screenshot 2024-01-12 at 18.28.10.png,False
+44005900,True,Londis,95,1437,2022-10-01,JET.png,False
+44000875,True,ASDA On the Move,95,1953,2023-05-01,7,False
+44005387,True,Shell Select,70,2727,2017-01-01,photo - Jan 2017,False
+44010239,True,Londis,95,2727,2022-04-01,image.png,False
+44003439,True,Londis,90,2727,2021-10-01,photo.png,True
+44009209,True,Pace Mobil 1,80,1695,2024-07-01,9 B1332,True
+44008665,False,null,100,405,2023-09-01,image.png,True
+44009775,True,ASDA Express,95,2727,2024-10-01,photo_7.png,False
+44007132,True,Morrisons Daily,95,1179,2023-05-01,photo_3.png,False
+44009094,True,Gulf,95,2727,2019-01-01,8,False
+44010657,True,Nisa,80,1437,2023-02-01,image.png,False
+44005094,True,SPAR,95,2727,2021-02-01,no file name available,True
+44009061,True,SPAR,95,921,2022-04-01,Screenshot 2024-05-08 at 13.31.33.png,False
+44000830,True,Costcutter,95,2727,2024-05-01,CostcutterC.png,False
+44008813,True,Keystore Express,100,1695,2024-09-01,Welcome In,True
+44003073,True,Subway,95,405,2024-06-01,bp.png,True
+44004108,True,Budgens,95,2727,2023-08-01,England,True
+44007308,True,Budgens,90,2727,2024-04-01,image.png,True
+44005835,True,Select,95,2727,2024-05-01,Shell,True
+44004603,True,SPAR,95,2727,2024-11-01,Spar.png,False
+44000979,True,Londis,95,1179,2024-04-01,Jet MFG Morestyle Petrol Stati,True
+44007161,True,Nisa,80,921,2024-06-01,Garston Way Service Station P...,True
+44001546,True,Knighton Neighbourhood Store,95,2727,2024-11-01,5,True
+44005043,True,Tesco,100,1179,2024-06-01,shop,False
+44008506,True,Asda,95,1437,2018-09-01,photo_1.png,True
+44003881,True,Costa Express,70,2727,Jun 2023,JET.jpg,False
+44000863,True,Londis,95,1953,2023-10-01,0-Augmented-Reality-Petrol-Station-Google.jpg,False
+44009750,True,Emsworth store,80,2727,2019-12-01,10.png,False
+44009818,True,SPAR,95,1953,2022-10-01,Lawford Service Station A137 - Google Street View Oct 2022.png,True
+44011052,True,Southfell,75,1695,2024-02-01,Google Lens image capture_Feb 2024.jpg,False
+44008480,True,ASDA,100,1953,2024-05-01,2.png,False
+44011037,False,N/A,100,921,2021-03-01,Screenshot 2024-04-27 at 20.08.39.png,True
+44009066,True,Spar,95,1437,2022-04-01,4.png,False
+44010363,True,Wild Bean Cafe,100,2469,2023-08-01,Wild Bean Cafe,True
+44002479,True,SPAR,95,2469,2023-09-01,Gulf,False
+44003588,True,SPAR,95,2727,2024-09-01,image capture Sep 2024,True
+44010041,True,Tesco,100,1695,2023-03-01,Screenshot 2024-01-22 at 22.57.11.png,True
+44005618,True,Tesco Extra,95,2469,2023-07-01,Google Street View,True
+44001015,True,Onestop,80,921,2023-09-01,Esso,True
+44010338,True,Nicholl,95,405,2022-10-01,01997008-d427-4110-899b-0df962301451.jpg,True
+44001079,True,Spar,95,1695,2020-09-01,376e121d-0c3f-42aa-81dd-f4f13a60b15a.png,False
+44002560,True,Londis,95,1695,2024-06-01,Screenshot 2024-06-16 at 19.34.44.png,True
+44005787,True,Co-op,95,1179,2021-09-01,1B5301,True
+44004889,True,St Matthews,90,405,2022-11-01,image.png,True
+44009819,True,Subway,95,1179,2023-06-01,Shell.png,False
+44009805,True,SPAR,90,663,2023-05-01,screenshot.png,True
+44001683,True,Budgens,95,2727,2021-11-01,Jet,False
+44000453,True,SPAR,95,921,2024-05-01,image.png,False
+44004251,True,Morrisons,95,2211,2024-08-01,Screenshot_20240503_175039.png,True
+44003213,True,Premier Empire Stores,90,2727,2022-04-01,Screenshot 2024-01-20 at 10.29.58.png,False
+44001887,True,ASDA Express,95,2211,2024-08-01,Screenshot 2024-02-28 at 21.21.53.png,True
+44006308,True,Texaco,80,921,2023-04-01,screenshot_4.png,True
+44002455,True,Nisa Local,95,2727,2021-12-01,Screenshot 2024-08-22 at 20.11.30.png,False
+44006777,True,Asda,95,1437,2022-10-01,Screenshot 2024-01-19 at 23.46.12.png,True
+44005822,True,Spar,95,405,2023-05-01,Texaco.png,True
+44006650,True,Spar,100,405,2023-03-01,Esso.png,True
+44005221,True,SPAR,95,2727,2023-08,google_lens_search_screenshot.png,True
+44009125,True,Budgens,95,921,2024-06-01,Screenshot 2024-06-16 at 18.48.30.png,True
+44007729,True,Tesco,100,2211,2024-01-01,2989e4d4-d30c-4c91-9f17-9b32039d90f3.png,False
+44010256,True,Asda,95,1437,2021-09-01,4.png,False
+44000170,True,Londis,95,2727,2023-05-01,Screenshot 2024-02-19 at 18.53.06.png,False
+44006425,True,ASDA Express,100,1179,2024-04-01,3.png,True
+44008466,True,Asda,90,2211,2021-08-01,Asda Petrol Station,False
+44009611,True,Londis,95,2727,2024-03-01,Screenshot 2024-04-27 at 18.33.41.png,False
+44000532,True,SPAR,95,1179,2021-07-01,2-Full.png,True
+44003168,True,M&S Simply Food,100,1953,2024-06-01,Google Street View,True
+44006317,True,Morrisons Daily,100,1695,2024-09,Screenshot 2024-06-17 at 18.38.08.png,True
+44008885,True,Severn Fuels,90,921,2023-09-01,Severn Fuels,True
+44004688,True,M&S Simply Food,95,2727,2024-03-01,9,False
+44008218,True,Select,95,1695,2020-02-01,2.png,False
+44002423,True,Nisa,85,1437,2024-07-01,5.png,False
+44004868,True,Shell Select,95,2727,2024-09-01,1699226384146.jpg,False
+44002298,True,Londis,95,2727,2024-01-01,31789d2e-9342-40aa-88c5-7b431b6ff285.png,False
+44010354,True,SPAR,95,2727,2024-04-01,Esso.png,False
+44000548,True,SHOP,100,405,2024-09-01,360877c8-9d9f-4a5c-b5e7-d6f5c9a2b28c.jpg,True
+44000578,True,Morrisons Daily,95,1437,2023-04-01,Morrisons Petrol Station,True
+44003884,True,Harvest Energy,95,1695,2020-06-01,image.png,False
+44008623,True,SPAR,100,2727,2023-06-01,11.png,True
+44010659,True,Unbranded,60,405,2023-05-01,The Garage petrol station.png,True
+44002679,True,Little Waitrose,95,2727,2023-08-01,Screenshot 2024-05-04 at 21.31.54.png,False
+44004301,True,deli2go,95,2211,2024-11-01,Screenshot 2024-05-03 at 15.18.22.png,False
+44003603,True,Nisa,75,2211,2018-11-01,L Lee Goodham,False
+44005821,True,Morrisons Daily,100,1695,2024-11-01,Screenshot 2024-05-03 at 21.04.27.png,False
+44006313,True,Tesco,95,1953,2024-05-01,Tesco Petrol Station,False
+44003308,True,Tesco,95,1437,2021-08-01,Screenshot 2024-01-18 at 11.52.34.png,False
+44002161,True,Londis,90,2727,2023-09-01,Screenshot 2024-04-27 at 23.39.20.png,True
+44008549,False,null,70,2727,2024-09-01,Screenshot 2024-11-17 at 21.18.47.png,True
+44003453,True,Snappy Shopper,95,2469,2021-06-01,21676480-1510-4802-8341-770a3975f792.png,True
+44008773,True,Select & Save,95,921,2024-02-01,3,False
+44002685,True,Londis,95,2727,2024-04-01,453137074-01d8d049f5173e19,False
+44004083,True,SPAR,95,1437,2023-08-01,02777a52-0548-4156-809f-6d4e9958802a.png,True
+44010677,True,Esso,70,921,2024-05-01,2.png,True
+44004528,True,Nisa,90,921,2023-05-01,2.png,True
+44006647,True,Shell,95,921,2024-05-01,A250,True
+44005256,True,Londis,95,921,2022-07-01,MFG BP Girdle Toll Service Sta,False
+44010558,True,Onroute Shop,95,2727,2024-09-01,8.png,False
+44004849,True,Tesco Express,90,2211,2018-01-01,image.png,False
+44001759,True,SPAR,95,2727,2023-03-01,Shell,False
+44006395,True,Nisa local,95,2727,2024-06-01,0-Muhammad Razzaque-Jun 2024.png,False
+44003234,True,Central Co-op Food,95,2727,2018-12-01,Main entrance with rotating door,False
+44008122,True,SPAR,95,2727,2023-04-01,Screenshot 2024-01-19 at 17.58.02.png,False
+44002892,True,Shell,95,2727,2023-10-01,10.png,False
+44000634,True,Londis,95,2727,2023-07-01,image,True
+44005152,True,M&S Food,95,2211,2023-10-01,20231027_202303.jpg,False
+44008935,True,Springfield VETS,95,2727,2024-05-01,White Lane Service Station Ltd,False
+44005958,True,ASDA Express,100,405,2024-05-01,8403.png,True
+44008804,True,Welcome,95,921,2024-09,Screenshot 2024-04-27 at 18.39.33.png,True
+44001104,True,Budgens,80,2211,2022-05-01,8.png,False
+44001792,True,Asda,95,1953,2024-07-01,2.png,True
+44003602,True,M&S Simply Food,95,2727,2023-08-01,Screenshot_20240220_120235_Google.jpg,False
+44007986,True,Little Waitrose & Partners,95,2727,2024-03-01,Shell,False
+44009742,True,Shell,85,921,2024-11-01,shell.png,False
+44003714,True,Shell Select,95,2727,2023-12-01,6.png,False
+44000311,True,Select,90,1437,2024-02-01,2.png,False
+44001600,True,Tesco Express,100,2469,2023-03-01,Screenshot 2024-03-24 at 16.10.48.png,True
+44008537,False,null,95,1179,2023-09-01,Screenshot 2024-02-18 at 13.59.57.png,False
+44000331,True,Shell,90,2727,2022-03-01,2.png,True
+44007145,True,Nisa Local,95,2469,2023-12-01,08,False
+44007209,True,Londis,95,2469,2024-04-01,Screenshot 2024-05-03 at 11.26.08.png,False
+44001054,True,Convenience Store,90,2727,2024-09-01,Screenshot 2024-01-01 at 16.35.34.png,True
+44006525,True,Gulf,90,1953,2024-09-01,5.png,False
+44002395,True,Wild Bean Cafe,95,1695,2018-09-01,Screenshot 2024-01-08 at 21.28.58.png,False
+44006006,True,Morrisons Daily,95,2727,2023-09-01,8,False
+44006158,True,Greggs,95,2727,2023-10-01,Screenshot 2023-12-03 at 22.01.33.png,False
+44006629,True,Asda Express,95,1179,2023-06-01,0004.jpg,True
+44009885,True,Costcutter,95,2727,2017-02-01,4.png,False
+44001747,True,AUTOPOINT,90,2727,2023-02-01,Texaco,False
+44006600,True,SPAR,95,2727,2023-05-01,image.png,True
+44003618,True,Tesco,100,2727,2024-05-01,Screenshot 2024-05-20 at 10.28.15.png,False
+44009266,False,N/A,100,2727,2022-10-01,Bannerman SEAT Inverness,False
+44002901,True,SPAR,95,1695,2024-07-01,bp.png,True
+44010259,True,Morrisons,90,2469,2023-10-01,bp,False
+44003260,True,Texaco,90,405,2024-09-01,image.png,True
+44005291,True,Lochcarron Garage and Shop,95,2727,2023-04-01,46048a64-8a7c-42f0-b658-57c94266f626.png,False
+44005612,True,Londis,100,2211,2023-06-01,Screenshot 2024-01-17 at 23.15.24.png,True
+44005892,True,Lona,95,405,2023-04-01,image.png,True
+44004137,True,Morrisons Local,95,921,2023-07-01,88 Fareham Rd,True
+44006701,True,SPAR,95,1179,2022-04-01,Screenshot 2024-02-22 at 14.10.37.png,False
+44003465,True,Shell SELECT,95,1437,2024-11-01,Screenshot 2024-05-09 at 14.06.32.png,False
+44001823,True,Spar,95,2727,2021-08-01,818398922.png,False
+44010078,True,SPAR,80,1437,2021-06-01,Screenshot 2024-05-01 at 12.16.55.png,True
+44001185,True,Applegreen,90,2727,2023-09-01,Screenshot 2024-02-09 at 20.48.56.png,True
+44005543,True,M&S Simply Food,90,2727,2023-05-01,Screenshot 2024-02-15 at 23.42.41.png,True
+44006268,True,Morrisons Daily,100,2469,2024-01-01,Esso,False
+44005186,True,Welcome To The Baltins,90,1695,2024-06-01,1.png,False
+44003674,True,Spar,95,2469,2024-02-01,image capture Feb 2024,False
+44005349,True,Londis,95,1437,2023-04-01,Screenshot 2024-05-09 at 17.57.04.png,True
+44002516,True,Miles,95,1695,2023-07-01,screenshot_20240120_135451.png,False
+44004848,True,Londis,95,1695,2023-07-01,Photo of a petrol station,False
+44000281,True,Londis,95,2727,2024-11-01,Screenshot 2024-01-27 at 15.27.58.png,False
+44009410,True,Unknown,50,2727,2022-08-01,Aug 2022 photo,False
+44010958,True,Select,90,2727,2023-07-01,3.png,False
+44002004,True,The co-operative,90,2727,2024-09,Screenshot 2024-05-03 at 20.51.32.png,True
+44007439,True,Tesco,100,1179,2023-05-01,4.png,True
+44000478,True,Londis,95,1953,2022-04-01,capture_apr_2022,True
+44009570,True,Shell,90,2727,2019-08-01,shell.png,False
+44008066,True,Shell Select,95,2727,2024-03-01,9,False
+44003514,True,M&S Simply Food,95,1179,2017-02-01,photo4.png,False
+44010608,True,Naughton Motors,90,405,2024-06-01,Naughton Motors.png,True
+44003801,True,Mace,95,1179,2023-06-01,4.png,True
+44000897,True,lifestyle express,95,2727,2021-04-01,211.png,True
+44009569,True,Asda Express,90,921,2024-06-01,Screenshot 2024-06-15 at 11.31.19.png,True
+44000702,True,Select,70,2211,Jul 2016,Shell,True
+44002690,True,Baldwins Gate Filling Station,90,2727,Oct 2022,Baldwins Gate Filling Station,False
+44001387,True,Riviera,90,405,2024-05-01,3837427455-09250005ef-original.png,True
+44000962,True,M&S Simply Food,95,663,2024-07-01,photo_1.png,True
+44008943,True,Nisa Express,95,1695,2024-08-01,screenshot_1,True
+44006802,True,Morrisons,100,1953,2023-03-01,Photo - Mar 2023,False
+44004920,True,Londis,95,2727,2023-09,Screenshot_20240122_111703.png,False
+44005411,True,Shop,95,1437,2023-04-01,Shell,True
+44008951,True,SPAR,100,921,2023-07-01,screenshot_1.png,True
+44004393,True,Texaco,90,2727,2023-03-01,2024-03-31_15-03-22.png,False
+44006791,True,Greggs,95,2211,2022-01-01,8.png,False
+44001163,True,Tesco,100,1179,2023-09-01,4,True
+44010864,True,Price Watch,90,1953,2024-06-01,A29,True
+44005718,True,M&S FOOD,95,2727,2023-04-01,Screenshot 2024-02-19 at 19.08.54.png,False
+44010572,True,AJE Automobilia,90,2727,2023-01-01,8.png,False
+44000479,True,Tesco Express,100,921,2024-09-01,2.png,True
+44000970,True,SPAR,100,2727,2019-09-01,67479660-6605-4405-ac74-1855d1d39b2c.png,True
+44001103,True,Premier,95,921,2017-05-01,no file name,True
+44007939,True,Premier,90,2727,2019-04-01,Applegreen,False
+44010052,True,Tesco,95,2727,2022-06-01,image capture Jun 2022.jpg,True
+44008450,True,Waitrose,95,2727,2024-09-01,Shell.png,True
+44007149,True,Nisa,95,2727,2024-04-01,Ascona Pelcomb Service Station an...,False
+44000430,True,Premier Store,80,1695,2023-05-01,49695.png,True
+44010863,True,MACE,95,405,2023-06-01,047.jpg,True
+44007332,True,M&S FOOD,95,2727,2023-08-01,bp,False
+44005116,True,Laide Post Office,95,2727,2024-06-01,4.png,False
+44004415,True,Spar,95,1695,2024-07-01,Screenshot 2024-11-02 at 20.59.42.png,True
+44006599,True,Londis,95,2727,2024-11-01,16.png,False
+44010003,True,Tesco,95,1695,2024-09-01,7.png,True
+44006804,True,Murco,95,1179,2023-05-01,Screenshot 2024-05-03 at 14.59.24.png,True
+44008780,True,SPAR,95,1437,2024-04-01,6 Athol St,True
+44002569,True,Tesco,100,2727,2023-04-01,Tesco Petrol Station,True
+44001227,True,Shell,90,921,2024-11-01,screenshot_2.png,False
+44008523,True,Bata,95,2727,2024-06-01,Screenshot 2024-02-06 at 13.32.50.png,True
+44006394,True,Londis,95,2211,2024-08-01,8.png,True
+44009873,True,Londis,95,1179,2024-06-01,image capture: jun 2024,True
+44010827,True,SPAR,95,1179,2024-02-01,122 National Cycle Rte 5,False
+44010034,True,Tesco,95,1179,2021-10-01,Tesco Petrol Station,False
+44007876,True,Morrisons,95,2469,2022-10-01,Screenshot 2024-02-05 at 20.35.26.png,False
+44008964,True,Spar,90,2211,2024-09-01,A683,True
+44005220,True,SELECT,95,2727,2024-07-01,318 A5127,True
+44005966,True,Spar,95,921,2024-06-01,screenshot_1.png,True
+44005049,True,Morrisons,100,2727,2024-05-01,screenshot_7.png,False
+44010250,True,Asda,100,2727,2021-11-01,5.png,False
+44008163,True,Londis,95,2469,2024-08-01,102.84176,True
+44005863,True,Asda,100,1437,2023-09-01,1-Original.png,False
+44005068,True,M&S Food,95,1695,2020-09-01,249735275-2742812429182382-rK5T38g5.jpg,True
+44006403,True,Tesco,95,1179,2023-10-01,Tesco Petrol Station,False
+44008058,True,Londis,95,2727,2024-06-01,google_street_view.png,True
+44006311,True,Tesco,95,663,2023-05-01,Screenshot 2024-05-03 at 23.53.26.png,True
+44004002,True,Budgens,95,2727,2023-08,2 A22,True
+44000405,True,Nisa,95,2469,2022-02-01,texaco-shop.png,False
+44000298,True,Londis,95,2727,2022-03-01,Esso,False
+44001796,True,SPAR,100,2727,2022-06-01,10.png,False
+44004718,True,Premier Express,95,1179,2024-08-01,image capture: aug 2024 (2).png,True
+44004564,True,Londis,95,2727,2017-11-01,Texaco,False
+44005119,True,Morrisons,95,2727,2024-04-01,screenshot_10.png,False
+44003823,True,Spar,95,2727,2022-07-01,bp,False
+44009065,True,Gulf Store,95,1437,2024-09-01,Screenshot 2024-01-05 at 15.59.23.png,True
+44007505,False,N/A,100,2727,2024-05-01,Marshall Honda York,False
+44000510,True,Relish Delicatessen,95,2727,2017-08-01,4.png,False
+44004123,True,Burrows,90,2727,2022-06-01,109 Fabian Way,True
+44008121,True,Morrisons Daily,95,2727,2024-10-01,morrisons.PNG,False
+44011068,True,Co-op,100,2727,2021-09-01,Screenshot 2024-01-27 at 21.40.15.png,True
+44000224,True,Shell SELECT,95,2727,2021-05-01,Shell,False
+44003114,True,SPAR,95,2727,2024-05-01,33 B2230,True
+44003702,True,Tesco,95,2727,2024-03-01,"Skipton, England",True
+44003083,True,Shell,90,1953,2024-04-01,Shell,False
+44000837,True,ASDA Express,100,1437,2024-05-01,North End Service Station,False
+44003415,True,Shell Shop,95,2211,2024-04-01,Shell.png,True
+44007463,True,R. BLACKLER,95,921,2023-03-01,62 A3058.jpg,True
+44003128,True,SPAR,95,921,2024-07-01,bp,False
+44003661,True,Budgens,100,2727,2023-09-01,22.png,False
+44010267,True,Penny Petroleum,90,1953,2023-05-01,Penny Petroleum,False
+44008280,True,Co-op,100,405,2023-03-01,image.png,True
+44009930,False,Unknown,50,921,2024-03-01,JET,False
+44004347,True,SPAR,95,1437,2022-12-01,screenshot_1685548249112.png,False
+44004772,True,Spar,90,921,2024-07,Screenshot 2024-05-18 at 18.37.36.png,True
+44005247,True,Londis,95,405,2024-07-01,image.png,True
+44001232,True,Shell Select,95,1695,2020-09-01,Screenshot 2024-05-02 at 10.29.29.png,False
+44005660,True,Londis,95,2727,2024-06-01,Esso,False
+44002400,True,ASDA Express,90,2727,2024-08-01,A470,True
+44009840,True,SPAR,95,1695,2023-05-01,Screenshot 2024-05-03 at 13.24.54.png,True
+44006781,True,SPAR,95,1179,2022-04-01,Gulf,False
+44004639,True,ASDA Express,95,2727,2024-11-01,screenshot_20240105-121800.png,False
+44010344,True,SPAR,95,2211,2022-03-01,Screenshot_20240128_235754_Google.jpg,True
+44004360,True,Evergreen Garage,80,2727,2020-07-01,10.png,False
+44009415,True,Local Store,70,405,2021-04-01,Thames.png,True
+44008517,True,SPAR,95,921,2022-04-01,Screenshot 2024-01-19 at 18.36.17.png,False
+44005917,True,SPAR,100,1179,2023-07-01,Screenshot 2024-01-27 at 14.25.31.png,True
+44007478,True,M&S Simply Food,95,2727,2023-02-01,bp,False
+44010017,True,Tesco,100,2727,2023-12-01,capture.jpg,False
+44009067,True,Londis,95,2727,2023-08-01,Screenshot 2024-01-08 at 12.06.14.png,False
+44009223,True,Spar,70,405,2019-01-01,891802697-047e7a0a68.jpg,True
+44000845,True,Spar,95,663,2023-04-01,bp.png,True
+44004631,True,Spar,95,1695,2024-05-01,10 83199,True
+44005059,True,Morrisons,95,1695,2024-08-01,Screenshot 2024-05-03 at 10.03.16.png,True
+44003578,True,Spar,85,1695,2023-09-01,Screenshot 2024-05-03 at 13.40.41.png,True
+44008633,False,null,90,405,2016-09-01,image.png,True
+44000700,True,Londis,95,2469,2024-08-01,screenshot_10.png,True
+44008740,True,JET,95,1695,2024-04-01,JET,True
+44003329,True,Tesco Express,100,2727,2022-10-01,0-0,False
+44007040,True,Synergy,85,1695,2024-02-01,9k=,False
+44010682,False,null,100,405,2023-02-01,image.png,True
+44010057,True,Premier,95,1437,2023-03-01,Premier brand shop at Total Energies Bristol Road,False
+44010648,True,Ferry Stores,100,2727,2024-06-01,no file name,False
+44006812,True,Londis,95,405,2023-06-01,image.png,True
+44000597,True,Select,90,2727,2022-04-01,3.png,False
+44006053,True,Asda Express,95,1179,2024-08,Screenshot 2024-05-04 at 19.55.23.png,True
+44010812,True,Castle Garage,70,405,2024-05-01,89860723-dd32-418f-bd94-3395938623ca.jpg,True
+44004262,True,Bells Close,70,921,2021-11-01,2.png,True
+44002953,True,SPAR,95,1953,2020-07-01,image.png,False
+44010908,False,N/A,100,2727,2023-04-01,Screenshot 2024-01-06 at 19.34.06.png,True
+44008681,True,Clarkes,100,405,2023-06-01,71259797-ddc6-41f7-ab8a-7a3a707cf8c5.png,True
+44003183,True,Tesco,95,1695,2024-07-01,504 Brooks Rd,True
+44008434,True,Circle K,100,405,2024,Circle K Express Lurgan Banbridge Rc.png,False
+44002488,True,SPAR,95,921,2022-04-01,gulf.png,False
+44008614,True,Bellevue,80,405,2023-05-01,3259587e-e8a7-4173-805f-c54a94550c5a.jpg,True
+44002980,True,SPAR,90,921,2022-04-01,image.png,False
+44003962,True,Tesco,100,1179,2024-06-01,Tesco Petrol Station,True
+44004151,True,Costcutter,100,405,2024-07-01,image.png,True
+44010400,True,Hayton Coulthard,70,2727,2021-06-01,AS 24,True
+44002576,True,Spar,90,1437,2019-04-01,Google Street View,True
+44010960,False,N/A,100,2727,2024-01-01,no file name available,False
+44008619,True,Circle K Express,95,405,2023-07-01,crop_375_98_435_177.jpg,True
+44002088,True,Londis,95,2727,2024-06-01,Screenshot 2024-07-04 at 13.43.11.png,False
+44004421,True,Morrisons,95,1695,2024-07-01,image.png,False
+44009672,True,Londis,95,2727,2023-08-01,Screenshot 2024-11-16 at 15.23.25.png,False
+44010720,False,null,100,405,2009-06-01,Fuel.png,True
+44009146,True,Nisa,95,405,2011-08-01,448315645-8aa77b7393.jpg,True
+44004706,True,Gulf,90,1179,2024-06-01,image.png,False
+44009038,True,Nisa,100,2727,2024-03-01,Nisa Local,False
+44008453,True,Shell,95,1953,2022-04-01,7.png,False
+44007894,True,DODWELLS,90,2727,2017-08-01,bp,False
+44009295,True,Unknown,50,2469,2021-04-01,Pace,True
+44003957,True,Spar,95,1953,2024-04-01,Screenshot 2024-05-10 at 20.57.28.png,False
+44003834,True,SPAR,95,1437,2022-04-01,the petrol station.PNG,False
+44003877,True,Londis,95,1179,2021-09-01,image capture- Sep 2021 (1).png,False
+44000285,True,Costcutter,85,1695,2024-03-01,Screenshot 2024-04-01 at 11.35.35.png,True
+44009784,True,SCT,90,2469,2022-08-01,capture_aug_2022.jpg,True
+44001176,True,Spar,90,2211,2022-05-01,screenshot_8.png,False
+44008113,True,Tesco Express,100,921,2023-08-01,Esso,True
+44006444,True,Asda,100,2727,2023-07-01,Screenshot 2024-05-02 at 21.50.14.png,True
+44007656,True,ASDA,95,2727,2024-04-01,Screenshot 2024-04-29 at 10.36.35.png,False
+44003620,True,Murco,95,921,2023-06-01,image.png,True
+44001416,True,MORNING CATCH FISH BAR,90,1179,2022-06-01,image.png,True
+44006902,True,SPAR,95,1953,2023-10-01,1542-2956144402.png,False
+44000721,True,Spar,85,663,2024-05-01,Screenshot 2024-05-20 at 20.42.53.png,False
+44002591,True,Spar,100,1437,2023-07-01,Screenshot 2024-05-04 at 10.26.08.png,False
+44003905,True,Select,80,2727,2021-10-01,7a1a7089-9f57-42bd-a86a-c7633a091436.png,False
+44009841,False,null,10,405,2023-06-01,0825.png,True
+44001321,True,best-one,95,2727,2020-12-01,16.png,False
+44001860,True,Our Weekly,90,1695,2024-06-01,Screenshot 2024-05-03 at 17.17.25.png,True
+44009201,True,Bloom & Wake Garage Ltd,80,405,2023-05-01,image.png,True
+44010048,True,Woodlands Services Station,90,921,2022-06-01,image.png,True
+44010076,True,Nisa,100,405,2023-03-01,google_street_view.png,True
+44000806,True,Esso Snack&Shop,95,1437,2021-08-01,Esso County Garage,False
+44010121,True,SPAR,100,1953,2024-07-01,Maxol Eglinton,False
+44009704,True,Asda,95,2727,2017-08-01,631 136,False
+44003048,True,ASDA Express,100,1437,2024-08-01,Shell,True
+44004498,True,Londis,95,405,2024-07-01,image.png,True
+44003492,True,Budgens,80,2727,2024-09-01,8,True
+44005019,True,Select,95,2727,2020-11-01,Shell,False
+44002254,True,Londis,95,1953,2020-05-01,bp,False
+44003922,True,ASDA Express,100,405,2024-09-01,image.png,True
+44007953,True,Tesco,95,921,2021-08-01,photo_Aug_2021,False
+44001376,True,The Co-operative Food,95,1437,2024-04-01,Screenshot 2024-05-08 at 11.10.03.png,True
+44003722,True,Tesco,95,2727,2024-09-01,4871d294-52fd-4469-9839-09b80146db52.png,False
+44002448,True,Spar,85,2727,2024-03-01,photo_from_google_march_2024.png,False
+44009191,True,SPAR,100,921,2022-04-01,Screenshot 2024-05-03 at 09.40.20.png,False
+44009724,True,ASDA,90,1179,2023-04-01,photo captured: Apr 2023,True
+44007590,True,Spar,80,2211,2024-08-01,290 B4637,True
+44009214,True,Londis,100,1953,2024-05-01,7.png,True
+44010188,True,Asda,100,2727,2024-01-01,Asda Bridgewater Superstore,False
+44000307,True,Spar,95,2727,2021-12-01,302046d5-870d-4b74-bd45-f12a8dd24a5d.png,False
+44004909,True,ASDA,95,1179,2024-08-01,Screenshot 2024-05-04 at 20.00.31.png,False
+44006084,True,SPAR,95,921,2022-09-01,Screenshot 2024-05-04 at 21.18.42.png,True
+44005763,True,NisaLocal,90,2469,2024-08-01,2432135413.jpg,False
+44011034,True,M&S,95,2727,2024-04-01,23-screenshot.jpg,False
+44002688,True,Londis,95,2211,2020-08-01,bp.png,False
+44001729,True,Londis,95,1695,2024-02-01,bp,False
+44009269,True,Lifestyle Express,95,1953,2023-10-01,Screenshot 2024-01-18 at 14.54.26.png,False
+44000677,True,Mibsons Convenience Store,95,2727,2018-01-01,4-full.png,True
+44008841,True,The Northern Bites Shop,95,1179,2018-09-01,4,True
+44009085,True,Unknown,50,1179,2024-08-01,Screenshot 2024-11-16 at 21.28.12.png,True
+44005751,True,Costcutter,100,405,2023-04-01,image.png,True
+44009821,True,Ultra Premium Park,85,2469,2023-12-01,JET.png,False
+44004729,True,deli2go,95,2727,2016-12-01,Shell,False
+44006164,True,M&S Simply Food,95,2727,2019-03-01,8,False
+44002830,True,Spar,95,1695,2023-07-01,3 A4010,True
+44002649,True,Londis,95,2469,2020-04-01,Screenshot 2024-04-04 at 14.34.56.png,False
+44007109,True,Londis,95,921,2021-08-01,Texaco,False
+44010921,True,SPAR,95,921,2022-04-01,Screenshot 2024-05-03 at 11.45.37.png,False
+44004744,True,SPAR,95,1179,2022-07-01,image.png,True
+44004359,True,Nisa Local,95,2469,2021-04-01,Cks,False
+44011023,True,McPartland Fuels,70,921,2024-01-01,photo.png,False
+44000684,True,Morrisons Daily,95,1437,2021-11-01,photo - Nov 2021,False
+44006010,True,Tesco,95,1953,2023-03-01,Screenshot 2024-05-04 at 14.43.58.png,False
+44007883,True,Londis,95,405,2022-03-01,crop_7.jpg,True
+44011074,False,null,100,405,2023-06-01,Universal Autos.png,True
+44005779,True,SELECT,95,1953,2024-11-01,Shell,False
+44006325,True,Jet Wash,70,2211,2023-02-01,4.png,False
+44003619,True,Subway,80,2727,2022-09-01,Esso,True
+44002653,True,Jet,90,1695,2023-06-01,6.png,True
+44008496,True,ASDA,100,2727,2024-08-01,Asda Petrol Station.png,False
+44003791,True,Tesco,100,921,2024-05-01,Screenshot 2024-05-17 at 22.22.36.png,True
+44002300,False,null,50,405,2023-08-01,image.png,True
+44007916,True,Premier Stores & fuel,90,1953,2024-08-01,a149.png,True
+44008454,True,Waitrose,95,2727,2024-11-01,shell-9.png,False
+44008161,True,Select,90,2727,2019-09-01,9.png,False
+44003735,True,Tesco Express,100,921,2022-06-01,Screenshot 2024-05-03 at 11.25.45.png,True
+44001418,True,Londis,95,1695,2023-10-01,6,False
+44009200,True,SPAR,95,921,2022-04-01,7424a93a-4b77-462d-a611-4a00ef17c5e3.png,False
+44010575,True,Unbranded,70,405,2024-03-01,image.png,True
+44006156,True,Londis,95,2727,2023-12-01,JET,False
+44005613,True,Londis,95,2727,2022-10-01,Texaco,True
+44005265,True,Moston,90,2727,2024-05-01,Applegreen Moston,True
+44005770,True,Londis,95,921,2022-11-01,Screenshot 2024-05-04 at 19.24.21.png,True
+44001001,True,SPAR,70,405,2011-06-01,a74e070d-b06e-599b-a834-099208326362.jpg,True
+44002175,True,Londis,100,405,2023-04-01,0829.png,True
+44003305,True,Shell,80,2469,2024-05-01,Screenshot 2024-01-06 at 12.53.41.png,True
+44006422,True,Tesco,100,1953,2023-09-01,Screenshot 2024-02-23 at 12.05.05.png,True
+44002006,True,Londis,95,2211,2024-08-01,Screenshot 2024-05-02 at 22.01.43.png,False
+44008007,True,Morrisons Daily,100,2727,2024-09-01,10.png,False
+44003842,True,N/A,50,921,2023-08-01,bp,True
+44010262,True,Wild Bean Cafe,90,921,2023-03-01,photo_1.png,True
+44006411,True,Premier,95,405,2022-06-01,Texco.png,True
+44006665,True,M&S,95,1953,2024-04-01,bp,True
+44005600,True,Select,95,2727,2017-02-01,Screenshot_20240412_162043_Chrome.jpg,False
+44008194,True,Budgens,95,1437,2023-07-01,bp,True
+44010628,True,Yardley Hastings Garage,70,2727,2024-10-01,311208215_894925471848777_5679291327555717779_n.png,True
+44008245,True,Morrisons,95,1437,2024-07-01,Screenshot 2024-05-15 at 12.58.45.png,True
+44000188,True,Greggs,95,2727,2023-05-01,Screenshot 2024-02-15 at 18.27.54.png,False
+44005594,True,COSTCUTTER,90,2727,2022-05-01,7.png,False
+44002885,True,SPAR,100,1179,2023-10-01,Texaco,False
+44004479,True,SPAR,95,2727,2023-06-01,2 Haddon Rd,True
+44005955,True,Esso,70,1437,2024-06-01,Screenshot 2024-06-27 at 14.44.47.png,True
+44002771,True,SPAR,95,921,2023-04-01,Screenshot 2024-05-02 at 15.01.20.png,True
+44002379,True,SPAR,95,2727,2022-09-01,Google,False
+44005614,True,Eurospar,95,405,2021-06-01,image.png,True
+44001483,False,Unknown,10,405,2023-04-01,45693933-363b-4344-b5a1-06e6b5a6c959.jpg,True
+44003318,True,Premier,90,2727,2024-07-01,bp,False
+44004138,True,Londis,80,1695,2022-10-01,Screenshot 2024-05-03 at 16.18.49.png,True
+44009408,True,Highland,75,405,2023-07-01,image.png,True
+44006119,True,Shell,75,1437,2022-12-01,Screenshot 2024-05-18 at 16.36.04.png,True
+44001839,True,SPAR,95,2469,2023-03-01,texaco-0.png,True
+44008950,True,SPAR,100,921,2018-08-01,spar_dundrum-3.png,True
+44007234,True,Budgens,95,1179,2023-05-01,2.png,True
+44010387,True,Nisa,80,2727,2022-11-01,Screenshot 2024-01-21 at 10.47.21.png,True
+44002062,True,SuperValu,95,405,2022-04-01,image.png,True
+44001805,True,Londis,100,921,2024-04-01,JET,True
+44007300,False,unknown,10,405,1900-01-01,0001.jpg,False
+44004853,True,Morrisons,100,921,2024-06-01,photo3.png,True
+44003410,True,Premier,90,1437,2018-01-01,Texaco,False
+44000551,True,Londis,100,1437,2021-08-01,20240326_122546.jpg,False
+44006694,True,ASDA Express,95,1695,2024-02-01,7395496064814716767-0-67,False
+44008259,True,Spar,95,1695,2023-04-01,Esso,False
+44005980,True,M&S Simply Food,95,2211,2022-09-01,bp,False
+44008487,True,Asda,95,1695,2024-04-01,5,False
+44001448,True,ASDA Express,95,2211,2024-05-01,Screenshot 2024-05-17 at 14.38.28.png,True
+44009795,True,Unknown,50,921,2024-04-01,123456.jpg,True
+44003257,True,Go Local,95,2727,2021-07-01,Harvest Energy & Go Local Con...,False
+44002359,True,Wild Bean Cafe,80,1437,2024-06-01,52483915.jpg,True
+44002017,True,Star Fuels,95,921,2024-08-01,Screenshot 2024-02-04 at 17.31.12.png,True
+44002245,True,SELECT,95,2727,2022-05-01,9,True
+44005905,True,Londis,95,2727,2024-03-01,Screenshot 2024-05-07 at 19.18.06.png,False
+44001950,True,Londis,100,2727,2024-10-01,Screenshot 2024-10-27 at 20.57.34.png,False
+44010521,True,Morgan Xpress,95,1179,2023-05-01,google_streetview_photo.png,True
+44001461,True,Shell Select,95,2727,2024-09-01,6d737ef6-4151-4f7b-b247-d7d6eb1b3680.png,True
+44007386,True,Night Pay,90,1179,2023-07-01,4 Sunderland Rd,False
+44003411,True,Morrisons,95,2211,2024-09-01,Morrisons Petrol Station,False
+44004125,True,Subway,95,2727,2024-06-01,shell-1.png,True
+44002093,True,Tesco Express,100,2727,2024-07-01,86 A205.png,True
+44006875,True,Co-op,95,1437,2023-05-01,A351,True
+44004019,True,Londis,95,2727,2021-08-01,16,False
+44002468,True,Londis,95,2727,2024-05-01,Esso,False
+44007765,True,Londis,95,2727,2023-06-01,bp-9.png,False
+44009021,True,Carlton Colville Service Station Ltd,90,405,2022-07-01,google_capture.png,True
+44006672,True,Londis,95,2727,2022-05-01,Esso,False
+44007977,True,Platts of Marlow,95,2727,2023-05-01,Platts of Marlow Petrol Forecourt,True
+44004734,True,Londis,95,1953,2024-05-01,Esso,False
+44007547,True,Londis,95,2469,2024-07-01,JET,True
+44001775,True,Spar,95,2211,2023-06-01,Screenshot 2024-02-22 at 12.49.51.png,True
+44001498,True,Spar,95,2727,2021-09-01,459914566-982049942347781-5778168746447771387-n.png,False
+44010535,False,N/A,100,2727,2022-07-01,114 B9074,True
+44003033,True,Morrisons,90,1695,2024-11-01,21-04-2024 16-27-47.jpg,False
+44006142,True,M&S,95,2211,2024-10-01,bp,False
+44002249,True,Spar,95,2727,2022-03-01,Esso,False
+44009951,True,Costcutter,95,405,2021-06-01,image.png,True
+44007697,True,Shell,95,1953,2024-11-01,Screenshot_20240503_235459_Google.jpg,False
+44006843,True,Morrisons,95,1695,2024-06-01,asset.png,True
+44004291,True,Spar,100,2211,2024-05-01,Screenshot 2024-05-11 at 11.08.09.png,True
+44010340,True,SPAR,95,2727,2024-11-01,Shell,False
+44006419,True,Londis,95,2727,2024-08-01,Screenshot 2024-05-02 at 18.04.50.png,True
+44005826,True,Londis,100,1695,2023-09-01,2.png,False
+44000906,True,SPAR,95,2727,2023-03-01,8.png,True
+44011065,True,Nisa,90,2727,2023-01-01,2222.png,False
+44007518,True,Premier,90,2727,2017-01-01,Screenshot 2024-05-03 at 12.08.54.png,False
+44006296,True,Grab and Go,95,2727,2023-12-01,Shell,False
+44007416,True,Mace,95,2469,2024-04-01,8.png,True
+44002709,True,M&S Food,95,2727,2023-09-01,screenshot_20240502_020421.png,False
+44006603,True,Morrisons,95,1953,2023-04-01,6.png,False
+44003075,True,Londis,95,2211,2023-06-01,shell.png,True
+44000022,True,Spar,90,921,2021-09-01,Applegreen,True
+44006859,True,Premier,95,2727,2022-09-01,2.A4058,True
+44006359,True,Ultimate,95,2727,2019-09-01,bp,False
+44009302,True,Samkin,95,921,2022-06-01,Screenshot 2024-05-03 at 11.33.52.png,True
+44004559,True,Tesco,100,1179,2024-05-01,Screenshot 2024-05-20 at 18.54.30.png,False
+44001047,True,SPAR,95,2727,2023-04-01,Screenshot 2024-02-29 at 15.43.04.png,False
+44002240,True,Londis,85,2727,2020-01-01,Shell,False
+44008777,True,Brown Bobby,90,2727,2010-08-01,image.png,False
+44008146,True,ASDA,95,2727,2023-07-01,Screenshot 2024-05-02 at 11.07.32.png,False
+44002716,True,Tesco Extra,100,2727,2021-05-01,Screenshot 2024-05-16 at 12.40.08.png,False
+44007244,True,Spar,95,405,2021-04-01,407764391-3589827967734401.jpg,False
+44010870,False,N/A,90,1179,2022-08-01,Screenshot 2024-04-26 at 14.01.02.png,True
+44007578,True,Tesco,100,2727,2021-04-01,Main entrance to the Pump station,False
+44004793,True,Welcome Break,100,1953,2023-09-01,4.png,False
+44007905,True,Extro,95,921,2018-10-01,unknown,False
+44000393,True,Shop,90,1695,2016-09-01,Shell,False
+44005683,True,SPAR,95,2469,2022-04-01,Screenshot 2024-02-22 at 15.20.50.png,False
+44003218,True,Welcome,90,405,2022-05-01,image.png,True
+44000944,True,MACE,95,405,2022-09-01,image.png,True
+44002146,True,Spar,95,1695,2023-05-01,gulf.PNG,True
+44000995,True,Morrisons Daily,100,1179,2024-09-01,Mohan Das (Mano),False
+44010451,True,Smiths,95,405,2023-07-01,image.png,True
+44006604,True,Esso,95,1695,2024-08-01,5 Halesfield 16,True
+44010819,True,Waterloo Service Station,95,405,2022-10-01,image.png,True
+44003204,True,Tesco,95,921,2021-08-01,Screenshot 2024-05-11 at 07.49.30.png,False
+44005868,True,Londis,95,2727,2023-11-01,Screenshot 2024-03-16 at 16.44.40.png,False
+44009558,True,M&S Simply Food,95,2469,2023-02-01,bp,False
+44004835,True,SPAR,95,2727,2024-07-01,Screenshot 2024-01-27 at 18.07.19.png,True
+44001013,True,Whiston Road Car Wash,70,663,2022-11-01,Texaco,True
+44003203,True,SIBU,95,2727,2023-12-01,image capture_Dec 2023,False
+44007904,True,Greggs,90,2727,2024-03-01,10,False
+44004161,True,Londis,95,2727,2023-06-01,bp.png,True
+44009507,True,Pace,90,921,2024-03-01,Screenshot 2024-05-08 at 14.40.19.png,True
+44005881,True,Costcutter,90,2727,2022-09-01,8.png,False
+44010128,True,Tesco,100,1953,2023-12-01,Screenshot 2024-03-09 at 14.48.34.png,False
+44006987,True,Londis,95,2727,2024-01-01,Shell Service Station,False
+44005433,True,ASDA On the Move,90,2727,2023-07-01,image capture_Jul_2023.jpg,False
+44007724,True,Tesco Extra,95,2727,2024-08-01,capture.png,False
+44001725,True,deli2go,95,2727,2024-02-01,8.png,False
+44003086,True,Londis,95,1437,2023-06-01,02 A6022,True
+44001631,True,Morrisons,95,1695,2017-07-01,image.png,False
+44009081,True,Premier,90,2469,2017-10-01,Premier.png,False
+44000486,True,Londis,95,2727,2022-04-01,Garage shop,False
+44005548,True,eshop,95,1953,2024-07-01,5.png,False
+44010917,True,SPAR,95,921,2022-04-01,Gulf.png,False
+44005002,True,Pace,90,921,2021-03-01,Screenshot 2024-04-17 at 18.23.54.png,True
+44002220,True,SPAR,95,2727,2023-02-01,480652.png,False
+44003853,True,Morrisons,100,1953,2024-11-01,morrisons petrol station shop.png,False
+44011015,True,Winterfuel Specialists,80,1437,2022-04-01,2.png,False
+44008776,True,SPAR,95,405,2010-09-01,image.png,True
+44003915,True,SPAR,95,1695,2023-01-01,bp,False
+44000865,True,Tesco Express,95,1953,2024-10-01,Screenshot 2024-02-04 at 23.56.56.png,True
+44010597,True,Shop,95,2469,2024-08-01,Kirkstead Bridge Garage,True
+44003197,True,Co-operative,90,2469,2012-04-01,349175357_6161067103956842_1281630227952543033_n.jpg,True
+44002293,True,SPAR,100,2727,2021-11-01,3,False
+44001946,True,Shell SELECT,95,2469,2023-09-01,5.png,False
+44010904,True,Cyclelife,75,1695,2022-04-01,2022-08-13_17-26-30.jpg,False
+44000222,True,M&S Simply Food,95,2727,2024-03-01,screenshot_1714287738-cropped.png,False
+44001211,True,Tesco Express,95,2727,2024-05-02,2024-05-02-15-00-53.jpg,True
+44006567,True,M&S Simply Food,95,2727,2024-04-01,image.png,False
+44009478,True,SPAR,100,2727,2021-06-01,2.A443,True
+44009682,True,ASDA,95,1437,2024-10-01,569569.png,True
+44010224,False,null,100,2727,2024-09-01,515148_2773838000.png,False
+44008269,True,Londis,95,1179,2022-10-01,Texaco Londis Ton Pentre MfG,True
+44001162,True,Montague Road Service Station,80,1179,2020-10-01,4.png,False
+44006122,True,M&S Simply Food,95,2211,2024-07-01,Screenshot 2024-07-19 at 15.19.33.png,True
+44003713,True,Tesco Express,100,2211,2024-09-01,photo_2024-05-05_16-04-51.jpg,False
+44005848,True,Jamie Oliver deli by Shell,85,1695,2023-08-01,shell.png,False
+44005838,True,Tesco Extra,100,2727,2024-01-01,Screenshot_20240501_083838.png,False
+44004907,True,Londis,95,2727,2024-06-01,Londis,False
+44005491,True,Tesco Express,100,1695,2023-11-01,Screenshot 2024-05-02 at 19.01.39.png,False
+44004930,True,Gleaner,85,2727,2023-08-01,screenshot_20240316_131534.png,False
+44001214,True,Tesco Express,100,2727,2021-04-01,10.png,False
+44008905,True,Office Choice,75,2469,2024-09,image.png,False
+44001762,True,M&S Simply Food,95,2469,2023-10-01,screenshot_1.png,True
+44003361,True,Shell Select,70,2727,2019-12-01,Screenshot 2024-04-28 at 20.01.47.png,False
+44003577,True,Greggs,95,2727,2024-07,Screenshot 2024-02-10 at 10.45.37.png,True
+44002145,True,Costa Coffee,80,1179,2024-08-01,Shell,True
+44009883,True,Londis,95,2727,2024-03-01,Screenshot 2024-06-15 at 14.44.21.png,False
+44010527,True,SPAR,90,1953,2024-03-01,7.png,False
+44005055,True,ASDA Express,95,2211,2024-04-01,Screenshot 2024-05-03 at 10.34.22.png,False
+44006002,True,Londis,95,2727,2024-07-01,8319f122-8f87-4e17-963f-891a5f28a935.png,True
+44001630,True,Spar,95,2727,2022-03-01,Texaco Elite Garages Pulborough,False
+44005620,True,Londis,95,1953,2023-03-01,Screenshot 2024-03-15 at 17.59.36.png,True
+44006619,True,Esso,90,921,2023-03-01,Screenshot 2024-05-03 at 16.11.46.png,True
+44006475,True,Unknown,50,1953,2023-07-01,Screenshot 2024-02-18 at 18.56.54.png,True
+44006199,True,Tesco Express,100,1953,2024-06-01,The food store,False
+44008125,True,SPAR,95,1695,2022-09-01,Screenshot 2024-02-26 at 18.24.21.png,True
+44003659,True,Asda,100,2727,2023-12-01,Asda Colne Superstore,False
+44007597,True,Londis,95,2727,2023-08-01,2023-08-esso.png,False
+44001195,False,null,100,405,2018-09-01,image.png,True
+44003442,True,Morrison,100,1179,2020-01-01,2.png,False
+44006653,True,Spar,95,921,2022-04-01,3425716797-0106103555-1649911031039,False
+44003781,True,Derwydd,90,1953,2022-04-01,Screenshot 2024-02-04 at 13.07.04.png,True
+44004760,True,Nisa Local,100,405,2024-10-01,image.png,True
+44005264,True,Tesco,100,1179,2024-06-01,Screenshot 2024-06-08 at 21.07.29.png,False
+44006986,True,The Good Food Shop,95,2727,2022-06-01,Screenshot 2024-05-03 at 11.48.32.png,True
+44008047,True,On the Go,80,2727,2022-02-01,Esso Westfield Lane,False
+44003045,True,Select,95,2211,2023-08-01,Screenshot 2024-05-03 at 21.29.24.png,False
+44004460,True,The co-operative food,100,405,2019-07-01,image.png,True
+44008217,True,M&S Simply Food,95,1953,2024-07-04,screenshot_1718444326.png,True
+44001553,True,Spar,70,1695,2023-06-01,11 A55.png,True
+44007777,True,Morrisons,95,1179,2023-05-01,capture.JPG,True
+44006205,True,Off Licence,80,921,2022-05-01,progress-fuels-may-2022.png,False
+44004075,True,Murco,95,1953,2019-03-01,Photo - Mar 2019,False
+44001956,True,SPAR,95,2727,2021-10-01,Gas Station,False
+44001757,True,Texaco Service Station,90,2211,2023-01-01,07.png,False
+44004297,True,Londis,95,2727,2023-04-01,Shell,True
+44005475,True,Asda,100,2727,2024-07-01,12.png,False
+44008264,True,Morrisons,100,2211,2022-11-01,7615190996-0.png,True
+44003149,True,Tesco Extra,95,2727,2024-02-01,Tesco Petrol Station,False
+44004210,True,Londis,90,1695,2021-08-01,Screenshot 2024-04-26 at 16.57.31.png,False
+44009653,True,Londis,95,921,2024-07-01,photo_1.png,True
+44003670,True,Little Waitrose & Partners,90,2727,2019-03-01,Shell,False
+44004265,True,Asda,95,921,2021-09-01,222.png,False
+44001574,True,Londis,95,2727,2024-03-01,JET,False
+44001905,True,Morrisons,95,2727,2024-03-01,10.png,False
+44001493,True,WHSmith,100,1437,2024-04-01,Screenshot 2024-05-17 at 16.55.19.png,False
+44008082,True,SPAR,95,405,2022-07-01,image.png,True
+44006075,True,Unknown,50,1437,2022-10-01,Screenshot 2024-01-08 at 19.25.45.png,True
+44010414,True,Costco,95,2727,2024-01-01,photo_2024-01-09_11-22-46.jpg,False
+44010411,True,Costco,75,2727,2024-06-01,Screenshot 2024-05-02 at 14.46.31.png,True
+44007271,True,SPAR,95,1695,2024-10-01,4,False
+44007186,True,Morrisons Daily,95,1695,2024-06-01,capture jun 2024,False
+44002839,True,Subway,90,2727,2023-08-01,Screenshot 2024-05-03 at 17.01.53.png,True
+44005072,True,Tesco,100,1437,2023-05-01,Tesco Petrol Station,True
+44003568,True,Esso Express,95,1437,2024-02-01,Screenshot 2024-05-14 at 13.15.12.png,False
+44004069,True,Londis,100,1179,2023-04-01,screenshot_1.png,True
+44002083,True,Tesco Express,95,2727,2023-11-01,Screenshot 2024-01-24 at 11.01.30.png,False
+44004642,True,ASDA,100,1437,2024-09-01,Screenshot 2024-11-04 at 18.40.59.png,False
+44004447,True,Select,90,1695,2016-09-01,Sep 2016,False
+44003372,True,Unknown,60,405,2021-10-01,image.png,True
+44007061,True,SPAR,95,1179,2023-03-01,spar.PNG,True
+44009449,True,Almonds Green Service Station,90,1695,2022-07-01,711 Almonds Grn.png,True
+44001280,True,SPAR,95,1437,2022-08-01,Screenshot 2024-02-25 at 16.57.28.png,True
+44000519,True,Londis,90,2211,2024-06-01,image.png,True
+44002847,True,Tesco Express,95,2727,2023-06-01,Hilton Riddex,False
+44000779,True,SPAR,100,405,2023-06-01,image.png,True
+44007273,True,Select,75,2727,2016-11-01,Screenshot 2024-05-13 at 14.19.11.png,False
+44002927,True,Tesco,95,921,2022-06-01,unknown,True
+44005807,True,Co-op Food,100,1179,2021-08-01,3,True
+44001562,True,Londis,100,2211,2024-06-01,Screenshot 2024-07-23 at 10.28.35.png,False
+44000943,True,Shop,90,1953,2024-11-01,4,False
+44007725,True,Tesco,100,2727,2023-08-01,Tesco Petrol Station,False
+44005745,True,NisaLocal,95,921,2024-06-01,Screenshot 2024-04-22 at 16.13.57.png,True
+44002266,True,Spar,90,2727,2020-08-01,Aug 2020,False
+44003970,True,M&S SIMPLY FOOD,95,2727,2022-08-01,16-1.png,True
+44007237,True,SPAR,95,921,2023-07-01,screenshot_1.png,True
+44002235,True,Costcutter,80,2727,2023-12-01,Screenshot 2024-05-03 at 14.48.01.png,False
+44004358,True,Morrisons,100,1437,2022-09-01,photo_1.png,True
+44000162,True,Londis,95,1695,2023-06-01,Jet Wheelways Motoring Centr,True
+44000312,True,Asda Express,100,1437,2024-07-01,Asda Ballymena Express Petro,False
+44000126,True,Londis,95,921,2023-05-01,bp,True
+44006817,True,SPAR,95,1695,2022-12-01,Shell,False
+44006198,True,Londis,95,921,2023-09-01,Screenshot 2024-04-27 at 15.21.23.png,True
+44006788,True,Londis,100,405,2024-07-01,crop_1483321879129955693.png,True
+44003640,True,Asda,90,2727,2017-12-01,9,False
+44001408,True,Tesco Express,100,1695,2024-06-01,Screenshot 2024-06-15 at 19.58.06.png,True
+44003656,True,Morrisons Daily,95,921,2024-06-01,Screenshot 2024-06-29 at 18.31.30.png,True
+44001025,True,Londis,95,2727,2024-05,Screenshot 2024-05-10 at 18.39.05.png,False
+44006423,True,Morrisons Daily,95,1695,2024-07-01,bp,False
+44001900,True,Londis,90,921,2024-06-01,Screenshot 2024-06-15 at 15.45.21.png,False
+44002071,True,Off Licence,75,1695,2023-08-01,JET,False
+44008576,True,Central,90,2727,2022-10-01,5 83181,True
+44009657,True,Shell,95,921,2024-07-01,40301 A4039,True
+44001928,True,Asda Express,100,1179,2024-03-01,Asda Mapperley Express Petrol,False
+44009813,True,Express,70,1179,2024-09,Doghill Service Station And Express ...,False
+44005275,True,SPAR,95,405,2024-04-01,image.png,True
+44009949,True,SPAR,100,921,2024-03-01,224,False
+44002170,True,Shell Select,90,2727,2024-02-01,screenshot_7.png,False
+44002450,True,Nisa,90,1695,2024-07-01,7.png,True
+44003315,True,SPAR,95,2727,2020-10-01,bp,False
+44007370,True,Select,85,1695,2016-03-01,shell.png,False
+44004033,True,Shell,95,2727,2021-08-01,Shell.jpg,True
+44002714,True,Shell,95,921,2023-06-01,Screenshot 2024-05-17 at 21.14.13.png,True
+44003225,True,Londis,95,1695,2024-07-01,Esso.png,False
+44010369,True,SPAR,95,2727,2020-12-01,9056230260.jpg,False
+44005385,True,Select,90,2469,2016-09-01,Shell,False
+44001270,True,Costcutter,100,2727,2021-03-01,457b6c93-58e5-467d-b1b1-a14c85c5ddff.jpg,False
+44004027,True,Shell,95,2727,2020-11-01,image.png,True
+44004526,True,UK,80,921,2020-05-01,29 Hammerton St,False
+44000400,True,BP,90,405,2021-10-01,image.png,True
+44008411,True,Shell,95,1437,2024-07-01,5.png,False
+44004441,True,Londis,100,921,2023-06-01,image.png,False
+44009411,True,Premier,95,921,2023-05-01,screenshot_1.png,True
+44002877,True,Londis,95,2727,2024-10-01,bp,True
+44008848,True,Texaco,90,1437,2021-09-01,5,False
+44004366,True,Tesco,100,1953,2023-08-01,Screenshot 2024-02-17 at 12.24.43.png,False
+44002497,True,Nisa,75,2211,2022-10-01,photo.png,False
+44002385,True,Greggs,90,405,2023-05-01, crops,True
+44002447,True,ASDA Express,100,1695,2024-03-01,image.png,True
+44009926,True,M&S,90,2727,2020-11-01,59921a4a-9840-4f4c-950f-1a375e892863.png,True
+44009604,True,Shell Select,95,2727,2023-09-01,Screenshot_2024-02-04_at_11.56.29.png,False
+44002111,True,Shell,95,2727,2024-02-01,07.png,False
+44004250,True,Londis,95,2211,2024-08-01,Screenshot 2024-05-02 at 11.01.32.png,True
+44003007,True,SPAR,100,405,2020-08-01,drive-download-20240428T190116Z-001/image.png,True
+44005061,True,Londis,95,1695,2016-08-01,Screenshot 2024-02-18 at 19.39.21.png,False
+44009660,True,Londis,95,1179,2024-05-01,photo,False
+44004838,True,Morrisons Daily,100,2727,2022-04-01,Screenshot 2024-02-18 at 22.00.18.png,False
+44008073,True,Tesco Extra,95,2211,2023-06-01,Wickhurst Ln,True
+44000882,True,Shop,95,2727,2024-02-01,4.png,True
+44007448,True,Nisa,100,921,2023-10-01,bp,True
+44006476,True,Landis,85,2727,2022-05-01,96 A483,True
+44005148,True,gopshop,90,1437,2024-09-01,Screenshot 2024-11-16 at 14.00.13.png,True
+44000058,True,Co-op,95,921,2023-06-01,Screenshot 2024-02-24 at 22.06.24.png,True
+44002107,True,Mace,95,2727,2022-08-01,Esso Mile End Neath,False
+44008667,True,FLARE,80,2469,2023-07-01,Stones Garage,False
+44002937,True,MACE,100,1179,2022-07-01,416099820_640_20240225051515675.jpg,True
+44005504,True,Shop Drive,90,2727,2018-11-01,Screenshot 2024-01-14 at 17.56.52.png,False
+44004354,True,Shell,80,2727,2016-11-01,Shell,False
+44009358,True,JET essentials,95,2727,2023-09-01,10,False
+44000836,True,Londis,95,2727,2023-07-01,image capture- Jul 2023,False
+44005777,True,Budgens,95,1953,2023-06-01,5.png,True
+44004910,True,Londis,100,1437,2024-10-01,texaco.png,True
+44006874,True,East of England Co-op,100,921,2021-10-01,Screenshot 2024-01-06 at 14.10.49.png,False
+44005020,True,Tesco Express,100,1953,2022-06-01,7.png,False
+44007576,True,BP connect,95,1179,2019-05-01,Screenshot 2024-05-02 at 11.28.56.png,False
+44004952,True,BP Shop,90,2727,2024-02-01,Screenshot 2024-05-03 at 09.35.52.png,False
+44006255,True,The Co-operative,100,2211,2022-07-01,Central Co-op Food & Petrol - Notting... ,False
+44001561,True,SPAR,95,2211,2021-09-01,Maxol Service Station Fortwilliam,False
+44007323,True,Murco,90,1437,2022-06-01,5.png,False
+44004330,True,SPAR,95,1695,2023-06-01,image.png,True
+44004863,True,Morrisons,100,1437,2022-08-01,5543508316-1.png,True
+44008647,True,ONE2SHOP,95,1953,2022-08-01,screenshot_6.png,False
+44007377,True,deli2go,95,2469,2024-11-01,google,False
+44000898,True,Londis,95,1179,2023-02-01,photo_1.png,False
+44007242,True,On the Run,95,2727,2017-06-01,Esso,False
+44010546,True,Spar,90,1437,2022-02-01,4.png,False
+44009638,True,Londis,90,1179,2021-06-01,3.png,False
+44004948,True,WHSmith,95,2727,2024-05-01,Hilton Park Serv Southbound bp shop,False
+44009884,True,Bell Corner Service Station,95,1179,2024-07-01,Screenshot 2024-05-01 at 13.46.56.png,True
+44008451,True,Shell,95,1695,2024-11-01,54 Searby Rd,True
+44005329,True,M&S Simply Food,95,2727,2023-10-01,bp,True
+44005675,True,Tesco,85,1179,2024-04-01,4,True
+44002748,True,SPAR,100,1179,2024-04-01,Apr 2024,False
+44004264,True,Tesco,95,921,2024-04-01,image capture_apr 2024.jpg,True
+44000468,True,Costa Coffee,80,2727,2022-01-01,10.png,False
+44009006,True,Gulf,95,1437,2023-12-01,asset_0.png,False
+44010524,True,Nisa Local,100,1179,2022-09-01,9281d78e-ff35-4378-a2b2-0334f561d191.png,True
+44001282,True,Budgens,95,2469,2024-06-01,329 Brighton Rd,True
+44005833,True,Shell Select,95,2727,2024-04-01,April2024StreetView.png,True
+44007742,True,deli2go,90,2727,2017-09-01,Screenshot 2024-01-18 at 16.01.00.png,False
+44007241,True,Morrisons Daily,100,921,2023-06-01,Screenshot 2024-05-04 at 20.48.10.png,True
+44004819,True,Morrisons,95,2727,2023-07-01,Yummy.,False
+44006147,True,Unknown,50,921,2021-06-01,Google Street View,True
+44006963,True,Select,95,2727,2022-06-01,7.png,True
+44010005,True,Tesco,100,921,2024-09,2.png,True
+44005438,True,Spar,100,1695,2023-09-01,Oasis Services Ltd T/is Spar,False
+44000969,True,Texaco,90,405,2024-07-01,image.png,True
+44007693,True,Premier Express,95,2727,2023-12-01,TotalEnergiesPremier.PNG,False
+44001404,True,Londis,95,2727,2024-03-01,Screenshot_20240707_202532_Google.jpg,False
+44010919,True,George,90,2211,2023-03-01,image capture: Mar 2023,True
+44009744,True,SPAR,95,2727,2022-02-01,bp,False
+44010193,True,Asda,100,2727,2021-11-01,Asda Llanelli Murray Street Sup...,True
+44007418,True,SPAR,95,2727,2024-05-01,Shell,True
+44010038,True,Tesco,100,1953,2023-09-01,Screenshot 2024-02-22 at 19.42.25.png,False
+44001686,True,EUROSPAR,100,2727,Dec 2022,EUROSPAR Shankill,False
+44007800,True,Tesco,100,921,2021-07-01,Tesco Petrol Station,False
+44008895,True,SPAR,100,1437,2024-03-01,Screenshot 2024-04-04 at 18.08.31.png,False
+44006536,True,Murco,70,921,2024-07-01,Screenshot 2024-05-02 at 20.30.13.png,True
+44005332,True,M&S Simply Food,95,2727,2022-08-01,62 A24,True
+44009809,True,Lakes & Dales Co-operative,95,921,2022-04-01,Screenshot 2024-05-03 at 20.48.12.png,False
+44000386,True,ASDA,95,1179,2024-01-01,Esso,False
+44005262,True,Spar,90,2211,2014-08-01,457b6813-986f-4391-ba6a-e5a618062433.png,False
+44000823,True,Premier,90,1695,2024-07-01,Screenshot 2024-02-18 at 18.26.07.png,True
+44000568,True,Londis,95,2727,Aug 2023,Esso,False
+44001875,True,Londis,95,2727,2021-08-01,bp,False
+44006559,True,little Waitrose,95,2211,2024-03-01,8.png,False
+44010942,True,ASDA On the Move,95,2727,2023-03-01,8d886976-28aa-44b2-af66-850557d152e7.png,False
+44002574,True,Tesco,100,1179,2023-09-01,4.png,True
+44004549,True,Londis,95,1695,2024-05-01,screenshot_1.png,True
+44000206,True,Frances St Service Station,95,2727,2021-07-01,6983847c-d7d3-4964-af1e-5bb0581ff537.png,False
+44000567,True,Tesco Express,95,2727,2022-09-01,image.png,True
+44001110,True,ASDA Express,100,663,2024-08-01,image,True
+44004643,True,Co-op,95,921,2024-06-01,Screenshot 2024-07-26 at 11.28.41.png,True
+44002430,True,Londis,95,2727,2024-06-01,Shell,True
+44004497,True,Londis,100,1695,2023-04-01,Screenshot 2024-05-04 at 18.53.24.png,True
+44001808,True,Londis,90,2727,2022-06-01,Shell,False
+44008156,True,Esso,90,405,2024-07-01,image.png,True
+44007708,True,M&S SIMPLY FOOD,95,2727,2023-09-01,photo_6.png,False
+44002553,True,Tesco Extra,95,2469,2023-09-01,Screenshot 2024-02-04 at 19.12.44.png,False
+44010624,True,Sargeants of Goudhurst,95,1179,2023-05-01,screenshot_4.png,True
+44001463,True,ASDA On the Move,95,2727,2024-04-01,10.png,False
+44005999,True,Tesco,100,1437,2024-07-01,Screenshot 2024-05-12 at 21.52.11.png,True
+44002606,True,Unknown,60,405,2022-12-01,image.png,True
+44009701,True,Asda,100,2727,2022-09-01,97c1a237-59a2-4440-90f3-77f6d3556a12.png,True
+44009812,True,ablewell convenience store,90,2727,2024-06,esso ablewell,False
+44000725,True,Londis,95,2727,2023-06-01,Esso Middleton Statio,False
+44004927,True,bp,90,405,2022-09-01,61275454-2211-4769-9259-064d8415e581.jpg,True
+44009823,True,FAMILY SHOP,95,1953,2022-05-01,79 A941,True
+44010543,True,Baxter Garscubehill Service Station,70,405,2023-03-01,image.png,True
+44001689,True,The Cedar OFF LICENCE,95,2727,2016-12-01,167856987690693.png,False
+44007748,True,Asda,95,1953,2022-05-01,7,False
+44000710,True,Shell Select,95,2727,2024-03-01,photo.png,False
+44004544,True,NISA,75,1695,2023-07-01,1688846031838.jpg,True
+44001062,True,SPAR,80,663,2023-07-01,Screenshot_2.png,True
+44004208,True,SPAR,95,2727,2021-09-01,bp,False
+44009443,True,Londis,95,921,2024-07-01,screenshot_2.png,True
+44002923,True,Spar,95,1179,2023-07-01,2.png,False
+44007048,True,M&S Simply Food,95,2727,2023-07-01,Screenshot 2024-02-24 at 20.25.26.png,False
+44010879,True,Rix,90,2727,2023-09-01,12-04-24_17-15-52.jpg,True
+44002044,True,Tesco Express,100,2727,2022-06-01,812a1c21-94a9-4e07-9a66-d1a01f125349.png,False
+44007608,True,Select,95,2469,2023-06-01,Shell,False
+44010412,True,Costco Wholesale,95,2727,2024-10-01,Costco Fuel Station,False
+44004651,True,Shell,95,1953,2024-11-01,399 Birmingham Rd,False
+44010381,False,N/A,10,405,2023-07-01,image.png,True
+44007973,True,Spar,95,921,2021-03-01,screenshot_1.png,True
+44001616,True,ASDA Express,95,2727,2024-02-01,31494d22-efba-4574-968a-0093321c5191.png,True
+44004908,True,Select & Save,95,2211,2024-08-01,Screenshot 2024-05-02 at 23.36.48.png,False
+44000786,True,Londis,90,405,2023-10-01,image.png,True
+44007065,True,Loydis,90,2727,2021-02-01,Shell,False
+44003952,True,Mace,95,921,2022-05-01,Screenshot 2024-01-23 at 11.48.25.png,True
+44003736,True,McCash,90,2211,2023-05-01,A977,True
+44005449,True,M&S FOOD,100,1953,2023-10-01,image,False
+44007131,True,Morrisons Daily,100,2727,2023-10-01,Screenshot 2024-01-19 at 20.18.32.png,False
+44006465,True,Tesco,100,1695,2021-12-01,screenshot_2.png,True
+44007820,True,Costcutter,100,1695,2024-07-01,Shell,True
+44002858,True,Londis,95,2727,2024-06-01,Screenshot 2024-06-20 at 13.17.01.png,True
+44002434,True,SPAR,95,1695,2024-03-01,bp,False
+44000157,True,Premier,95,1953,2020-09-01,Screenshot 2024-04-04 at 19.53.51.png,False
+44008433,True,Cooleys,95,405,2019-04-01,image.png,True
+44003256,True,ASDA,100,2727,2022-09-01,screenshot_2023-11-05_20-04-14.png,False
+44006118,True,M&S,95,1695,2023-05-01,bp,False
+44003866,True,Londis,95,1695,2022-10-01,620e1653-05af-4081-9c10-83741130495f.png,False
+44008247,True,Budgens,95,1437,2020-10-01,Screenshot 2024-01-14 at 13.34.11.png,False
+44000412,True,Costcutter,95,921,2023-03-01,Texaco,True
+44002871,True,Nisa,70,1179,2020-12-01,JET.jpg,False
+44004014,True,deli2go,90,2727,2016-08-01,shell_photo_0.png,False
+44010214,True,ASDA,95,2469,2023-01-01,1-full.png,False
+44001202,True,M&S Simply Food,95,2727,2021-02-01,image_capture_Feb 2021,True
+44009425,True,Thames,95,2727,2023-04-01,Screenshot 2024-02-03 at 12.43.06.png,True
+44002731,True,SPAR,95,2469,2024-08-01,bp,True
+44001208,True,Tesco Express,100,2727,2023-05-01,Jackson jose,False
+44003373,True,go local,95,921,2018-05-01,317 BR02,True
+44009562,True,Eurospar,95,2727,2022-12-01,bp,False
+44010174,True,Aysgarth Garage Country Store,90,2727,2023-09-01,7.png,False
+44000828,True,Morrisons,100,663,2023-11-01,Screenshot 2024-05-07 at 14.55.22.png,False
+44001547,True,SELECT,95,2727,2016-11-01,10.png,False
+44005758,True,SPAR,80,405,2012-08-01,image.png,True
+44002760,True,deli2go,95,1953,2024-11-01,Screenshot 2024-02-14 at 18.53.17.png,False
+44004334,True,General Store,95,1695,2023-10-01,23-07-24 01_30_16.jpg,False
+44000456,True,Arleen Coach Hire,95,405,2024-10-01,image.png,True
+44008972,True,Unknown,80,921,2016-06-01,image.png,True
+44003560,True,Premier,80,2727,2020-09-01,bp,True
+44008145,True,Shell,90,1695,2024-11-01,Screenshot 2024-02-16 at 20.35.24.png,False
+44001564,True,Londis,95,2727,2024-05-01,10,True
+44001540,True,ASDA Express,95,2211,2024-10-01,Screenshot 2024-04-20 at 20.23.36.png,True
+44005058,True,Morrisons,100,1695,2024-08-01,Screenshot 2024-11-17 at 17.13.50.png,True
+44004654,True,Asda,90,405,2022-04-01,image.png,True
+44004693,True,Esso,90,921,2022-08-01,Screenshot 2024-05-15 at 21.55.33.png,False
+44009114,True,Dunmow Convenience Store,95,405,2023-05-01,08074082-e015-422e-98a8-174248729b77.jpg,True
+44004053,True,Londis,95,2211,2024-09-01,screenshot_3.png,True
+44006387,True,Londis,100,1179,2023-07-01,image.png,False
+44003387,True,Budgens,95,1695,2024-10-01,screenshot_3.png,False
+44008960,True,Bailrigg Service Station,90,2727,2017-02-01,11.png,False
+44006577,True,SPAR,95,1953,2024-08-01,6.png,True
+44005961,True,Tesco Extra,95,1179,2018-09-01,image.png,False
+44005065,True,Esso,90,405,2023-07-01,4 Chapel St.png,True
+44005652,True,Phillips Tyres,90,405,2023-09-01,1427208881-81a127d24b.jpg,True
+44007910,True,Londis,100,405,2024-08-01,72.85404.jpg,True
+44008717,True,Costcutter,100,405,2023-09-01,604 Lords Wood Ln.png,True
+44010979,True,Centra,95,2211,2024-06-01,Screenshot 2024-06-08 at 10.41.45.png,False
+44004601,True,Londis,100,1179,2024-06-01,3.png,True
+44000833,True,Londis,90,2469,2023-09-01,Screenshot 2024-01-03 at 17.32.36.png,False
+44003923,True,Murco,90,405,2023-04-01,7112245d-f447-4017-ac09-0a4e6d1486aa.jpg,True
+44008691,True,Eurospar,95,2727,2023-10-01,bp,False
+44009696,True,Asda,90,2727,2021-05-01,Asda Oldbury Petrol Station,False
+44000656,True,excel&co,80,1695,2019-02-01,Texaco Deptford,False
+44010568,True,Unbranded,70,405,2024-07-01,image.png,True
+44010047,True,Tesco,95,2727,2023-02-01,Tesco Petrol Station,False
+44002539,True,Premier,95,2469,2024-06-01,Screenshot 2024-06-25 at 18.10.24.png,False
+44004937,True,Shell,95,2727,2022-02-01,Shell,True
+44000326,True,Shell,100,2727,2023-06-01,image.png,False
+44006652,True,Costcutter,95,2727,2018-07-01,bp.png,False
+44000853,True,Spar,95,663,2020-10-01,202 Greenway Rd,True
+44008997,True,Keystore,95,2727,2024-10-01,Screenshot 2024-02-29 at 14.34.10.png,False
+44003794,True,Tesco Extra,100,1179,2024-06-01,image.png,True
+44006195,True,ASDA,90,2727,2024-06-01,Screenshot 2024-07-20 at 18.32.55.png,True
+44004036,True,Morrisons Daily,95,2469,2024-08-01,googleusercontent.com,True
+44005334,True,Londis,95,2727,2024-04-01,Esso Fuel,True
+44002793,True,Żabka,100,405,2024-01-01,7977419898_e7a94d3860_o.jpg,False
+44008823,False,null,100,405,2011-08-01,image.png,True
+44003777,False,Unknown,30,921,2024-11-01,Shell,False
+44010768,True,Spar,80,1437,2024-08-01,TSS - Tolladine Service Station,True
+44006112,True,Nisa Local,95,2727,2023-03-01,bp,False
+44010604,True,Costcutter,95,921,2023-06-01,screenshot_50.png,True
+44004959,True,Morrisons,100,1179,2023-06-01,Screenshot 2024-07-15 at 15.54.00.png,True
+44002875,True,M&S Food,95,1179,2024-07-01,image capture: Jul 2024,True
+44006323,True,Tesco Express,100,1695,2022-03-01,capture,False
+44003219,True,ASDA,100,2727,2021-08-01,6.png,False
+44010064,True,Spar,70,921,2024-05-01,Sandgate Service Station,True
+44005067,True,Morrisons Daily,95,2727,2024-02-01,04.png,False
+44001676,True,Select,95,2727,2024-04-01,10,False
+44003975,True,Londis,100,2469,2022-04-01,Screenshot 2024-05-02 at 17.07.33.png,True
+44008465,True,Asda,90,405,2018-08-01,Asda Petrol.png,True
+44001578,True,Tesco Express,100,1695,2024-05-01,google.png,True
+44004731,True,Greggs,95,2727,2024-02-01,1708876663856.png,False
+44003766,True,SPAR,95,1695,2024-05-01,Shell,True
+44009952,True,Nisa Local,100,405,2023-06-01,102 862.png,True
+44001658,True,SPAR,95,1437,2023-09-01,502 A607,True
+44009871,True,Morrisons Daily,100,2727,2022-07-01,photo_6.png,False
+44009607,True,Londis,95,2211,2024-01-01,Screenshot 2024-05-09 at 21.46.45.png,False
+44004471,True,Budgens,95,2727,2024-04-01,Shell,True
+44002602,True,SPAR,95,2727,2022-07-01,Esso,True
+44001247,True,SPAR,95,2727,2022-04-01,image capture_Apr 2022,True
+44003657,True,SPAR,90,1437,2023-06-01,Esso,False
+44001709,True,Waitrose & Partners,95,2727,2024-01,Shell,False
+44006885,True,Unknown,50,2727,2024-07-01,7c032b50-ed72-4f2f-b9d4-6474464d51f9.png,False
+44003046,True,BP Express,95,1695,2024-08-01,Screenshot 2024-02-20 at 15.35.00.png,True
+44008758,True,SPAR,100,1437,2022-05-01,spar.PNG,False
+44009261,True,Shop Local,100,2727,2024-08-01,2024-Aug-StreetView.png,True
+44005532,True,shop,95,1179,2019-07-01,image.png,False
+44007248,True,Turriff Service Station Shop,95,405,2023-03-01,original.png,True
+44001347,True,Budgens,80,1437,2023-03-01,Screenshot 2024-05-03 at 13.42.22.png,True
+44001588,True,SPAR,95,1437,2022-09-01,image.png,False
+44006973,True,Londis,95,1953,2024-03-01,JET,False
+44000482,True,SPAR,95,2727,2023-07-01,Screenshot 2024-01-18 at 21.04.00.png,False
+44001462,True,M&S Simply Food,95,2727,2024-01-01,11.png,False
+44004057,True,Tesco Express,100,1437,2022-01-01,Tesco Express,False
+44002081,True,park&shop,95,2727,2023-10-01,74375187333_.pic_hd.jpg,False
+44010129,True,Londis,90,1179,2023-03-01,Screenshot 2024-05-01 at 15.57.53.png,True
+44002024,True,Londis,95,2211,2020-09-01,Shell,False
+44003174,True,Lovells Petrol,80,921,2023-06-01,3.png,False
+44005208,True,M&S Food,95,2469,2024-08-01,Screenshot 2024-08-18 at 11.57.16.png,True
+44009342,True,Shop,90,405,2023-05-01,0000.jpg,True
+44009585,True,Shell Select,95,2727,2022-06-01,shell-6.png,False
+44002710,True,Greggs,95,2727,2024-07-01,9.png,False
+44007217,True,Tesco Express,95,2211,2022-04-01,8,False
+44000002,True,Spar,80,1437,2019-08-01,photo_2019-08.png,False
+44006312,True,Nisa,95,2727,2022-07-01,Texaco Westcross Service Station,True
+44001092,True,Old Cross Mot Station,95,2469,2022-11-01,image.png,True
+44005470,True,SPAR,95,2727,2023-11-01,Screenshot 2024-01-18 at 23.07.33.png,False
+44000320,True,Spar,90,921,2024-06-01,image.png,True
+44006464,True,Morrisons,95,921,2018-06-01,Screenshot 2024-04-18 at 21.32.31.png,True
+44009749,True,Budgens,90,921,2024-10-01,Screenshot 2024-02-27 at 11.23.07.png,True
+44006913,True,Spar,95,921,2022-07-01,Screenshot 2024-05-06 at 20.11.30.png,True
+44000234,True,Budgens,95,1437,2024-06-01,bp,False
+44006991,True,Costcutter,95,1695,2023-01-01,6-full.png,False
+44003271,True,M&S SIMPLY FOOD,95,1179,2021-08-01,Aug 2021,False
+44004799,True,Londis,95,1437,2022-11-01,"Hind St, Ottery St Mary, England",True
+44002750,True,Spar,90,2727,2020-03-01,13.png,False
+44002746,True,Londis,95,2727,2023-07-01,Esso,False
+44001119,True,Shell shop,95,2727,2024-09-01,Screenshot_20240502-071329.png,True
+44005051,True,SPAR,95,1953,2023-03-01,photo_1678020166767_0.png,True
+44004951,True,Spar,95,1695,2022-03-01,bp.png,False
+44001593,True,Budgens,85,2211,2024-07-01,Screenshot 2024-07-06 at 14.20.02.png,True
+44006662,True,Tesco,100,1953,2023-09-01,Screenshot 2024-02-10 at 12.34.50.png,True
+44010090,False,Unknown,10,2727,2023-09-01,Screenshot 2024-02-03 at 16.36.53.png,True
+44000098,True,Shell,70,921,2024-11-01,image.png,False
+44008355,True,Applegreen,95,2727,2024-11-01,Photo - Nov 2024,False
+44004422,True,Tesco Extra,95,1179,2021-07-01,Tesco Petrol Station,True
+44008467,True,ASDA,95,405,2023-03-01,image.png,True
+44007980,True,Londis,95,2469,2023-03-01,Screenshot 2024-02-26 at 11.23.18.png,True
+44004186,True,Londis,95,2727,2023-10-01,Esso,False
+44008774,True,Select & Save,75,2727,2024-05-01,Screenshot 2024-05-10 at 15.58.56.png,False
+44010055,True,Spar,75,1953,2023-09-01,Texaco,False
+44006998,True,Premier,95,2727,2021-03-01,Robinson & Young Premier Texaco,False
+44001024,True,ASDA Express,95,1953,2024-01-01,image.png,False
+44009800,True,SPAR,95,921,2022-04-01,293515704-5325-497f-9026-f155cf858a89.png,False
+44000762,True,Russells,95,2211,2024-05-01,Screenshot 2024-05-18 at 12.00.55.png,False
+44006532,True,Londis,90,1179,2023-04-01,2.png,False
+44009400,True,Premier,95,405,2021-07-01,Wickhambrook Stores.png,True
+44001818,True,Shell,80,1695,2022-09-01,Shell,True
+44003261,True,ASDA,100,2727,2023-01-01,Asda Woodville Burton Road Petrol Filling Station,False
+44002909,True,Costcutter,95,2727,2024-09-01,10.png,False
+44003717,True,Nisa,70,921,2022-06-01,photo_3.png,False
+44010160,True,Londis,95,1695,2024-04-01,1620650832-0_the_kay_group_gateway_crewe.jpg,False
+44005111,True,ULTRA,80,921,2023-07-01,photo2.png,True
+44009615,True,Londis,95,2469,2023-07-01,Screenshot 2024-05-06 at 16.25.43.png,True
+44004194,True,SPAR,100,2469,2024-08-01,Screenshot 2024-05-16 at 16.33.48.png,False
+44003445,True,SPAR,95,2727,2023-09-01,Screenshot 2024-01-12 at 10.13.26.png,False
+44007422,True,Morrisons Daily,100,2469,2024-09-01,MORRISONS DAILY LEEDS BRAMLEY,False
+44006844,True,ASDA Express,95,2727,2024-06-01,8d6e5819-3748-4c43-bd61-752df59d372f.png,False
+44005812,True,SELECT,95,2727,2024-11-01,1578361197-0761f6e572.png,False
+44005035,True,ASDA,95,2727,2023-09-01,Screenshot 2024-01-19 at 12.27.42.png,False
+44002273,True,M&S Simply Food,95,2727,2024-05-01,bp,False
+44005011,True,SPAR,95,1695,2023-07-01,Shell,True
+44002836,True,Asda On the Move,95,2727,2024-05-01,412 Kenton Ln.png,True
+44009661,True,Shell,95,2727,2024-11-01,3.png,False
+44008215,True,Morrisons,100,1695,2023-11-01,Screenshot 2024-01-16 at 21.46.08.png,False
+44001460,True,Unipart,80,2727,2023-02-01,8,False
+44010636,False,N/A,90,921,2023-04-01,image.png,True
+44000678,True,Londis,95,1179,2024-08-01,2024-08-20 Google Street View Image,True
+44000911,True,Anson Services,80,1179,2019-12-01,444297573-0892-4645-b3c5-d6d7956c88a1.png,False
+44008559,True,Well House Garage,80,405,2024-04-01,image.png,True
+44010780,True,Burnbrae Garage,80,2727,2024-03-01,Screenshot 2024-05-09 at 20.30.09.png,False
+44001358,True,best-one,90,2727,2021-06-01,Killay Texaco service,False
+44001966,True,Greggs,95,921,2023-06-01,Screenshot 2024-01-05 at 10.49.06.png,True
+44010010,True,Tesco,95,2727,2024-07-01,Dai,False
+44003284,True,Londis,90,2727,2023-03-01,ESSO MFG Butts Road,True
+44001897,True,Tesco Express,95,1953,2024-05-01,68 A414,True
+44008849,True,park&shop,95,1695,2024-07-01,260 A215,True
+44002652,True,Morrisons,95,2727,2022-11-01,1625176185805.jpg,True
+44000990,True,Waitrose,95,2727,2024-04-01,Shell,False
+44011024,False,,100,2469,2023-09-01,Screenshot 2024-01-19 at 15.55.07.png,True
+44002463,True,M&S Simply Food,95,2727,2024-06-01,bp,False
+44000459,True,Londis,95,2727,2023-07-01,Screenshot 2024-05-09 at 12.46.23.png,False
+44003984,True,Shell,95,2727,2020-10-01,shell-8.png,True
+44003217,True,Londis,95,1179,2023-06-01,Texaco Perranporth Services,True
+44008431,True,EUROSPAR,95,2211,2020-01-01,2.png,False
+44007829,False,N/A,10,405,2022-06-01,0602.png,True
+44000369,True,M&S Simply Food,90,2727,2020-10-01,Screenshot 2024-04-14 at 19.29.26.png,True
+44000726,True,Shell,90,663,2024-11-01,Shell,False
+44009974,True,Tesco,100,1437,2023-07-01,Screenshot 2024-01-21 at 18.32.01.png,True
+44006189,True,Murco,95,1695,2024-07-01,11 A487,True
+44008518,False,N/A,90,2727,2023-03-01,google_street_view.png,True
+44005153,True,Spar,95,2727,2021-12-01,Screenshot 2024-05-16 at 21.22.11.png,False
+44001697,True,Londis,95,2727,2023-11-01,8-full.png,False
+44007817,True,Londis,95,2727,2024-07-01,capture.jpg,False
+44010141,True,Applegreen,70,405,2023-04-01,0001.png,False
+44003985,True,Shop N Save,90,2727,2020-03-01,bp,False
+44011022,True,Circle K,95,2727,2023-08-01,Screenshot_20240229_152440_Chrome.jpg,False
+44005050,True,Premier,95,921,2022-09-01,2.png,True
+44000668,True,American,90,2727,2024-08-01,7.png,False
+44000692,True,Shell Select,95,2727,2018-04-01,Shell,False
+44000581,True,Londis,95,1437,2022-08-01,Esso,False
+44006236,True,SPAR,100,1695,2022-06-01,Screenshot 2024-05-04 at 18.35.17.png,False
+44000361,True,Texaco Shop,90,921,2024-06-01,Screenshot 2024-06-20 at 18.12.36.png,True
+44010721,True,Carbost Community Shop,95,2727,2024-05-01,Screenshot 2024-05-16 at 10.54.01.png,False
+44004800,True,Night Pay,90,2727,2024-10-01,2024-05-06_16-33-33.jpg,False
+44000226,True,Tesco Express,100,2727,2023-10-01,189119080-88962956-2796-4562-8076-6b72c3432b72.png,False
+44004660,True,Spar,90,1437,2024-03-01,2nd photo,True
+44002431,True,Londis,100,2727,2022-09,screenshot_20230929_092131.png,False
+44010322,True,ASDA,100,2727,2024-04-01,1.png,False
+44005621,True,Shay,90,2727,2023-06-01,Shay Service Station,False
+44000939,True,Spar,90,1179,2022-04-01,spar.png,False
+44010323,True,A5,80,2727,2016-04-01,Screenshot 2024-04-28 at 18.02.39.png,False
+44001380,True,Co-op,95,2727,2024-10-01,Screenshot 2024-11-17 at 14.29.51.png,False
+44006005,True,Londis,95,1953,2022-03-01,Screenshot 2024-05-09 at 20.35.23.png,True
+44004171,True,M&S Simply Food,95,2727,2021-03-01,29 Finchley Ln,True
+44006837,True,Select,95,2727,2024-11-01,Shell,False
+44002117,True,Malcolm Waite Ltd,80,2727,2023-04-01,image capture_Apr 2023,True
+44000329,True,Mace,95,1179,2013-05-01,Screenshot 2024-05-05 at 18.41.25.png,False
+44009963,True,Spar,100,1179,2022-09-01,2024-05-02_11-40-09.png,True
+44002490,True,Premier Wholesaler,80,405,2023-06-01,image.png,True
+44005677,True,ASDA,100,921,2016-08-01,google_maps_photo.png,False
+44007382,True,Premier,95,921,2024-06-01,Screenshot 2024-06-21 at 11.25.19.png,True
+44004188,True,Londis,100,1437,2024-03-01,JET,False
+44010324,True,Riverside,75,2727,2023-06-01,Riverside Service Station,True
+44003391,True,Luton Service Station,90,2727,2024-08-01,Screenshot 2024-10-26 at 17.23.26.png,False
+44003860,True,Londis,95,405,2021-11-01,image.png,True
+44005477,True,SPAR,95,1953,2019-02-01,2.png,False
+44001577,True,Tesco,80,1179,2024-05-01,96 A3022,True
+44003040,True,Tesco,95,2469,2022-03-01,Screenshot 2024-05-16 at 16.21.02.png,False
+44008427,True,Greggs,95,2727,2023-10-01,Applegreen Biggleswade,False
+44005284,True,Co-op,95,2211,2024-01-01,4,False
+44005279,True,Bradleys,95,2727,2024-05-01,Screenshot 2024-05-15 at 12.54.35.png,True
+44007840,True,Spar,95,2469,2024-08-01,7242056604747362090_0_1669110727861,False
+44003710,True,Tesco Extra,100,1437,2023-08-01,392418225-6f7c106d51.jpg,True
+44004915,True,Nisa,85,1695,2024-02-01,5.png,False
+44006026,True,Londis,95,2727,2023-05-01,Screenshot 2024-01-29 at 15.18.47.png,False
+44005368,True,MURCO,70,405,2022-09-01,google_street_view.png,True
+44009857,True,Morrisons,100,2727,2024-10-01,"Wells, England",True
+44006957,True,Supreme Food & Wine,90,1953,2021-01-01,3.png,True
+44008630,True,Bryn Glas Garage,70,405,2021-12-01,image.png,True
+44007116,True,SPAR,95,2211,2021-10-01,Shell,False
+44009993,True,Tesco,100,1179,2022-07-01,petrol station.png,True
+44009106,True,Londis,95,921,2024-06-01,Total Energies Newton Hill Garage,True
+44001130,True,SPAR,95,2727,2021-06-01,7.png,True
+44005246,True,Tesco,95,921,2022-08-01,photo_2.png,True
+44001043,True,Select,95,1953,2016-08-01,Shell,False
+44010313,True,Nisa Local,95,2727,2022-08-01,Nisa Local & Fuel Station,False
+44007567,True,Londis,100,1179,2024-06-01,screenshot_1.png,True
+44006275,True,Shop,90,405,2023-05-01,image.png,True
+44009103,True,Spar,95,1179,2023-09-01,Screenshot 2024-01-23 at 16.57.53.png,True
+44005750,True,Spar,95,1953,2023-08-01,Screenshot 2024-01-05 at 21.22.37.png,True
+44006303,True,Asda,100,2727,2022-10-01,02.png,False
+44000284,True,Tesco Express,95,2727,2024-01-01,Screenshot 2024-02-29 at 15.39.10.png,False
+44001484,True,Spar,100,1953,2023-07-01,82 A2.png,True
+44004896,True,Halifax,50,405,2024-06-01,image.png,True
+44009630,True,Spar,95,405,2023-05-01,image.png,True
+44002769,True,Morrisons Daily,95,2727,2023-07-01,Screenshot 2024-01-16 at 14.09.43.png,False
+44004227,True,Tesco Express,95,1953,2021-06-01,image capture_Jul 2021,False
+44009574,True,budgens,90,2727,2024-06-01,Shell Southside Service Station,False
+44006343,True,SPAR,95,405,2023-03-01,image.png,True
+44005417,True,Research Garage Group Ltd,90,1437,2022-10-01,Screenshot 2024-01-04 at 17.20.40.png,False
+44008153,True,SPAR,95,1953,2022-04-01,8.png,False
+44005159,True,Londis,95,1953,2023-10-01,Texaco,False
+44006130,False,N/A,90,2727,2023-05-01,null,False
+44002336,True,Londis,100,921,2017-07-01,image.png,False
+44001489,True,Shell,95,1953,2024-11,screenshot_1.png,False
+44005175,True,Jet,80,405,2023-06-01,image.png,True
+44000923,True,Applegreen,95,663,2023-12-01,Screenshot 2024-02-10 at 17.44.22.png,False
+44008246,True,Post Office,95,2469,2024-09-01,8.png,False
+44006970,True,Londis,95,1437,2023-05-01,Screenshot 2024-01-05 at 22.57.48.png,True
+44000689,True,Tesco Express,95,2469,2024-06-01,Screenshot 2024-05-10 at 20.02.11.png,False
+44010698,False,null,90,921,2023-09-01,Screenshot 2024-04-08 at 17.29.26.png,True
+44009035,True,KMC,80,921,2023-06-01,Screenshot 2024-01-17 at 10.19.38.png,True
+44003472,True,Londis,85,2211,2022-08-01,bp,False
+44004088,True,SPAR,95,2727,2024-09-01,images.png,False
+44001381,True,Tesco,90,405,2023-08-01,street_scene.png,True
+44008223,True,Tesco Express,95,1179,2023-05,Screenshot 2024-05-02 at 12.27.47.png,True
+44006131,True,Tesco Extra,95,2211,2018-02-01,Screenshot 2024-01-16 at 20.15.17.png,False
+44001544,True,Spar,95,2727,2024-03-01,8.jpg,False
+44006614,True,Hursts,95,1437,2019-11-01,3.png,False
+44005040,True,Tesco Extra,95,2727,2024-08-01,e2423966-d989-4861-8487-b78e91000a1f.png,False
+44000435,True,Londis,90,1695,2024-04-01,jet station.png,False
+44006602,True,Tesco Extra,95,2211,2019-09-01,image.png,False
+44003244,True,Asda Express,100,921,2024-05-01,1626279-07810c47483838e7.png,False
+44009959,True,Costcutter,90,2727,2022-11-01,image capture Nov 2022,True
+44008811,True,SUTHERLANDS-LAND-AND-SUPPLIES,95,921,2022-06-01,Screenshot 2024-02-26 at 16.18.18.png,True
+44004038,True,Shell Select,95,2469,2023-04-01,Shell,False
+44010731,False,null,10,405,2022-07-01,4250982a-2a65-4208-8409-a636128b9014.jpg,True
+44006245,True,ROYS of Wroxham,95,921,2024-03-01,JET,False
+44007890,True,SPAR,95,2727,2024-10-01,A5183,True
+44002141,True,Synergy,95,1695,2024-01-01,3.png,False
+44008483,True,ASDA,100,1695,2024-09-01,6.png,False
+44006548,True,Morrisons,100,2727,2024-03-01,6th photo,False
+44003856,True,M&S Simply Food,100,1695,2024-08-01,BP store with M&S,True
+44002712,True,Gulf,90,2727,2024-08-01,Barbrook Filling Station,True
+44007189,True,Lifestyle Express,95,1953,2024-07-01,5 A449,True
+44008778,True,Spar,95,1437,2019-06-01,Spar M,False
+44006815,True,Castle,95,1953,2024-07-01,989149b3-428f-4a3b-8342-7b4d5c68c31b.png,True
+44004694,True,Spar,80,1179,2023-05-01,A942.png,True
+44009189,True,Premier,100,1179,2024-08-01,August 2024,True
+44003221,True,Tesco,95,1953,2023-11-01,e6cf9b69-ffb4-407b-b448-eb4490d2427d.png,False
+44007573,True,Bridgend Filling Station,100,1953,2022-09-01,7.png,False
+44003036,True,Murco,95,1179,2023-08-01,3-full.png,True
+44006580,True,Spar,85,1953,2024-08-01,Screenshot 2024-05-02 at 11.09.02.png,True
+44003001,True,Asda,100,2727,2022-08-01,20220829_223905.jpg,False
+44005884,True,ASDA Express,95,2727,2024-10-01,Texaco,False
+44000056,True,ASDA,95,405,2024-06-01,original.png,True
+44007864,True,SPAR,95,2727,2024-01-01,Shell,False
+44003201,True,Tesco Extra,100,2469,2020-11-01,Screenshot 2024-01-21 at 23.42.17.png,True
+44006441,False,null,100,2727,2021-10-01,...,True
+44003861,True,Tesco,100,1179,2023-03-01,Screenshot 2024-11-19 at 12.57.09.png,True
+44010518,True,nearby,95,1437,2023-07-01,Screenshot 2024-01-19 at 10.53.35.png,True
+44000186,True,Tesco Express,100,2727,2023-08-01,image capture: aug 2023,False
+44006426,True,Tesco,100,921,2024-09-01,Screenshot 2024-05-06 at 14.54.42.png,True
+44006202,True,Shell Select,95,2727,2023-06-01,Shell,False
+44007541,True,M&S,100,921,2023-04-01,59,True
+44010031,True,Tesco,100,2727,2023-06-01,Screenshot 2024-02-18 at 19.06.30.png,True
+44008615,True,Costcutter,95,1179,2022-05-01,413123123.png,True
+44008912,True,Spar,100,405,2011-07-01,0709.jpg,True
+44004569,True,BubbleRun,95,2727,2024-05-01,Google Street View,True
+44001730,True,Shell Select,95,2727,2024-05-01,screenshot_20240519-084441.png,False
+44001355,True,Shop,95,2727,2023-03-01,5,False
+44001296,True,Londis,100,2211,2024-09-01,0-Full.png,True
+44011054,True,The Kay Group,95,2727,2024-02-01,796869dd-69dd-497d-b91a-3c7492193046.jpeg,False
+44009390,True,Power,80,405,2023-06-01,Power.png,True
+44001096,True,deli by Shell,95,2727,2023-08-01,15.08.2023 Fuel prices,False
+44005404,True,SPAR,95,2727,2024-05-01,Texaco,True
+44000531,True,ASDA,95,2727,2022-05-01,screenshot_20240502_185336.png,False
+44010027,True,Tesco Extra,100,1695,2024-05-01,Screenshot 2024-05-16 at 14.57.36.png,False
+44001343,True,SPAR,100,405,2023-05-01,image.png,True
+44000187,True,EUROSPAR,100,1179,2023-03-01,Screenshot 2024-04-26 at 19.24.29.png,True
+44004552,True,Tesco,100,2469,2023-03-01,image.png,False
+44004724,True,Glentham Motors,90,2727,2021-10-01,2021 - Glentham Motors.png,True
+44006854,False,null,70,921,2023-06-01,Ivy Garage.png,True
+44002979,True,SPAR,95,921,2022-04-01,share,False
+44000205,True,Tesco Express,100,1953,2023-01,16-Tesco Express.png,False
+44005373,True,Nisa Local,95,921,2023-06-01,77c16e15-6d13-4a03-b292-db343e8435a3,True
+44000437,True,Spar,100,2727,2023-04-01,spar.PNG,False
+44002361,True,Nisa,95,405,2024-10-01,image.png,True
+44006930,True,Londis,95,2727,2024-03-01,Screenshot 2024-05-02 at 13.32.37.png,False
+44003248,True,SPAR,95,921,2022-04-01,Screenshot 2024-05-09 at 10.54.16.png,False
+44004782,True,Morrisons Daily,100,405,2024-06-01,77469855-e583-488f-a533-2d3c3985151c.jpg,True
+44006914,True,Esso Shop,95,2727,2022-10-01,9.png,False
+44008766,True,Spar,95,1179,2023-04-01,google_search.png,True
+44007595,True,Leyshon Flint,90,405,2022-11-01,A4063.png,True
+44006594,True,SPAR,100,1953,2019-09-01,image.png,False
+44010199,True,Asda,100,2727,2023-05-01,Asda Rhyl Superstore,True
+44006030,True,Tesco,95,1437,2024-09-01,4,False
+44002486,True,deli2go,95,2727,2024-02-01,7.png,False
+44007315,True,Londis,95,2727,2023-09-01,94756c45-88b3-4396-aa4b-864b82814760.png,True
+44007863,True,best-one,95,921,2020-10-01,screenshot_3.png,False
+44005666,True,ASDA Express,100,2727,2024-09-01,screenshot_1712932037.png,False
+44005827,True,Sewell on the go,100,405,2022-04-01,image.png,True
+44006684,True,SPAR,95,2727,2021-04-01,13.png,True
+44007120,True,Morrisons,95,1695,2024-09-01,google.png,True
+44008725,True,Unbranded,80,405,2024-08-01,image.png,True
+44006345,True,Asda,100,2727,2022-03-01,Asda Lancaster Superstore,True
+44007445,True,Select,95,1953,2015-07-01,443472541-0.jpg,True
+44007958,True,M&S Simply Food,100,1953,2023-10-01,A30,True
+44002272,True,M&S Food,95,2727,2024-07-01,90055602-b9ad-448b-9003-5247a9b70388.png,True
+44009874,True,lifestyle express,95,1179,2023-09-01,2 A423,True
+44001086,True,Select,95,1695,2016-03-01,Shell,False
+44002237,True,Londis,95,2727,2023-04-01,10.png,False
+44003356,True,Tesco Extra,100,2727,2022-10-01,Screenshot 2024-02-09 at 15.00.48.png,True
+44000415,True,M&S,95,1179,2024-06-01,bp.png,True
+44004028,True,Londis,100,405,2023-05-01,image.png,True
+44000777,True,M&S Simply Food,95,1953,2024-01-01,bp,False
+44003787,True,SPAR,95,1695,2024-06-01,Screenshot 2024-11-25 at 19.12.34.png,True
+44000374,True,ASDA Express,100,663,2023-11-01,Screenshot 2024-01-21 at 12.38.35.png,False
+44008429,True,Eurospar,100,405,2023-04-01,917927c0-86e4-4e54-9d98-f7c80a34b76e.jpg,True
+44002348,True,Londis,95,2727,2021-01-01,photo_2021-01-09_08-21-20.jpg,False
+44006060,True,Shop & Save,90,1437,2019-10-01,5,False
+44007711,False,null,100,2727,2017-02-01,7.png,False
+44003352,True,Shell Select,95,2727,2024-10-01,Screenshot 2024-11-20 at 16.54.33.png,False
+44004472,True,Tesco,100,1953,2023-02-01,5.png,False
+44006922,True,Spar,100,1179,2023-04-01,11 A259,True
+44009045,True,buttercup cafe,95,1179,2023-05-01,image.png,True
+44010862,True,Vivo Essentials,100,405,2023-03-01,49 A22.png,True
+44004339,True,Nisa Local,95,1437,2023-04-01,5.png,False
+44006946,True,Park Shop,95,1437,2024-07-01,4564356-3b2724f633294657.png,True
+44007852,True,Londis,95,1953,2024-08-01,Screenshot 2024-06-15 at 16.17.21.png,False
+44002991,True,Nisa,90,1437,2024-03-01,Screenshot 2024-05-03 at 12.41.05.png,False
+44006919,True,Costcutter,100,2469,2024-06-01,Screenshot_20240525_143556_Chrome.jpg,False
+44004338,True,Londis,70,921,2023-06-01,screenshot.png,True
+44002729,True,Premier,85,2469,2023-05-01,4.png,True
+44002338,True,SPAR,100,2727,2024-01-01,Jan 2024,False
+44007821,True,Tesco,95,1695,2023-05-01,Screenshot 2024-01-13 at 16.04.17.png,True
+44005603,True,SPAR,95,405,2022-08-01,image.png,True
+44002804,True,Budgens,90,2727,2023-05-01,8,False
+44000637,True,Costcutter,95,921,2023-02-01,2,False
+44004632,True,Nisa,70,1179,2024-08-01,401901227-6956d.png,True
+44005202,True,Londis,95,2469,2024-04-01,Screenshot 2024-05-01 at 10.57.51.png,False
+44002618,True,Shop,90,2211,2015-04-01,8.png,False
+44000297,True,SPAR,95,2211,2024-02-01,shell.png,False
+44008577,True,BWOC,90,1179,2023-10-01,rampsiham garage.png,True
+44010943,True,SPAR,95,2727,2024-01-01,2024-01-26-10-15-27.jpg,False
+44003942,True,Londis,95,2727,2021-09-01,Screenshot_20240112-190456.png,True
+44002530,True,ASDA,95,2727,2022-08-01,ASDA Express Petrol Station,True
+44009642,True,ASDA,95,1695,2024-06-01,Screenshot 2024-07-17 at 13.34.43.png,True
+44000622,True,Costa Express,70,1179,2024-09-01,4.png,True
+44006446,True,Trewellard Garage,90,921,2024-08-01,Photo by Martino,False
+44010767,True,Co-op,100,2211,2024-03-01,coop_08.png,False
+44005190,True,SPAR,95,2727,2017-10-01,bp,False
+44002905,True,M&S Simply Food,95,2211,2024-04-01,Apr 2024,True
+44010107,False,N/A,90,921,2022-07-01,Screenshot 2024-05-03 at 11.19.03.png,True
+44008378,True,ASDA Express,95,2727,2024-02-01,image.png,False
+44002787,True,SPAR,95,1179,2018-04-01,street_view.png,True
+44003521,True,Esso,80,405,2024-07-01,image.png,True
+44009489,True,I.G. MacCullock & Sons,90,2727,2024-09-01,Screenshot 2024-05-09 at 11.14.16.png,True
+44009589,True,SELECT,95,2727,2023-06-01,Screenshot 2024-02-25 at 12.27.12.png,False
+44004877,True,NisaLocal,95,1437,2023-08-01,3.png,False
+44003396,True,Morrisons,95,921,2024-08,Screenshot 2024-05-03 at 13.08.28.png,True
+44004414,True,Premier,90,1953,2024-06-01,Screenshot 2024-06-17 at 22.17.11.png,True
+44010151,True,Nisa Local,75,2727,2023-05-01,IMG_1769.PNG,True
+44001790,True,SPAR,90,2727,2024-05-20,6a44a85b-2521-4587-92c1-02d9f39390ca.png,False
+44011081,True,Londis,100,1437,2024-05-01,photo from May 2024,False
+44003862,True,Londis,95,1695,2023-03-01,Screenshot 2024-05-09 at 19.29.31.png,True
+44008493,True,Asda,100,921,2023-07-01,Screenshot 2024-01-14 at 21.34.33.png,True
+44008809,True,SPAR,100,921,2022-04-01,3.png,False
+44010532,True,Daytoday,95,921,2023-05-01,Screenshot 2024-05-04 at 21.20.54.png,True
+44010043,True,Tesco,100,1437,2021-11-01,20211116_211159.jpg,False
+44002478,True,Shop,90,2727,2023-06-01,Screenshot 2024-05-02 at 17.37.51.png,True
+44000167,True,Londis,95,1179,2021-09-01,Screenshot 2024-05-03 at 10.34.02.png,True
+44005842,True,Gleaner,95,405,2023-03-01,image.png,True
+44003300,True,SPAR,95,2727,2019-10-01,bp,True
+44003902,True,Spar,95,921,2023-08-01,unknown,True
+44004444,True,SPAR,95,1437,2022-08-01,Screenshot 2024-02-04 at 15.05.37.png,True
+44001918,True,Tesco Express,95,1179,2022-07-01,Screenshot 2024-02-24 at 14.12.58.png,True
+44009414,True,My Village Store,100,2727,2023-08-01,10.png,False
+44005994,True,Flour Mill,85,1695,2022-05-01,Screenshot 2024-01-26 at 19.36.26.png,True
+44009832,True,SPAR,100,1179,2024-04-01,1.png,True
+44006059,False,null,10,405,2023-03-01,image.png,True
+44004468,True,Budgens,95,1953,2024-05-01,"Broadbridge Heath, England",True
+44006879,True,Nisa,95,2211,2024-08-01,7427322d-b67f-481f-bf85-7b9657037f3d.png,True
+44005993,True,Premier,95,1179,2024-03-01,20240306_073522.jpg,False
+44005739,True,ASDA Express,100,2727,2024-09-01,292398458-93d65d35-e548-450c-b0a9-6d205a423764.jpeg,False
+44003039,True,Co-op,90,2727,2024-11-01,Photo - Nov 2024,False
+44010059,True,The co-operative food,95,1437,2024-07-01,2024-07-5 School Rd - Street View.png,True
+44010576,True,Double-5,95,405,2021-09-01,image.png,True
+44002503,True,Shell,95,1179,2023-05-01,Screenshot 2024-02-10 at 21.20.20.png,True
+44003386,True,SPAR,95,2727,2024-08-01,Screenshot 2024-08-20 at 13.30.17.png,True
+44006793,True,Rock Garage Shop,95,921,2023-10-01,Texaco,True
+44006807,True,ASDA,95,1437,2023-07-01,Screenshot 2024-05-08 at 13.42.49.png,True
+44009134,True,SPAR,95,921,2022-04-01,Screenshot 2024-05-04 at 21.02.55.png,False
+44004080,True,Synergy,70,921,2022-09-01,Screenshot 2024-01-08 at 21.11.04.png,False
+44004115,True,Asda,95,1437,2023-08-01,Screenshot 2024-05-06 at 15.12.05.png,False
+44010334,False,null,100,2727,2023-05-01,05.png,True
+44006310,True,Shell Select,95,2727,2023-04-01,Shell,False
+44010709,False,null,100,1695,2024-06-01,Screenshot 2024-06-28 at 23.19.56.png,False
+44007319,True,Spar,90,921,2024-04-01,Screenshot 2024-05-01 at 16.58.12.png,True
+44009040,False,null,95,405,2023-05-01,image.png,True
+44001036,True,Mace,95,405,2024-07-01,image.png,True
+44006217,True,Premier,95,405,2023-06-01,image.png,True
+44008040,True,Londis,95,1953,2023-08-01,Screenshot 2024-01-07 at 13.27.38.png,False
+44010632,True,Unbranded,60,1179,2021-10-01,Screenshot 2024-05-05 at 14.14.15.png,True
+44007195,True,Texaco,80,2727,2023-03-01,Texaco BaberBridge Service Station,True
+44002258,True,deli2go,90,2727,2017-09-01,Shell,False
+44006298,True,Asda,95,921,2022-06-01,Screenshot 2024-05-03 at 14.58.35.png,True
+44004139,True,Premier Stores,90,2727,2023-08-01,27 A417,True
+44003928,True,Spar,95,2727,2024-11-01,Shell,False
+44002142,True,Spar,95,1953,2021-05-01,photo_3.png,False
+44008210,True,Co-op,95,405,2023-06-01,image.png,True
+44002692,True,Gleaner,95,2727,2023-07-01,2.png,True
+44010867,True,Pace,80,405,2023-08-01,836395fd-3508-4616-98e4-48037e2546b3.jpg,True
+44008820,True,Nisa Local & Post Office,95,921,2024-05-01,211 Firs Ln,True
+44004758,True,The co-operative food,95,405,2024-05-01,image.png,True
+44009673,True,ASDA,95,663,2024-06-01,Screenshot 2024-06-12 at 07.37.26.png,True
+44009878,True,Shop,90,1437,2024-08-01,Screenshot 2024-10-26 at 12.49.05.png,True
+44003316,True, রোলওভার FUEL UP,70,1179,2023-04-01,image.png,True
+44003939,True,Co-op,100,405,2023-06-01,774779dd-5b30-4d8a-9e63-944161950527.jpg,True
+44009999,True,Tesco Extra,100,1437,2024-05-01,Screenshot 2024-05-19 at 20.17.26.png,True
+44000116,True,M&S Simply Food,95,921,2023-06-01,bp.png,True
+44001098,True,Tesco Express,100,405,2023-05-01,271 A35.png,True
+44002110,True,Londis,100,2727,2024-09-01,875 Harrow Rd,True
+44002432,True,SPAR,100,1695,2024-09-01,A591,True
+44001080,True,SPAR,100,1953,2022-09-01,S SPAR Hull Road,False
+44001366,True,SPAR,95,2727,2023-03-01,Screenshot_20240502-130237_Chrome.jpg,True
+44001307,True,SPAR,95,1179,2022-04-01,screenshot_1.png,False
+44005915,True,Asda Express,100,405,2024-08-01,image.png,True
+44005234,True,SPAR,100,2727,2023-06-01,3e7b178c-ddf7-477f-a9b6-4cae48b8a948.png,True
+44003223,False,,80,405,2022-06-01,49888896-d07c-4a77-866d-6c6091dbf84f.jpg,True
+44001155,True,Unknown,50,405,2022-10-01,image.png,True
+44005367,True,Morrisons,100,1179,2023-07-01,morrisons.png,False
+44005039,True,Premier,95,2727,2023-11-01,384700057_1131276053546301_7701018100136719458_n.jpg,False
+44006735,True,Rhydymwyn Service Station,95,2727,2023-03-01,Screenshot 2024-03-30 at 14.54.20.png,True
+44000498,True,Shell,95,2211,2024-06-01,Screenshot 2024-06-20 at 21.33.21.png,True
+44010021,True,Tesco,95,1953,2023-03-01,2-0.png,True
+44007425,True,Murco,90,1179,2024-07-01,3.png,True
+44007616,True,Unknown,50,405,2023-06-01,image.png,True
+44003998,True,Unknown,90,2727,2024-08-01,"E.T. James and Son, Fairfield Filling ...",True
+44002291,True,NisaLocal,95,2727,2024-05-01,image.png,False
+44005263,True,SELECT,95,2211,2022-07-01,3-Full.jpg,True
+44008131,True,Spar,95,921,2024-10-01,Screenshot 2024-11-02 at 20.42.08.png,True
+44007286,True,celShop,75,405,2024-06-02,vision_model,False
+44000417,True,SPAR,100,405,2023-07-01,image.png,True
+44005270,True,Morrisons Daily,95,2211,2024-08-01,2196478334456118481,False
+44010457,True,Texaco,75,1695,2024-06-01,Screenshot 2024-06-23 at 13.31.42.png,False
+44009983,True,Tesco,95,921,2022-06-01,image.png,True
+44008686,True,Costcutter,95,921,2024-06-01,Screenshot 2024-06-13 at 19.27.04.png,False
+44002521,True,Morrisons Daily,95,2469,2023-05-01,16-Morrisons Daily.png,False
+44000978,True,Shell Select,95,2469,2024-09-01,03.png,False
+44006618,True,SPAR,95,921,2022-04-01,Google.png,False
+44000773,True,Spar,100,2469,2023-07-01,Maxol Service Station Ballyholme,False
+44009337,True,AMS Plumbing & Bathrooms,90,1695,2024-07-01,screenshot_1699709608.png,True
+44010678,False,N/A,90,1179,2023-07-01,56 Long St,True
+44008732,True,Village Shop,95,2727,2021-11-01,Strontian Petrol Station - Stephen Kelly,False
+44006413,True,Night Pay,95,2727,2023-08-01,photo from Aug 2023,False
+44010896,False,null,100,405,2021-06-01,72749987-4668-5811-b231-757540a4097b.jpg,True
+44010855,True,SPAR,95,1953,2022-04-01,5.png,False
+44009933,True,Budgens,95,2469,2024-11-01,Screenshot_20240226_140623_Google.jpg,False
+44002734,True,Nisa Local,95,921,2023-05-01,screenshot_1.png,True
+44002534,True,SPAR,95,1437,2022-08-01,2.png,False
+44002705,True,Budgens,80,2727,2020-07-01,Shell,False
+44007846,True,Centra,95,921,2023-07-01,screenshot_1.png,True
+44005027,True,Shell Select,95,2727,2019-12-01,7293098196-0019.jpg,True
+44001791,True,Welford Garage,90,2727,2019-12-01,image capture Dec 2019,False
+44002727,True,Shop,90,2211,2023-05-01,Screenshot 2024-05-07 at 16.11.55.png,True
+44005894,True,Premier,95,405,2023-05-01,image.png,True
+44001692,True,SPAR,95,2727,2022-01-01,Screenshot 2024-02-17 at 23.33.30.png,False
+44008166,True,Tesco,95,1695,2024-08-01,Tesco Petrol Station,True
+44000784,True,Londis,95,1695,2023-06-01,bp,False
+44002745,True,Londis,90,1953,2024-03-01,photo_1650632449178.jpg,False
+44003096,True,Tesco,100,1179,2023-06-01,2.png,True
+44001627,True,Morrisons Daily,95,2727,2024-08,6,True
+44002619,True,M&S FOOD,95,2469,2024-02-01,bp,False
+44007025,True,ASDA,95,405,2022-08-01,85711479-517c-4245-9240-429167f44232.jpg,True
+44007462,True,Tesco,100,2211,2024-01-01,11.png,False
+44002317,True,mfg,80,2727,2021-09-01,03175799196994708390-0,False
+44004099,True,Shell Select,90,2727,2024-06-01,10 B439.png,True
+44008349,True,ASDA Express,100,921,2024-10-01,Screenshot 2024-10-26 at 23.13.41.png,True
+44001979,True,Eurospar,90,2727,2021-08-01,Screenshot 2024-03-21 at 19.48.18.png,False
+44001006,True,Texaco,95,663,2024-08-01,216 Henwick Rd,True
+44003078,True,Londis,95,2727,2024-08-01,Screenshot 2024-05-04 at 21.20.36.png,True
+44009801,True,SPAR,95,921,2022-04-01,Screen Shot 2024-05-03 at 11.58.07.png,False
+44007933,True,Londis,95,2727,2022-09,2.png,False
+44005598,True,M&S,80,2727,2024-02-01,2.png,False
+44010067,True,Premier,95,1953,2024-08-01,Texaco Preston,False
+44001019,True,Fleetville Convenience Store,95,1437,2024-08-01,Screenshot_20240829_163706_Chrome.jpg,False
+44002180,True,Shell Select,95,2727,2023-09-01,10,False
+44002711,True,Esso,90,2727,2024-08-01,Screenshot_20240821_122239_Google.jpg,True
+44009379,True,Premier,95,1437,2024-05-01,image capture: May 2024,True
+44010020,True,Tesco,95,2727,2023-10-01,10.png,False
+44008525,True,SPAR,95,1953,2024-10-01,image_capture_Oct_2024,False
+44006572,True,Murco,95,1179,2024-06-01,Screenshot 2024-06-26 at 19.27.20.png,True
+44007468,True,Welcome Break,95,2727,2021-08-01,bp,False
+44000358,True,Spar,95,2727,2022-10-01,Maggie Hall Service Station,True
+44000760,True,SPAR,95,2469,2023-03-01,9.png,False
+44006251,True,Tesco Express,95,2469,2020-03-01,9.png,False
+44003018,True,ASDA Express,100,921,2024-07-01,362 A638,True
+44006534,True,Premier,100,1953,2024-06-01,bp,True
+44003150,True,Co-op,95,2727,2024-02-01,google_maps_capture.png,False
+44001111,True,Spar,95,2727,2024-05-01,Screenshot 2024-05-16 at 12.56.25.png,True
+44003813,True,Londis,95,2727,2023-02-01,Screenshot 2024-04-29 at 18.41.12.png,False
+44005144,True,Morrisons Daily,100,1179,2024-07-01,Morrisons Petrol Station,False
+44006280,True,Spar,100,1695,2022-04-01,Photo - Apr 2022,False
+44000477,True,Londis,95,1437,2023-11-01,Stephen Graham,False
+44000566,True,Londis,95,2727,2024-08-01,bp.png,False
