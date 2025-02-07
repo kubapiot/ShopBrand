@@ -198,6 +198,9 @@ if __name__ == "__main__":
                             Is there a convenience store at the site?
                             If yes - what is the likely brand of the store (this may be different to the brand of the petrol station itself). 
                             Do not use coffee brands as shop brand - for instance Costa Coffee, Starbucks, etc. are not convenience stores.
+                            Costa is not a shop brand . Costa Express is not a shop brand. Costco sites do not have a shop.
+                            Some of the common shop brands include Londis, Spar, Nisa, Premier, Budgens, Co-op, Tesco Express, Sainsbury's Local, Morrisons Daily, Asda, ASDA Express, M&S Simply Food, BP Connect, Shell Select, Esso On the Run, Shop'n Drive, etc.
+                            Only use the common shop brands if you can clearly identify the sign on the shop or priceboard.
                             Pay attention to dates shown on photos. Use the brand name from recent photos over older photos.
                             Return JSON only with the following fields: hasShop (boolean), shopBrand (string), accuracy (int), usedPhotoFileName, usedPhotoDate (date), isStreetViewPhoto (boolean)
                          """

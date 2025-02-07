@@ -157,9 +157,17 @@ with col1:
         else:
             st.info("No changes detected.")
 
+        # Read the original CSV file
+        original_df = pd.read_csv('gemini_output.csv')
 
+        # Update the original DataFrame with the new brand information
+        for _, row in changes.iterrows():
+            site_id = row['SiteID']
+            new_brand = row['new_brand']
+            original_df.loc[original_df['SiteID'] == site_id, 'shopBrand'] = new_brand
 
-
+        # Write the updated DataFrame back to the CSV file
+        original_df.to_csv('gemini_output.csv', index=False)
    
 # Check if a row is selected
 selected_rows = grid_response.get('selected_rows', [])
@@ -186,7 +194,3 @@ if not selected_rows is None and len(selected_rows) > 0:
                 st.image(response.content)
         else:
             st.warning(f"No images found for SiteID: {site_id}")
-
-
-
-
