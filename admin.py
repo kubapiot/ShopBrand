@@ -76,7 +76,7 @@ def get_images(siteid):
 # Display site grid with AgGrid
 
 with col1:
-    site_grid = df[['SiteID', 'hasShop', 'shopBrand', 'accuracy', 'Tokens']].reset_index(drop=True)
+    site_grid = df[['SiteID','NetWatchBrand',  'hasShop', 'shopBrand', 'accuracy', 'Tokens']].reset_index(drop=True)
 
     # Define dropdown options for `shopBrand`
     brand_options = sorted(df['shopBrand'].dropna().unique().tolist())
