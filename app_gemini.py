@@ -6,7 +6,7 @@ import base64
 import json
 import os
 import google.generativeai as genai  # Import the Gemini library
-
+import re
 
 # Configure Gemini API key
 genai.configure(api_key=st.secrets["GEMINI_API_KEY"])
@@ -87,6 +87,25 @@ def get_site_image_urls(siteid, server_url, images_folder):
     image_urls = [f"{server_url}/static/images/{file}" for file in matching_files]
     return image_urls
 
+def clean_json_string(json_string):
+    """Cleans up a potentially messy JSON string from a language model."""
+
+    json_string = json_string.strip()  # Remove leading/trailing whitespace
+
+    if json_string.startswith("```json"):
+        json_string = json_string[7:]
+    if json_string.endswith("```"):
+        json_string = json_string[:-3]
+
+    # Remove excessive escape characters
+    json_string = json_string.replace('\\"', '"').replace('\\', '')
+
+    json_string = json_string.replace('True', 'true').replace('False', 'false').replace('None', 'null')
+
+    # Generic fix for newlines within string values.
+    json_string = json_string.replace('\n', ' ')
+
+    return json_string
 
 def call_gemini_with_images(images, prompt_text, siteid, output_csv):
     """
@@ -125,14 +144,21 @@ def call_gemini_with_images(images, prompt_text, siteid, output_csv):
         try:
             #  Clean up response.text to be valid JSON (remove backticks, replace ' with ", fix bool/null)
             json_string = response.text.strip()  # Remove leading/trailing whitespace
-            if json_string.startswith("```json"):
-                json_string = json_string[7:]
-            if json_string.endswith("```"):
-                json_string = json_string[:-3]
-            json_string = json_string.replace("'", '"').replace('True', 'true').replace('False', 'false').replace('None', 'null')
+            # if json_string.startswith("```json"):
+            #     json_string = json_string[7:]
+            # if json_string.endswith("```"):
+            #     json_string = json_string[:-3]
 
-            print(f"Cleaned JSON string: {json_string}")  # Debug print
-            response_json = json.loads(json_string, object_hook=lambda d: SimpleNamespace(**d))
+            # json_string = re.sub(r"(\w+)\s*:\s*'([^']*)'", r'\1: "\2"', json_string)
+            # json_string = re.sub(r":\s*'([^']*)'", r': "\1"', json_string)
+
+            # json_string = json_string.replace("'", '"').replace('True', 'true').replace('False', 'false').replace('None', 'null')
+
+            # print(f"Cleaned JSON string: {json_string}")  # Debug print
+
+            cleaned_json = clean_json_string(json_string)
+
+            response_json = json.loads(cleaned_json, object_hook=lambda d: SimpleNamespace(**d))
 
 
         except json.JSONDecodeError as e:
@@ -211,5 +237,8 @@ if __name__ == "__main__":
             continue
 
         images = get_site_image_paths(siteid)
+        #limit to 8 images
+        images = images[:8]
+        
         print(f"Processing SiteID: {siteid}, Images: {images}")  # Debug print
         call_gemini_with_images(images, prompt_text, siteid, output_csv)
